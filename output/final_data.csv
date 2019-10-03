@@ -1,0 +1,1063 @@
+,type,Name,year,director,address,lat,lon,borough,complaints.count.freq,Style_Sec,Mat_Prim,Use_Orig,nbhd,imdb,TEL,URL,system
+1,landmarks,140-154 W. 72 REALTY,1920,,140 WEST 72 STREET,40.77797454,-73.98015085,Manhattan,13,Queen Anne,Brownstone,"Mixed-use, commercial & residential",,,,,NA
+2,landmarks,THOMAS STREET LLC,1900,,90 GRAND STREET,40.72172475,-74.00206038,Manhattan,8,French,Stone,"Commercial, store and warehouse",,,,,NA
+3,landmarks,"NAHAR, KAMRUN",1930,,35-16 87 STREET,40.751604,-73.879924,Queens,8,neo-Tudor,Brick,"Outbuilding, garage",,,,,NA
+4,landmarks,GROVE EQUITIES,1900,,43 GROVE STREET,40.732829,-74.004272,Manhattan,7,neo-Grec,Flemish-Bond Brick,"Residential, single-family",,,,,NA
+5,landmarks,FAIR INTERIORS INC,1922,,37-55 82 STREET,40.749391,-73.884237,Queens,7,neo-Georgian,Brick,Commercial,,,,,NA
+6,landmarks,"CHELSEA SQUARE, LLC",1910,,436 WEST 20 STREET,40.745101,-74.003854,Manhattan,6,Italianate,Brick,Residential,,,,,NA
+7,landmarks,"CASTRO, PASTORA",1899,,109 NOBLE STREET,40.728583,-73.956181,Brooklyn,5,neo-Grec,Wood Frame,Residential,,,,,NA
+8,landmarks,177 WEST 83 ST HSG ET,1900,,177 WEST 83 STREET,40.785645,-73.9760412,Manhattan,5,neo-Grec,Brick,"Residential, multi-family",,,,,NA
+9,landmarks,70 LEFFERTS LLC,1899,,70 LEFFERTS PLACE,40.681257,-73.960614,Brooklyn,5,Italianate,Wood Clapboard,"Residential, single family",,,,,NA
+10,landmarks,"WILLIAMS, THEODORE S",1931,,384 VANDERBILT AVENUE,40.685709,-73.968364,Brooklyn,5,neo-Grec,Brownstone,Residential,,,,,NA
+11,landmarks,18 20 PARK 84TH CORP,1910,,20 EAST 84 STREET,40.7798298,-73.9604648,Manhattan,5,neo-Federal,Flemish-Bond Brick,"Residential, single-family",,,,,NA
+12,landmarks,233 BLEECKER STREET L,1920,,15 CARMINE STREET,40.7304748,-74.0025464,Manhattan,5,Italianate,Wood Frame,"Mixed-use, commercial & residential",,,,,NA
+13,landmarks,18 20 PARK 84TH CORP,1910,,20 EAST 84 STREET,40.7798298,-73.9604648,Manhattan,5,neo-Federal,Flemish-Bond Brick,"Residential, single-family",,,,,NA
+14,landmarks,"SAENNGARM, CHAT CHAI",1930,,35-56 87 STREET,40.751055,-73.879824,Queens,5,neo-Tudor,Brick,"Outbuilding, garage",,,,,NA
+15,landmarks,"THE A.J.D. BUILDING,",1910,,427 BROADWAY,40.7199862,-74.0015694,Manhattan,5,French Renaissance,Cast Iron,"Commercial, warehouse",,,,,NA
+16,landmarks,CHOLLA 893 LLC,2000,,893 BROADWAY,40.7387424,-73.9899928,Manhattan,5,Modern,Cast Iron,"Mixed-use, commercial & residential",,,,,NA
+17,landmarks,"APHIS REALTY, INC.",1910,,676 AVENUE OF THE AMER,40.7416112,-73.9933672,Manhattan,5,Modern,Brick,"Commercial, stores",,,,,NA
+18,landmarks,214 VAN BUREN LLC,1899,,33 CLIFTON PLACE,40.687768,-73.963199,Brooklyn,4,neo-Grec,Brownstone,Residential,,,,,NA
+19,landmarks,17 EAST 71 STREET LLC,1910,,17 EAST 71 STREET,40.771366,-73.96654,Manhattan,4,Queen Anne (original),Stone,Residential,,,,,NA
+20,landmarks,77 BLEECKER ST CORP,1930,,77 BLEECKER STREET,40.72687425,-73.995565,Manhattan,4,Contemporary,Steel Frame,"Commercial, stores",,,,,NA
+21,landmarks,EDMOND MARTIN REAL ES,1910,,16 CHRISTOPHER STREET,40.73386525,-74.0005085,Manhattan,4,neo-Grec,Brick,Residential,,,,,NA
+22,landmarks,"CLEMENTS, JACQUELINE",1899,,309 WEST 80 STREET,40.785151,-73.980937,Manhattan,4,Renaissance,Tan Brick,"Residential, single-family",,,,,NA
+23,landmarks,OSBORNE TENANTS CORP,1900,,205 WEST 57 STREET,40.765704,-73.980452,Manhattan,4,Renaissance Revival,Rusticated Stone,"Residential, multi family",,,,,NA
+24,landmarks,"BLOCK, EVYN",1899,,137 ST JAMES PLACE,40.685499,-73.964189,Brooklyn,4,Greek Revival,Brick,Residential,,,,,NA
+25,landmarks,"DJT ASSOCIATES, LLC",1930,,284 CARLTON AVENUE,40.688995,-73.972029,Brooklyn,4,Italianate,Brick,Residential,,,,,NA
+26,landmarks,105 WEST 72ND CONDOMI,1913,,105 WEST 72 STREET,40.77763,-73.979296,Manhattan,4,Stylized Churrigueresque,Brick,"Residential, multi-family",,,,,NA
+27,landmarks,ROTHSTEIN EDWARD,1901,,155 WEST 78 STREET,40.78192,-73.977504,Manhattan,4,neo-Grec,Brownstone,Residential,,,,,NA
+28,landmarks,"W SQUARED, LLC",2004,,92 LAIGHT STREET,40.722393,-74.010538,Manhattan,4,Romanesque Revival,Red Brick,"Commercial, warehouse",,,,,NA
+29,landmarks,NEW 1804 WASH CORP,1800,,49 IRVING PLACE,40.73584875,-73.987526,Manhattan,4,Italianate,Red Brick,Residential,,,,,NA
+30,landmarks,UPAM REALTY CORP,1931,,37-57 82 STREET,40.749388,-73.884234,Queens,4,neo-Georgian,Brick,Commercial,,,,,NA
+31,landmarks,"MINCHALA, SEGUNDO MAN",1930,,35-51 87 STREET,40.751124,-73.879813,Queens,4,neo-Georgian,Red Brick,Residential,,,,,NA
+32,landmarks,77 BLEECKER ST CORP,1930,,77 BLEECKER STREET,40.72687425,-73.995565,Manhattan,4,Contemporary,Steel Frame,"Commercial, stores",,,,,NA
+33,landmarks,7 WEST 82,1890,,7 WEST 82 STREET,40.782945,-73.971766,Manhattan,4,Queen Anne,Brownstone,Residential,,,,,NA
+34,landmarks,60 HUDSON OWNERS LLC,1930,,56 HUDSON STREET,40.717876,-74.008939,Manhattan,3,Art Deco,Steel Frame,"Commercial, offices",,,,,NA
+35,landmarks,GLORIA PATTON,1899,,205 GREENE AVENUE,40.686962,-73.963715,Brooklyn,3,neo-Grec,Brownstone,Residential,,,,,NA
+36,landmarks,175 WEST 88 T LLC,1901,,175 WEST 88 STREET,40.788613,-73.973147,Manhattan,3,Renaissance Revival,Stone,Residential,,,,,NA
+37,landmarks,"ROYER, THEODORE W",1910,,268 CLERMONT AVENUE,40.690024,-73.970248,Brooklyn,3,Greek Revival,Wood Frame,Residential,,,,,NA
+38,landmarks,"WALLACE, COLETTE",1910,,73 BAINBRIDGE STREET,40.680624,-73.934136,Brooklyn,3,neo-Renaissance,Stone,Residential,,,,,NA
+39,landmarks,"CONIGLIO, ANTOINETTE",1900,,162 WEST 88 STREET,40.788495,-73.972912,Manhattan,3,Romanesque,Brownstone,Residential,,,,,NA
+40,landmarks,GARFIELD LAWRENCE 714,1940,,714 MADISON AVENUE,40.766262,-73.969474,Manhattan,3,neo-Grec,Brownstone,Residential,,,,,NA
+41,landmarks,PARTITA PARTNERS,1930,,964 LEXINGTON AVENUE,40.769356,-73.962995,Manhattan,3,Italianate (original),Brownstone,Residential,,,,,NA
+42,landmarks,AMERICAN YOUTH HOSTEL,1950,,881 AMSTERDAM AVENUE,40.798838,-73.966865,Manhattan,3,neo-Grec,Red Brick,"Institutional, charitable, nursing home",,,,,NA
+43,landmarks,THE PERMANENT MISSION,1920,,39 EAST 74 STREET,40.77296,-73.96412,Manhattan,3,Queen Anne (original),Brick,Residential,,,,,NA
+44,landmarks,130 WEST 70 LLC,1910,,130 WEST 70 STREET,40.77646467,-73.980621,Manhattan,3,Queen Anne,Brownstone,Residential,,,,,NA
+45,landmarks,"DIJI, AUGUSTINE",1930,,216 GREENE AVENUE,40.687065,-73.962691,Brooklyn,3,neo-Grec,Brownstone,Residential,,,,,NA
+46,landmarks,"107 WEST 69TH STREET,",1910,,107 WEST 69 STREET,40.775668,-73.980622,Manhattan,3,Romanesque Revival,Brownstone,Residential,,,,,NA
+47,landmarks,"SPOLLEN, JIE",1926,,10 ST NICHOLAS PLACE,40.827292,-73.942367,Manhattan,3,Renaissance,Rough-faced Stone,"Residential, single family",,,,,NA
+48,landmarks,100 WEST 74TH STREET,1920,,100 WEST 74 STREET,40.77862367,-73.978013,Manhattan,3,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+49,landmarks,METROPOLITIAN TIMES S,1900,,123 WEST 44 STREET,40.756491,-73.983977,Manhattan,3,Northern Gothic,Brick,"Commercial, hotel",,,,,NA
+50,landmarks,WALSAM SIXTH AVE CO,1900,,389 AVENUE OF THE AMER,40.733118,-73.999935,Manhattan,3,Federal (original),Brick,Residential,,,,,NA
+51,landmarks,"KULAHLIOGLU, EROL",1935,,34-32 83 STREET,40.752846,-73.883939,Queens,3,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+52,landmarks,"BELUGA PROPERTIES, LL",1899,,241 WEST 11 STREET,40.736277,-74.002923,Manhattan,3,Italianate,Brick,Residential,,,,,NA
+53,landmarks,OWNER / AGENT,1915,,220 WEST BROADWAY,40.71916567,-74.00655333,Manhattan,3,Queen Anne,Cast Iron,"Commercial, warehouse",,,,,NA
+54,landmarks,"CHATOV, L.L.C.",1914,,68 JAY STREET,40.70284167,-73.986676,Brooklyn,3,Queen Anne,Brick,"Industrial, factory",,,,,NA
+55,landmarks,WILLIAM GOTTLIEB,1915,,165 WAVERLY PLACE,40.73350633,-74.00122333,Manhattan,3,Greek Revival,Brick,"Civic, hospital",,,,,NA
+56,landmarks,MARC SALIH,1930,,35-37 86 STREET,40.751827,-73.880887,Queens,3,neo-Georgian,Brick,"Outbuilding, garage",,,,,NA
+57,landmarks,"GUIRACOCHA, PIEDAD",1935,,34-44 83 STREET,40.752563,-73.883889,Queens,3,neo-Georgian,Red Brick,Residential,,,,,NA
+58,landmarks,895 BROADWAY OWNER LL,1915,,895 BROADWAY,40.73886133,-73.989861,Manhattan,3,neo-Renaissance,Limestone,"Commercial, department store",,,,,NA
+59,landmarks,ELLIANA 27 E. 92 LLC,1910,,1296 MADISON AVENUE,40.78484867,-73.95634367,Manhattan,3,Queen Anne,Brick,Residential,,,,,NA
+60,landmarks,"PELATTI, GREG",1899,,365 DECATUR STREET,40.681904,-73.929535,Brooklyn,3,Italianate,Brick,Residential,,,,,NA
+61,landmarks,"STRUGATZ, DONNA",1908,,14 WEST 4 STREET,40.72818433,-73.994832,Manhattan,3,Italianate,Brick,"Residential, multi-family",,,,,NA
+62,landmarks,"GEBALLE , RACHEL DINE",1899,,590 11 STREET,40.664159,-73.979433,Brooklyn,3,Romanesque Revival,Brownstone,Residential,,,,,NA
+63,landmarks,MARTINEZ MANUEL,1910,,193 ATLANTIC AVENUE,40.689934,-73.993217,Brooklyn,3,Modern,Brick,"Mixed-use, commercial & residential",,,,,NA
+64,landmarks,W & W REALTY ASSOCIAT,1926,,51 7 AVENUE,40.731418,-74.004048,Manhattan,3,"Arts & Crafts, altered",Brick,"Residential, multi-family",,,,,NA
+65,landmarks,WEST EIGHTIES GROUP I,1940,,494 AMSTERDAM AVENUE,40.78637833,-73.97616867,Manhattan,3,Queen Anne,Brick,"Residential, multi-family",,,,,NA
+66,landmarks,10TH ST. WEST VILLAGE,1910,,130 WEST 10 STREET,40.734636,-74.000263,Manhattan,3,Greek Revival,Brick,Residential,,,,,NA
+67,landmarks,TAYLOR COLE PROPERTIE,1910,,67 MIDWOOD STREET,40.659633,-73.958472,Brooklyn,3,neo-Renaissance,Roman Brick,Residential,,,,,NA
+68,landmarks,"SCHWISTER, DANA",1930,,34-49 84 STREET,40.752612,-73.882925,Queens,3,neo-Georgian,Red Brick,Residential,,,,,NA
+69,landmarks,24 WEST 70TH ST. APT.,1910,,24 WEST 70 STREET,40.775275,-73.977795,Manhattan,2,Romanesque,Brownstone,Residential,,,,,NA
+70,landmarks,MOHAWK HOUSING ASSOC,1905,,379 WASHINGTON AVENUE,40.687497,-73.9651465,Brooklyn,2,Romanesque Revival,Brownstone,"Residential, multi-family",,,,,NA
+71,landmarks,LYNTON MICHAEL M,1900,,48 WEST 70 STREET,40.775484,-73.978293,Manhattan,2,neo-Grec,Brick,Residential,,,,,NA
+72,landmarks,ELK 300 BLEEKER LLC,1900,,300 BLEECKER STREET,40.73256,-74.003771,Manhattan,2,Federal (late)(original),Flemish-Bond Brick,"Mixed-use, commercial & residential",,,,,NA
+73,landmarks,"HURTADO, PAOLA",1901,,860 ST JOHNS PLACE,40.671588,-73.949542,Brooklyn,2,Renaissance Revival,Rustic Brick,Residential,,,,,NA
+74,landmarks,BLUE WATER HEAD HOLDI,1910,,872 LEXINGTON AVENUE,40.766167,-73.965322,Manhattan,2,Italianate (original),Stucco,"Residential, multi-family",,,,,NA
+75,landmarks,105-115 WEST 74TH ST,1910,,113 WEST 74 STREET,40.778997,-73.978444,Manhattan,2,neo-Grec,Brick,Residential,,,,,NA
+76,landmarks,"CHEN, RUI",1935,,34-28 88 STREET,40.753407,-73.879304,Queens,2,neo-Georgian,Red Brick,Residential,,,,,NA
+77,landmarks,BRILL MARCIA,1899,,110 WEST WASHINGTON PLCE,40.73256,-74.001028,Manhattan,2,Queen Anne,Flemish-Bond Brick,Residential,,,,,NA
+78,landmarks,"MORTENSON, RAY",1899,,24 BANK STREET,40.736988,-74.002631,Manhattan,2,Gothic Revival,Brick,Residential,,,,,NA
+79,landmarks,"WOODRUFF, NANCY A",1899,,891 UNION STREET,40.67394,-73.974091,Brooklyn,2,Queen Anne,Brick,Residential,,,,,NA
+80,landmarks,1125 LORIMER ST HSNG,1949,,1125 LORIMER STREET,40.728444,-73.9544705,Brooklyn,2,neo-Federal,Red Brick,"Residential, multi-family",,,,,NA
+81,landmarks,ERICA LINDSAY ASSOC,1905,,309 WASHINGTON AVENUE,40.6895695,-73.9660325,Brooklyn,2,neo-Renaissance Revival,Rock-faced Brownstone,"Residential, multi-family",,,,,NA
+82,landmarks,ATLANTIC HENRY CONDOM,1900,,119 ATLANTIC AVENUE,40.690846,-73.996509,Brooklyn,2,Romanesque Revival,Brick,"Mixed-use, commercial & residential",,,,,NA
+83,landmarks,140-142 WEST SEVENTIE,1900,,142 WEST 70 STREET,40.776527,-73.980766,Manhattan,2,Queen Anne,Brownstone,Residential,,,,,NA
+84,landmarks,KHEDOURI K EZAIR CORP,1920,,905 MADISON AVENUE,40.772252,-73.965077,Manhattan,2,Queen Anne (original),Stucco,Residential,,,,,NA
+85,landmarks,HENRY A. PINCUS TRUST,1915,,311 WEST 4 STREET,40.737221,-74.003785,Manhattan,2,neo-Grec,Flemish-Bond Brick,Residential,,,,,NA
+86,landmarks,YOUNG ISRAEL OF JACKS,1930,,35-36 87 STREET,40.75133,-73.879874,Queens,2,neo-Tudor,Brick,Residential,,,,,NA
+87,landmarks,"FEBBRARO, JOANNE L",1930,,205 38 ROAD,40.77173,-73.751822,Queens,2,Beaux-Arts,Wood Frame,"Residential, single-family",,,,,NA
+88,landmarks,17 CADMAN PLAZA WEST,1925,,17 OLD FULTON STREET,40.702601,-73.993663,Brooklyn,2,Italianate,Brick,"Mixed-use, commercial & residential",,,,,NA
+89,landmarks,JAY HOUSING CORP,1915,,13 JAY STREET,40.718043,-74.009827,Manhattan,2,neo-Grec,Cast Iron,"Commercial, store and lofts",,,,,NA
+90,landmarks,"110 EAST 73RD STREET,",1899,,110 EAST 73 STREET,40.771544,-73.962763,Manhattan,2,neo-Renaissance,Red Brick,Residential,,,,,NA
+91,landmarks,"158 EASTMAN, LLC",1900,,449 WEST 22 STREET,40.746539,-74.003483,Manhattan,2,French Second Empire,Brownstone,Residential,,,,,NA
+92,landmarks,"MURPHY, EMMA",1910,,157 PROSPECT PLACE,40.678178,-73.971273,Brooklyn,2,Second Empire,Brownstone,Residential,,,,,NA
+93,landmarks,NEW YORK FRENCH SOUND,1927,,547 5 AVENUE,40.755617,-73.979318,Manhattan,2,Near Eastern,Steel Frame,"Commercial, offices",,,,,NA
+94,landmarks,LOWREN MANAGEMENT COR,1905,,691 NOSTRAND AVENUE,40.673687,-73.950128,Brooklyn,2,Colonial Revival,Brick,"Residential, multi-family",,,,,NA
+95,landmarks,"POLLOCK, JANE",1910,,133 WEST 78 STREET,40.781733,-73.97706,Manhattan,2,Romanesque Revival,Stone,Residential,,,,,NA
+96,landmarks,AP TENANTS CORPORATIO,1900,,124 ATLANTIC AVENUE,40.689918,-73.99585,Brooklyn,2,French Second Empire,Stone,Commercial,,,,,NA
+97,landmarks,"POM HOLDINGS, LLC",1930,,1879 PUTNAM AVENUE,40.703042,-73.903902,Queens,2,Romanesque Revival,Yellow Brick,"Residential, multi-family",,,,,NA
+98,landmarks,910 FIFTH AVE,1959,,910 5 AVENUE,40.772415,-73.966525,Manhattan,2,neo-Italianate Renaissance (original),White Brick,"Residential, multi-family",,,,,NA
+99,landmarks,"231 GREENE AVENUE, LL",1905,,231 GREENE AVENUE,40.687082,-73.962695,Brooklyn,2,Italianate,Brownstone,"Mixed-use, commercial & residential",,,,,NA
+100,landmarks,200 FIFTH OWNER LLC,1920,,23 WEST 23 STREET,40.741975,-73.99056,Manhattan,2,Late-19th century Commercial,Brick,Residential,,,,,NA
+101,landmarks,"KENNY, MARIA SANABRIA",1901,,491 13 STREET,40.662639,-73.979739,Brooklyn,2,Italian Renaissance,Not determined,Residential,,,,,NA
+102,landmarks,"KACZOR, MAREK",1931,,832 MANHATTAN AVENUE,40.728577,-73.953507,Brooklyn,2,Art Deco,Brick,"Mixed-use, commercial & residential",,,,,NA
+103,landmarks,COLUMBIA GRAMMAR SCHO,1900,,20 WEST 94 STREET,40.790689,-73.96642,Manhattan,2,Romanesque Revival,Brick,Residential,,,,,NA
+104,landmarks,MICHAEL BAUM LLC,1894,,419 LAFAYETTE STREET,40.728789,-73.992344,Manhattan,2,Renaissance Revival,Steel,"Commercial, warehouse",,,,,NA
+105,landmarks,30 WEST 76TH STREET R,1974,,30 WEST 76 STREET,40.779221,-73.975079,Manhattan,2,French neo-Grec,Brownstone,Residential,,,,,NA
+106,landmarks,"LIANNE S. TOWBES, TRU",1901,,858 CARROLL STREET,40.671766,-73.972675,Brooklyn,2,Romanesque Revival,Brownstone,Residential,,,,,NA
+107,landmarks,777 MADISON CONDOMINI,1907,,45 EAST 66 STREET,40.76793,-73.9679655,Manhattan,2,Gothic,Red Brick,"Residential, multi-family",,,,,NA
+108,landmarks,135 ST JAMES PLACE LL,1930,,135 ST JAMES PLACE,40.68554,-73.964196,Brooklyn,2,Greek Revival,Brick,Residential,,,,,NA
+109,landmarks,MOHAWK HOUSING ASSOC,1905,,379 WASHINGTON AVENUE,40.687497,-73.9651465,Brooklyn,2,Romanesque Revival,Brownstone,"Residential, multi-family",,,,,NA
+110,landmarks,PIERPONT MORGAN LIBRA,1900,,229 MADISON AVENUE,40.749571,-73.981629,Manhattan,2,neo-Renaissance,Brownstone,"Residential, single family",,,,,NA
+111,landmarks,REF DUTCH CH,1920,,890 FLATBUSH AVENUE,40.650125,-73.958654,Brooklyn,2,Georgian,Manhattan Schist,"Religious, church, Dutch Reformed",,,,,NA
+112,landmarks,"TSUI, CURTIS KAM-TIN",1930,,34-21 84 STREET,40.753122,-73.883018,Queens,2,neo-Georgian,Red Brick,Residential,,,,,NA
+113,landmarks,NORMANDY OWNERS CORP,1939,,140 RIVERSIDE DRIVE,40.790374,-73.979596,Manhattan,2,Art Moderne,Beige Brick,"Residential, multi-family",,,,,NA
+114,landmarks,NEW YORK UNIVERSITY,1890,,19 WASHINGTON SQUARE N,40.732002,-73.997566,Manhattan,2,Italianate,Brick,Residential,,,,,NA
+115,landmarks,570 PARK AVENUE CORP,1916,,570 PARK AVENUE,40.765496,-73.968431,Manhattan,2,English influences,Stone,"Residential, multi-family",,,,,NA
+116,landmarks,ALLEN GLEN,1899,,217 GREENE AVENUE,40.687033,-73.96312,Brooklyn,2,neo-Grec,Brownstone,Residential,,,,,NA
+117,landmarks,148 HOYT ST RLTY CO,1931,,148 HOYT STREET,40.685775,-73.988361,Brooklyn,2,Romanesque,Brick,"Mixed-use, commercial & residential",,,,,NA
+118,landmarks,WASHINGTON B C STUDIO,1915,,451 WASHINGTON STREET,40.7240155,-74.010013,Manhattan,2,Romanesque Revival,Brick,"Industrial, warehouse",,,,,NA
+119,landmarks,"HRISTOVSKY, ROXANN E",1930,,35-19 87 STREET,40.751555,-73.879892,Queens,2,neo-Georgian,Red Brick,Residential,,,,,NA
+120,landmarks,"SANDAR, MA",1925,,35-48 88 STREET,40.75106,-73.878875,Queens,2,neo-Georgian,Brick,Residential,,,,,NA
+121,landmarks,20 BOND OWNERS CORP,1925,,20 BOND STREET,40.726472,-73.993762,Manhattan,2,Renaissance Revival,Brick,"Commercial, store and lofts",,,,,NA
+122,landmarks,"420-428 AMSTERDAM,",1910,,420 AMSTERDAM AVENUE,40.783978,-73.977731,Manhattan,2,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+123,landmarks,OWNER / AGENT,1880,,107 WEST 82 STREET,40.7841565,-73.9746415,Manhattan,2,Queen Anne,Brick,"Residential, multi-family",,,,,NA
+124,landmarks,OWNER / AGENT,1931,,581A 6 STREET,40.667041,-73.976598,Brooklyn,2,Georgian,Brick,"Residential, multi-family",,,,,NA
+125,landmarks,66 W 84 ST OWNERS COR,1900,,66 WEST 84 STREET,40.7848375,-73.972659,Manhattan,2,Romanesque Revival,Brick,"Residential, multi-family",,,,,NA
+126,landmarks,"IBANEZ, TOMAS",1935,,34-44 84 STREET,40.752727,-73.882968,Queens,2,neo-Tudor,Brick,Residential,,,,,NA
+127,landmarks,JAMES A NAJJAR,1901,,490 13 STREET,40.66265,-73.979804,Brooklyn,2,French Renaissance,Not determined,Residential,,,,,NA
+128,landmarks,ATLANTIC APARTMENTS,1900,,94 ATLANTIC AVENUE,40.690939,-73.996895,Brooklyn,2,neo-Grec,Brick,Residential,,,,,NA
+129,landmarks,DREYFUS 100% TREASURY,1910,,52 WEST 70 STREET,40.775519,-73.978373,Manhattan,2,neo-Grec,Brick,Residential,,,,,NA
+130,landmarks,SAMTON EMILY S.,1901,,161 WEST 88 STREET,40.788492,-73.972861,Manhattan,2,Romanesque Revival,Brownstone,Residential,,,,,NA
+131,landmarks,46 WEST 70TH STREET L,1910,,46 WEST 70 STREET,40.775467,-73.97825,Manhattan,2,neo-Grec,Brick,Residential,,,,,NA
+132,landmarks,VUJNOVICH GEORGE M,1930,,35-45 87 STREET,40.751203,-73.879827,Queens,2,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+133,landmarks,COLUMBIA GRAMMAR SCHO,1900,,20 WEST 94 STREET,40.790689,-73.96642,Manhattan,2,Romanesque Revival,Brick,Residential,,,,,NA
+134,landmarks,MOHAWK HOUSING ASSOC,1905,,379 WASHINGTON AVENUE,40.687497,-73.9651465,Brooklyn,2,Romanesque Revival,Brownstone,"Residential, multi-family",,,,,NA
+135,landmarks,"TSUI, CURTIS KAM-TIN",1930,,34-21 84 STREET,40.753122,-73.883018,Queens,2,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+136,landmarks,"BATTLE ENTERPRISES, L",1926,,450 WEST 145 STREET,40.824815,-73.946626,Manhattan,2,Romanesque Revival,Brownstone,Residential,,,,,NA
+137,landmarks,LINCOLN PARK REALTYCO,1920,,40 WEST 70 STREET,40.775415,-73.978127,Manhattan,2,neo-Grec,Brick,Residential,,,,,NA
+138,landmarks,"147 W. 85TH ST., LLC",1910,,147 WEST 85 STREET,40.786385,-73.974025,Manhattan,2,Romanesque,Brick,Residential,,,,,NA
+139,landmarks,"B.I.G., LLC",1910,,59 WEST 70 STREET,40.775593,-73.978506,Manhattan,2,Queen Anne,Brick,Residential,,,,,NA
+140,landmarks,"ASHAR, RACHITA S",1930,,34-36 85 STREET,40.753091,-73.882087,Queens,2,neo-Georgian,Red Brick,Residential,,,,,NA
+141,landmarks,134 W 70 ST CORP,1920,,134 WEST 70 STREET,40.776483,-73.980665,Manhattan,2,Queen Anne,Brownstone,Residential,,,,,NA
+142,landmarks,"928 PRESIDENT STREET,",1920,,928 PRESIDENT STREET,40.672299,-73.97199,Brooklyn,2,neo-Grec,Brownstone,Residential,,,,,NA
+143,landmarks,"FILACOURIS, ANDONIS",1920,,240-02 POPLAR STREET,40.768685,-73.746519,Queens,2,neo-Colonial,Wood Frame,"Residential, single-family",,,,,NA
+144,landmarks,ASK PROPERTY HOLDINGS,1900,,7 CORNELIA STREET,40.731616,-74.001634,Manhattan,2,Spanish Revival,Brick,Residential,,,,,NA
+145,landmarks,WAVERLY DEVELOPMENTAS,1915,,16 BANK STREET,40.737026,-74.002371,Manhattan,2,Gothic Revival,Brick,Residential,,,,,NA
+146,landmarks,COLUMBIA GRAMMAR SCHO,1900,,20 WEST 94 STREET,40.790689,-73.96642,Manhattan,2,Romanesque Revival,Brick,Residential,,,,,NA
+147,landmarks,"LIU, ZHONG GUO",1930,,35-41 87 STREET,40.751258,-73.879838,Queens,2,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+148,landmarks,"TOPPER, MAUREEN",1900,,121 WEST 69 STREET,40.775819,-73.980976,Manhattan,2,Romanesque Revival,Brownstone,Residential,,,,,NA
+149,landmarks,BRUSCO WEST 78TH STRE,1900,,373 AMSTERDAM AVENUE,40.782043,-73.97784,Manhattan,2,Romanesque Revival,Brick,"Residential, multi-family",,,,,NA
+150,landmarks,"CASTLE, JENNIFER CARO",1901,,195 LEFFERTS AVENUE,40.662104,-73.954949,Brooklyn,2,French Renaissance,Brick,"Residential, multi-family",,,,,NA
+151,landmarks,OWNER / AGENT,1905,,112 WEST 72 STREET,40.777685,-73.97947,Manhattan,2,neo-Georgian,Brick,"Commercial, hotel",,,,,NA
+152,landmarks,BORGLUM REALTY CORP,1900,,106 WEST 71 STREET,40.776955,-73.979824,Manhattan,2,neo-Grec,Brownstone,Residential,,,,,NA
+153,landmarks,119 W. 3RD ST. REALTY,1900,,125 MAC DOUGAL STREET,40.730527,-74.000054,Manhattan,2,Federal,Brick,Residential,,,,,NA
+154,landmarks,FRANK J LOPREST,1905,,227 GREENE AVENUE,40.687068,-73.962817,Brooklyn,2,neo-Grec,Brownstone,Residential,,,,,NA
+155,landmarks,JAMES C. LOMAX CONSTR,1910,,382 STUYVESANT AVENUE,40.681559,-73.932387,Brooklyn,2,Romanesque Revival,Limestone,Residential,,,,,NA
+156,landmarks,118 & 120 HUDSON STRE,1915,,118 HUDSON STREET,40.719855,-74.00859,Manhattan,2,Renaissance Revival,Cast Iron,"Commercial, store and lofts",,,,,NA
+157,landmarks,"KEDZKIDZ REALTY, LLC",1915,,404 BROADWAY,40.718856,-74.002334,Manhattan,2,Mid-20th century Commercial,Masonry,"Commercial, store and offices",,,,,NA
+158,landmarks,LOGANY,1900,,1 BROADWAY,40.704785,-74.014099,Manhattan,2,Queen Anne (original),Masonry,"Commercial, office building",,,,,NA
+159,landmarks,INDEPENDANT LIVING AS,1920,,1463 PACIFIC STREET,40.677294,-73.943016,Brooklyn,2,Romanesque Revival,Brick,Residential,,,,,NA
+160,landmarks,J F WINDLE,1930,,35-55 87 STREET,40.751072,-73.879802,Queens,2,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+161,landmarks,BROOKLYN POLICE CASTL,1931,,4302 4 AVENUE,40.650305,-74.008602,Brooklyn,2,Venetian Romanesque,Limestone,"Civic, police station",,,,,NA
+162,landmarks,"MARRON, MARTIN GUILLE",1899,,121 WEST 85 STREET,40.786162,-73.973498,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+163,landmarks,FRANCIS IRACE,1935,,34-22 88 STREET,40.75353,-73.879325,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+164,landmarks,TUJUNGA GARDENS LIMIT,1910,,72 WEST 69 STREET,40.775067,-73.979247,Manhattan,1,Romanesque Revival,Brick,"Residential, multi-family",,,,,NA
+165,landmarks,MR & MRS B C BLANEY,1930,,34-25 84 STREET,40.753051,-73.883004,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+166,landmarks,RODRIGUEZ RAYMOND,1925,,35-22 88 STREET,40.751592,-73.878971,Queens,1,neo-Georgian,Brick,Residential,,,,,NA
+167,landmarks,OWNER / AGENT,1931,,632 11 STREET,40.663714,-73.978514,Brooklyn,1,Neoclassical,Stone,"Residential, multi-family",,,,,NA
+168,landmarks,CONG BETH ELOHIM,1931,,177 8 AVENUE,40.670905,-73.974157,Brooklyn,1,Art Deco,Cast Stone,"Religious, synagogue",,,,,NA
+169,landmarks,"G & L ROYALTY, INC.",1920,,67 2 AVENUE,40.726316,-73.989754,Manhattan,1,neo-Grec alterations,Brick,Residential,,,,,NA
+170,landmarks,BROADWAY 922 ENTERPRI,1925,,922 BROADWAY,40.739974,-73.989542,Manhattan,1,Second Empire,Brick,Residential,,,,,NA
+171,landmarks,"DITTMAN, CHRISTINA",1910,,310 PARK PLACE,40.67645,-73.967625,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+172,landmarks,100 WEST 88 STREET HD,1910,,570 COLUMBUS AVENUE,40.787556,-73.971407,Manhattan,1,Romanesque,Brick,"Residential, multi-family",,,,,NA
+173,landmarks,SADEK WAHBA,1899,,1217 PARK AVENUE,40.785664,-73.952796,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+174,landmarks,"HAFFNER, BRIAN",1901,,203 LEFFERTS AVENUE,40.662118,-73.954761,Brooklyn,1,French Renaissance,Brick,"Residential, multi-family",,,,,NA
+175,landmarks,"RUBIN, ROBERT",1901,,39-26 213 STREET,40.764795,-73.772605,Queens,1,Colonial Revival,Wood Frame,"Residential, single family",,,,,NA
+176,landmarks,"T & J 2006,  LLC",1910,,101 WEST 86 STREET,40.78656,-73.972324,Manhattan,1,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+177,landmarks,"SABATINI, CHRISTOPHER",1899,,22 CLIFTON PLACE,40.687686,-73.963773,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+178,landmarks,EPSTEIN JEROME,1935,,34-13 87 STREET,40.753608,-73.880267,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+179,landmarks,LINDA MCCUTCHEON LIVI,1920,,579 5 STREET,40.667565,-73.975935,Brooklyn,1,Tudor,Not determined,Residential,,,,,NA
+180,landmarks,CHRISTINA HSIAO,1899,,150 WEST 11 STREET,40.735978,-73.999711,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+181,landmarks,"ANGELLINO, ANNIE",1900,,165 WEST 87 STREET,40.787897,-73.973403,Manhattan,1,Renaissance Revival,Stone,Residential,,,,,NA
+182,landmarks,"RODEHAU, FLORENCE M",1920,,301 38 ROAD,40.772663,-73.74689,Queens,1,Colonial Revival Cottage,Wood Frame,"Residential, single-family",,,,,NA
+183,landmarks,ALI MOIED,1935,,34-46 83 STREET,40.752517,-73.883878,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+184,landmarks,54 WEST 89TH STREET R,1900,,54 WEST 89 STREET,40.788039,-73.969886,Manhattan,1,Queen Anne,Stone,Residential,,,,,NA
+185,landmarks,GALT GROUP HOLDINGS L,1920,,127 EAST 71 STREET,40.770026,-73.963356,Manhattan,1,Italianate (original),Brick,Residential,,,,,NA
+186,landmarks,"SANDS, JESSICA NANCY",1920,,107 PARK PLACE,40.678354,-73.97485,Brooklyn,1,French,Brownstone,Residential,,,,,NA
+187,landmarks,1282 STREET LLC,1905,,12 EAST 82 STREET,40.778658,-73.961636,Manhattan,1,Georgian,Red Brick,"Residential, single-family",,,,,NA
+188,landmarks,"NORTON, GRAHAM",1901,,6 SNIFFEN COURT,40.747166,-73.977898,Manhattan,1,Vernacular,Brick,"Transportation, stable",,,,,NA
+189,landmarks,"HALL, MARK J",1899,,586 11 STREET,40.664203,-73.979519,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+190,landmarks,"STALLBAUMER, DAVID",1900,,347 WEST 84 STREET,40.788025,-73.979882,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+191,landmarks,NEWTOWN JETS LLC,1910,,266 CLERMONT AVENUE,40.690065,-73.970255,Brooklyn,1,Greek Revival,Wood Frame,Residential,,,,,NA
+192,landmarks,LCC REALTY CORP,1960,,198 8 AVENUE,40.670414,-73.975343,Brooklyn,1,Romanesque Revival,Limestone,Residential,,,,,NA
+193,landmarks,WASHINGTON HOTEL CORP,1905,,400 WASHINGTON AVENUE,40.687047,-73.965598,Brooklyn,1,Romanesque Revival,Brick,Residential,,,,,NA
+194,landmarks,CHANTEL FIELDS,1901,,751 KELLY STREET,40.817123,-73.899116,The Bronx,1,Romanesque Revival (late),Roman Brick,"Residential, multi-family",,,,,NA
+195,landmarks,NCM HOLDINGS LLC,1900,,1681 AMSTERDAM AVENUE,40.824031,-73.948476,Manhattan,1,Flemish,Light Brick,"Mixed-use, commercial & residential",,,,,NA
+196,landmarks,"370 BROADWAY, LLC",1915,,370 BROADWAY,40.717733,-74.003279,Manhattan,1,Queen Anne,Masonry,"Commercial, store and lofts",,,,,NA
+197,landmarks,ERNEST A LOGAN,1915,,974 ST JOHNS PLACE,40.6714,-73.94606,Brooklyn,1,Arts & Crafts,Brick,"Residential, multi-family",,,,,NA
+198,landmarks,MDK590 VANDERBILT AVE,1931,,590 VANDERBILT AVENUE,40.678844,-73.968446,Brooklyn,1,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+199,landmarks,GUBERNICK  MARTIN,1899,,131 EAST 65 STREET,40.76614,-73.965791,Manhattan,1,Italianate (original),Stucco,Residential,,,,,NA
+200,landmarks,"JONES, JEFFREY MASON",1901,,56 MIDWOOD STREET,40.6596,-73.958749,Brooklyn,1,neo-Renaissance,Roman Brick,Residential,,,,,NA
+201,landmarks,"JOSIAH MACY,JR.ETC.",1910,,44 EAST 64 STREET,40.766533,-73.968719,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+202,landmarks,46 WEST 76TH STREET L,1910,,46 WEST 76 STREET,40.779361,-73.975407,Manhattan,1,neo-Italian Renaissance,Brownstone,Residential,,,,,NA
+203,landmarks,SIENA REALTY INC,1899,,15 WEST 10 STREET,40.733779,-73.996291,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+204,landmarks,LUMMEL LYNNE,1900,,338 WEST 71 STREET,40.77944,-73.985748,Manhattan,1,Romanesque Revival,Rock-faced Masonry,Residential,,,,,NA
+205,landmarks,WOLMAN DEREK,1901,,605 3 STREET,40.668791,-73.974979,Brooklyn,1,neo-Renaissance,Gray Brick,Residential,,,,,NA
+206,landmarks,JOSE MARTINEZ,1930,,34-38 85 STREET,40.753067,-73.882083,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+207,landmarks,"MALONE, WARREN",1900,,30 WEST 85 STREET,40.785028,-73.970844,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+208,landmarks,H LUKSIK,1901,,28 PROSPECT PARK WEST,40.670545,-73.9719,Brooklyn,1,Romanesque Revival,Indiana Limestone,"Residential, single-family",,,,,NA
+209,landmarks,"CALLEN, ROBINSON TR",1920,,103 WEST 69 STREET,40.775624,-73.980521,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+210,landmarks,"ASSADOUR O. TAVITIAN,",1910,,4 EAST 79 STREET,40.77686,-73.963414,Manhattan,1,neo-ltalian Renaissance,Limestone Ashlar,"Residential, single-family",,,,,NA
+211,landmarks,RANDOLPH POYER,1899,,398 STUYVESANT AVENUE,40.681062,-73.931692,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+212,landmarks,"GONZALO, MARIA",1930,,29 RUTLAND ROAD,40.658865,-73.959297,Brooklyn,1,Picturesque,Red Brick,Residential,,,,,NA
+213,landmarks,21 WEST 86 LLC,1927,,21 WEST 86 STREET,40.785838,-73.970606,Manhattan,1,Romanesque,Brick,"Residential, multi-family",,,,,NA
+214,landmarks,"JARTEC, LLC",1900,,41 WEST 88 STREET,40.787122,-73.969616,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+215,landmarks,"COL,",1910,,489 COLUMBUS AVENUE,40.784875,-73.97334,Manhattan,1,neo-Grec,Brick,"Residential, multi-family",,,,,NA
+216,landmarks,42 E 75TH ST OWNERS C,1910,,42 EAST 75 STREET,40.773523,-73.963535,Manhattan,1,neo-Gothic,Stucco,Residential,,,,,NA
+217,landmarks,"LUSTIG, ESTHER",1901,,831 EAST 17 STREET,40.630322,-73.960424,Brooklyn,1,Colonial Revival,Wood Frame,"Residential, single-family",,,,,NA
+218,landmarks,OKUMURA YURI,1910,,165 WEST 85 STREET,40.786539,-73.974393,Manhattan,1,Romanesque,Brick,Residential,,,,,NA
+219,landmarks,19 E 62 STREET CORP,1900,,19 EAST 62 STREET,40.765664,-73.970481,Manhattan,1,neo-Grec,Brick,Residential,,,,,NA
+220,landmarks,"KEENAN, ANNE",1899,,124 UNDERHILL AVENUE,40.676787,-73.966086,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+221,landmarks,G & M LUCAS,1910,,112 WEST 87 STREET,40.787438,-73.972356,Manhattan,1,Romanesque,Stone,Residential,,,,,NA
+222,landmarks,NINETY SIXTY LLC,1900,,317 WEST 77 STREET,40.78323,-73.982592,Manhattan,1,English Renaissance Revival,Rock-faced Brownstone,Residential,,,,,NA
+223,landmarks,"PREUDHOMME, PATRICK",1901,,151 LEFFERTS AVENUE,40.662039,-73.955979,Brooklyn,1,French Renaissance,Brick,"Residential, multi-family",,,,,NA
+224,landmarks,WINDERMERE PROPERTIES,1900,,869 9 AVENUE,40.76809,-73.986148,Manhattan,1,High Victorian Gothic,Red Brick,"Residential, multi family",,,,,NA
+225,landmarks,"MILLER, GABRIELLA",1930,,35-21 87 STREET,40.751527,-73.879888,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+226,landmarks,BRUSCO PARKWAY EASTAS,1910,,24 WEST 75 STREET,40.778532,-73.975418,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+227,landmarks,"9 WEST 73RD STREET, L",1900,,9 WEST 73 STREET,40.777039,-73.975769,Manhattan,1,neo-Georgian,Red Brick,Residential,,,,,NA
+228,landmarks,224 CENTRE REALTY LLC,1915,,165 GRAND STREET,40.719556,-73.998698,Manhattan,1,Queen Anne,Brownstone,"Institutional, private club",,,,,NA
+229,landmarks,GRIFFITH ASQUITH D,1910,,280 DECATUR STREET,40.681535,-73.932603,Brooklyn,1,Renaissance Revival,Stone,Residential,,,,,NA
+230,landmarks,91 MACON STREET LLC,1900,,91 MACON STREET,40.681331,-73.947562,Brooklyn,1,Renaissance Revival,Stone,Residential,,,,,NA
+231,landmarks,C/O SL GREEN REALTY C,1910,,762 MADISON AVENUE,40.767686,-73.968437,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+232,landmarks,YS SINGLE FAMILY LLC,1920,,914 PRESIDENT STREET,40.672447,-73.972364,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+233,landmarks,BIG BEND 53W88 NY LLC,1900,,53 WEST 88 STREET,40.787226,-73.969858,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+234,landmarks,"MUNROE, JOSEPHINE",1899,,118 PARK PLACE,40.6782,-73.974504,Brooklyn,1,French,Brownstone,Residential,,,,,NA
+235,landmarks,"6368 REALTY, LLC",1907,,63 WEST 68 STREET,40.774474,-73.979738,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+236,landmarks,"AKIYA, NATHALIE",1935,,34-22 84 STREET,40.75315,-73.883047,Queens,1,neo-Tudor,Brick,Residential,,,,,NA
+237,landmarks,"PLATT, JANE",1831,,124 WILLOW STREET,40.697241,-73.995889,Brooklyn,1,Eclectic-Flemish,Brick,Residential,,,,,NA
+238,landmarks,"MEZA, CESAR H.",1935,,34-18 88 STREET,40.753615,-73.879339,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+239,landmarks,SALVATORE PARDO,1931,,369 PARK PLACE,40.675999,-73.965387,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+240,landmarks,MARSHALL GERALD M,1900,,45 WEST 88 STREET,40.787158,-73.969695,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+241,landmarks,"MILLNER, GIEL",1920,,331 GREENWICH STREET,40.71779,-74.010599,Manhattan,1,Utilitarian,Cast Iron,Residential,,,,,NA
+242,landmarks,YOSHIZUMI CORP,1999,,163 PROSPECT PARK WEST,40.663316,-73.97793,Brooklyn,1,Classical,Not determined,"Residential, multi-family",,,,,NA
+243,landmarks,14 WEST 11 TEN CORP,1900,,14 WEST 11 STREET,40.73435,-73.995822,Manhattan,1,Federal,Brick,Residential,,,,,NA
+244,landmarks,"RUPPERT, LLC",1930,,23 BEEKMAN PLACE,40.753476,-73.964679,Manhattan,1,Second-generation Modernist,Rusticated Stone,"Residential, single family",,,,,NA
+245,landmarks,"PATTERSON, CHRISTIAN",1935,,34-36 88 STREET,40.753239,-73.879271,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+246,landmarks,7 EAST 78 STREET CORP,1920,,7 EAST 78 STREET,40.776125,-73.963757,Manhattan,1,Italian Renaissance,Limestone,"Residential, single-family",,,,,NA
+247,landmarks,"CHARLES H.C. GERARD,",1901,,27 EAST 73 STREET,40.772662,-73.96538,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+248,landmarks,35321  HOLDINGS  LLC,1910,,353 WEST 21 STREET,40.74464,-74.000895,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+249,landmarks,"SHABAKA, NUBIAA K",1901,,928 ST MARKS AVENUE,40.674719,-73.941295,Brooklyn,1,Romanesque Revival,Blonde Brick,Residential,,,,,NA
+250,landmarks,"CESBRON, JEAN JACQUES",1899,,436 WEST 162 STREET,40.835381,-73.938945,Manhattan,1,Classical,Rough-faced Stone,Residential,,,,,NA
+251,landmarks,CALLIOPE REALTY ASSOC,1920,,84 WOOSTER STREET,40.723956,-74.000714,Manhattan,1,Classical,Brick,"Commercial, mercantile exchange",,,,,NA
+252,landmarks,"VICTOIR, NICOLAS BENO",1901,,326A PRESIDENT STREET,40.680434,-73.993243,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+253,landmarks,ANGEL & YVETTE PABON,1910,,994 OCEAN AVENUE,40.638295,-73.958784,Brooklyn,1,Bungalow,Wood Frame,"Residential, single-family",,,,,NA
+254,landmarks,WILENSKY MARK,1920,,51 HUDSON AVENUE,40.703423,-73.981072,Brooklyn,1,Italianate,Wood Frame,"Mixed-use, commercial & residential",,,,,NA
+255,landmarks,"GREEN, MILDRED A",1901,,14 HAMILTON TERRACE,40.822246,-73.946899,Manhattan,1,Classical,Limestone,Residential,,,,,NA
+256,landmarks,PETER J KUHL,1930,,34-31 84 STREET,40.752941,-73.882986,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+257,landmarks,874 LEXINGTON AVE COR,1900,,874 LEXINGTON AVENUE,40.766211,-73.965289,Manhattan,1,Italianate (original),Stucco,"Residential, multi-family",,,,,NA
+258,landmarks,"LITTLETON, ROBERT",1901,,25 PROSPECT PARK WEST,40.670835,-73.971666,Brooklyn,1,Classical,Roman Brick,Residential,,,,,NA
+259,landmarks,"GONZALEZ, JULIO",1935,,34-38 88 STREET,40.753198,-73.879264,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+260,landmarks,WEST 70TH ST ASSC,1910,,57 WEST 70 STREET,40.775574,-73.978463,Manhattan,1,Queen Anne,Brick,Residential,,,,,NA
+261,landmarks,"48 WEST 76TH STREET,",1901,,48 WEST 76 STREET,40.779378,-73.975451,Manhattan,1,neo-Italian Renaissance,Brownstone,Residential,,,,,NA
+262,landmarks,YOSHIZUMI CORP,1999,,163 PROSPECT PARK WEST,40.663316,-73.97793,Brooklyn,1,Classical,Not determined,"Residential, multi-family",,,,,NA
+263,landmarks,OLYMPICGOLD LLC,1930,,647 5 AVENUE,40.759503,-73.976483,Manhattan,1,French Louis XV,Stone,"Residential, single family",,,,,NA
+264,landmarks,"64 WEST 10TH STREET,",1900,,64 WEST 10 STREET,40.73424,-73.997438,Manhattan,1,Greek Revival (original),Not determined,Residential,,,,,NA
+265,landmarks,BRIDGET I BENJAMIN,1899,,388 VANDERBILT AVENUE,40.685626,-73.968346,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+266,landmarks,8 FULTON CORP,1915,,8 OLD FULTON STREET,40.702969,-73.994666,Brooklyn,1,British 19th century Commercial,Brick,"Commercial, offices",,,,,NA
+267,landmarks,"145 WEST 78TH STREET,",1900,,145 WEST 78 STREET,40.781835,-73.977302,Manhattan,1,Romanesque Revival,Stone,Residential,,,,,NA
+268,landmarks,NEW YORK AIKIKAI LTD,1920,,140 WEST 18 STREET,40.740375,-73.996261,Manhattan,1,Rundbogenstil,Brick,"Transportation, stable",,,,,NA
+269,landmarks,MKFH LLC,1900,,55 MERCER STREET,40.72187,-74.000934,Manhattan,1,French Second Empire,Cast Iron,"Commercial, stores",,,,,NA
+270,landmarks,WILLIAM P FALLON,1935,,34-42 88 STREET,40.753116,-73.87925,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+271,landmarks,WEST 70TH ST TENANTS,1910,,105 WEST 70 STREET,40.776283,-73.980138,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+272,landmarks,"STEPHENSON, MICHELE",1900,,254 ADELPHI STREET,40.690235,-73.97129,Brooklyn,1,Italianate,Wood Frame,Residential,,,,,NA
+273,landmarks,86 88 OWNRS CORP,1909,,86 PROSPECT PARK WEST,40.667455,-73.974482,Brooklyn,1,neo-Federal,Red Brick,"Residential, multi-family",,,,,NA
+274,landmarks,342 WEST END AVENUE L,1900,,342 WEST END AVENUE,40.782533,-73.982476,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+275,landmarks,SILVERSHORE PROPERTIE,1840,,56 PIERREPONT STREET,40.695712,-73.994915,Brooklyn,1,Eclectic-Diverse (Eastlake),Brick,Residential,,,,,NA
+276,landmarks,"ALEXANDER, PHILLIP",1901,,130 HANCOCK STREET,40.682422,-73.950936,Brooklyn,1,Egyptian Revival,Brownstone,Residential,,,,,NA
+277,landmarks,ELAINE J SCHWARTZ,1910,,55 WEST 94 STREET,40.791126,-73.967411,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+278,landmarks,MIA TERRA REALTY CORP,1930,,14 WEST 90 STREET,40.788184,-73.968246,Manhattan,1,Northern Renaissance,Brownstone,Residential,,,,,NA
+279,landmarks,DOMINICAN SISTERS/ETC,1910,,279 ALEXANDER AVENUE,40.810865,-73.924561,The Bronx,1,Queen Anne,Brick,Residential,,,,,NA
+280,landmarks,WEST 70TH ST TENANTS,1900,,107 WEST 70 STREET,40.776296,-73.980171,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+281,landmarks,1145 NOMAD PARTNERS L,1925,,1145 BROADWAY,40.744022,-73.988979,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+282,landmarks,"LEWIN, ROBERT J",1901,,614 2 STREET,40.669442,-73.974619,Brooklyn,1,Neoclassical,Brownstone,Residential,,,,,NA
+283,landmarks,134-136 EAST 74TH STR,1901,,134 EAST 74 STREET,40.771911,-73.961676,Manhattan,1,Italianate (original),Not determined,Residential,,,,,NA
+284,landmarks,38 MONTGOMERY PL CORP,1928,,38 MONTGOMERY PLACE,40.671187,-73.972985,Brooklyn,1,Queen Anne,Orange Brick,Residential,,,,,NA
+285,landmarks,"CALDERON, MARIA",1930,,35-29 87 STREET,40.75142,-73.879867,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+286,landmarks,ST PHILIPS EPISCOPAL,1899,,270 DECATUR STREET,40.681502,-73.932874,Brooklyn,1,Renaissance Revival,Stone,Residential,,,,,NA
+287,landmarks,PARK PLACE RESIDENCE,1915,,218 PARK PLACE,40.677088,-73.970668,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+288,landmarks,EMEL REALTY CORP,1910,,49 WEST 75 STREET,40.778766,-73.975924,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+289,landmarks,"HUANG, PAUL",1920,,36 EAST 74 STREET,40.772936,-73.964109,Manhattan,1,Italianate (original),Brick,Residential,,,,,NA
+290,landmarks,MOTHERS OF THE HELPLE,1900,,430 WEST 20 STREET,40.745049,-74.003732,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+291,landmarks,GARFIELD LESLIE J,1910,,30 EAST 74 STREET,40.772974,-73.964196,Manhattan,1,neo-Medeival Gothic,Brick,Residential,,,,,NA
+292,landmarks,35 71 OWNERS CORP,1900,,35 WEST 71 STREET,40.776214,-73.97804,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+293,landmarks,2840 ATLANTIC HOLDING,1914,,2840 ATLANTIC AVENUE,40.676789,-73.889346,Brooklyn,1,Abstract Classicism,Brick,"Industrial, dairy",,,,,NA
+294,landmarks,JUDSON MEMORIAL CHURC,1900,,55 WASHINGTON SQUARE S,40.7304,-73.998319,Manhattan,1,Renaissance,Yellow Brick,"Religious, church",,,,,NA
+295,landmarks,"BONFILS-ROBERTS, MARJ",1899,,592 11 STREET,40.66414,-73.979389,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+296,landmarks,"ALSADIR, NUAR",1899,,288 VANDERBILT AVENUE,40.688711,-73.968965,Brooklyn,1,Queen Anne,Brick,Residential,,,,,NA
+297,landmarks,SAMUELS ROY A,1903,,863 STERLING PLACE,40.672505,-73.949649,Brooklyn,1,Renaissance Revival,Stone,"Residential, multi-family",,,,,NA
+298,landmarks,CHAN HING CHUNG,1930,,35-22 87 STREET,40.751522,-73.879906,Queens,1,neo-Tudor,Brick,"Outbuilding, garage",,,,,NA
+299,landmarks,"LATHAM, JANINE SARAH",1899,,351 ADELPHI STREET,40.686909,-73.970606,Brooklyn,1,Greek Revival,Brownstone,Residential,,,,,NA
+300,landmarks,GRIFFITH LOIS,1899,,291 CUMBERLAND STREET,40.686873,-73.972568,Brooklyn,1,neo-Renaissance,Yellow Brick,Residential,,,,,NA
+301,landmarks,BRUSCO WEST 78TH STRE,1920,,371 AMSTERDAM AVENUE,40.78226,-73.978963,Manhattan,1,Queen Anne,Brick,"Mixed-use, commercial & residential",,,,,NA
+302,landmarks,"WEST 73 ST,",1910,,36 WEST 73 STREET,40.777671,-73.977311,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+303,landmarks,5-7 1/2 JANE STREET,1926,,5 JANE STREET,40.738141,-74.002479,Manhattan,1,neo-Grec,Brick,"Residential, multi-family",,,,,NA
+304,landmarks,TIBERIUS CHONSIK KIM,1935,,34-34 83 STREET,40.752799,-73.883932,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+305,landmarks,FRANKLIN CONDO,1920,,158 FRANKLIN STREET,40.719254,-74.008146,Manhattan,1,Queen Anne,Cast Iron,"Commercial, store and lofts",,,,,NA
+306,landmarks,A & L MANAGEMENT ASSO,1910,,169 WEST 80 STREET,40.783575,-73.977197,Manhattan,1,Romanesque Revival,Brick,"Residential, multi-family",,,,,NA
+307,landmarks,EDWINA R WALTERS,1899,,511 MACON STREET,40.683227,-73.931073,Brooklyn,1,Queen Anne,Brownstone,Residential,,,,,NA
+308,landmarks,321 SIXTH AVENUE PART,1920,,317 AVENUE OF THE AMER,40.730927,-74.001501,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+309,landmarks,"ALEXANDER 285, LLC",1899,,285 ALEXANDER AVENUE,40.810983,-73.924474,The Bronx,1,Queen Anne,Brick,Residential,,,,,NA
+310,landmarks,72 WEST 88TH ST HDFC,1900,,72 WEST 88 STREET,40.787377,-73.970262,Manhattan,1,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+311,landmarks,TSARNAS BARBARA,1899,,164 HOYT STREET,40.685375,-73.988624,Brooklyn,1,neo-Grec,Brick,Residential,,,,,NA
+312,landmarks,SBROCCO HENRY,1899,,162 HOYT STREET,40.685424,-73.988592,Brooklyn,1,neo-Grec,Brick,Residential,,,,,NA
+313,landmarks,70TH STREET CASA LLC,1901,,116 EAST 70 STREET,40.769458,-73.963999,Manhattan,1,Anglo-Italianate (original),Masonry,Residential,,,,,NA
+314,landmarks,JAMES DOOLING,1900,,120 WEST 81 STREET,40.783594,-73.975373,Manhattan,1,Romanesque Revival,Brick,Residential,,,,,NA
+315,landmarks,MEI HUA JIANG,1920,,14 RICHMOND ROAD,40.779451,-73.75336,Queens,1,Tudor Revival,Wood Frame,"Residential, single-family",,,,,NA
+316,landmarks,BUTTERCUP MANAGEMENTC,1900,,131 WEST 70 STREET,40.776458,-73.980557,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+317,landmarks,GAGEN JOSEPH,1900,,53 WEST 94 STREET,40.791096,-73.967339,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+318,landmarks,80 COLUMBUS OWNERS CO,1890,,123 WEST 80 STREET,40.782971,-73.975763,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+319,landmarks,FERNANDEZ LUCIA,1930,,34-34 85 STREET,40.753116,-73.882094,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+320,landmarks,COLVIN GIBB,1905,,207 GREENE AVENUE,40.68697,-73.963654,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+321,landmarks,MONA SEHGAL,1930,,35-43 87 STREET,40.751231,-73.879834,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+322,landmarks,"G.E.M.S. REALTY, LLC.",1910,,315 WEST 77 STREET,40.783222,-73.982566,Manhattan,1,English Renaissance Revival,Rock-faced Brownstone,Residential,,,,,NA
+323,landmarks,10 EAST 67TH STREET L,1920,,10 EAST 67 STREET,40.769004,-73.968754,Manhattan,1,Queen Anne (original),Limestone,Residential,,,,,NA
+324,landmarks,OLGA MORA,1910,,15 WEST 74 STREET,40.777841,-73.9757,Manhattan,1,neo-Grec,Brick,Residential,,,,,NA
+325,landmarks,"DELFINO, MARIANNA",1921,,291 7 AVENUE,40.667961,-73.980675,Brooklyn,1,Queen Anne,Brownstone,"Residential, multi-family",,,,,NA
+326,landmarks,"CUTHILL, ROBERT B",1920,,27 MONTGOMERY PLACE,40.671316,-73.973208,Brooklyn,1,Renaissance,Yellow Brick,Residential,,,,,NA
+327,landmarks,"SUN, DAVID",1899,,54 HAMILTON TERRACE,40.822938,-73.946407,Manhattan,1,Renaissance,Limestone,Residential,,,,,NA
+328,landmarks,CASA OAXACA L.L.C.,1915,,29 BANK STREET,40.736958,-74.002955,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+329,landmarks,PARKS AND RECREATION,2013,,3 WASHINGTON SQUARE N,40.730883,-73.997593,Manhattan,1,Eclectic,Stone,"Civic, monument",,,,,NA
+330,landmarks,66-68 WEST 82ND STREE,1900,,66 WEST 82 STREET,40.783437,-73.972979,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+331,landmarks,21 BANK STREET LLC,1910,,21 BANK STREET,40.73699,-74.002724,Manhattan,1,Medieval,Brick,Residential,,,,,NA
+332,landmarks,STERAM REALTY CORP,1910,,33 WEST 76 STREET,40.779265,-73.975136,Manhattan,1,Queen Anne,Rock-faced Stone,Residential,,,,,NA
+333,landmarks,WILLIAM P FALLON,1935,,34-42 88 STREET,40.753116,-73.87925,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+334,landmarks,290 W12 LLC,1965,,290 WEST 12 STREET,40.737537,-74.004193,Manhattan,1,Eclectic (original),Brick,"Residential, multi-family",,,,,NA
+335,landmarks,"SMITH, SANFORD L",1899,,166 WEST 88 STREET,40.788528,-73.972995,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+336,landmarks,GOODMAN EZRA N,1901,,477 1 STREET,40.671248,-73.976572,Brooklyn,1,French neo-Grec,Brownstone,Residential,,,,,NA
+337,landmarks,T I R N REALTY CORP,1910,,768 MADISON AVENUE,40.767832,-73.968328,Manhattan,1,neo-Grec,Brownstone,Residential,,,,,NA
+338,landmarks,"KNIGHT, MARC O",1901,,181 LEFFERTS AVENUE,40.662085,-73.955277,Brooklyn,1,French Renaissance,Brick,"Residential, multi-family",,,,,NA
+339,landmarks,REFORMED PROTESTANT D,1910,,360 WEST END AVENUE,40.783117,-73.982046,Manhattan,1,Flemish Renaissance Revival,Brick,"Religious, church, Dutch Reformed",,,,,NA
+340,landmarks,275 BLEECKER CORP,1920,,275 BLEECKER STREET,40.731608,-74.003208,Manhattan,1,Italianate,Wood,Residential,,,,,NA
+341,landmarks,ESCORP INC,1910,,123 WEST 11 STREET,40.735758,-73.999138,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+342,landmarks,GROVE ESTATES LLC,1930,,1863 PUTNAM AVENUE,40.702776,-73.904173,Queens,1,Romanesque Revival,Yellow Brick,"Residential, multi-family",,,,,NA
+343,landmarks,3747 82ND STREET LLC,1922,,37-47 82 STREET,40.749396,-73.884237,Queens,1,neo-Georgian,Brick,Commercial,,,,,NA
+344,landmarks,WILLIAM CLINTON,1930,,212 GREENE AVENUE,40.687044,-73.962882,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+345,landmarks,MR & MRS B C BLANEY,1930,,34-25 84 STREET,40.753051,-73.883004,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+346,landmarks,"KOONTZ, MICHAEL J",1935,,34-29 87 STREET,40.753276,-73.880206,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+347,landmarks,"ONLY PROPERTIES, LLC",1910,,31 WALKER STREET,40.719322,-74.00447,Manhattan,1,Second Empire,Masonry,"Commercial, store and lofts",,,,,NA
+348,landmarks,LISA A. RENAUD,1901,,80 HANCOCK STREET,40.682267,-73.952296,Brooklyn,1,Egyptian Revival,Brownstone,Residential,,,,,NA
+349,landmarks,"RIVERA, JOHNNY",1901,,788 DAWSON STREET,40.817675,-73.899762,The Bronx,1,Romanesque Revival (late),Roman Brick,"Residential, multi-family",,,,,NA
+350,landmarks,"PATEL, MIHIR J",1899,,6 BEDFORD STREET,40.728902,-74.003392,Manhattan,1,Renaissance Revival,Brick,Residential,,,,,NA
+351,landmarks,ROBERTA P HUBER,1910,,139 WEST 78 STREET,40.781785,-73.977183,Manhattan,1,Romanesque Revival,Stone,Residential,,,,,NA
+352,landmarks,SONYA VASSOS,1899,,7 CAMBRIDGE PLACE,40.686525,-73.963409,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+353,landmarks,239 WEST LLC,1843,,239 WEST 12 STREET,40.737649,-74.002317,Manhattan,1,neo-Grec,Brick,Residential,,,,,NA
+354,landmarks,"WANG & ASSOCIATES,",1915,,145 GRAND STREET,40.720187,-73.999376,Manhattan,1,Italianate alterations,Brick,Residential,,,,,NA
+355,landmarks,86 JANE STREET LLC,1905,,86 JANE STREET,40.738135,-74.00743,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+356,landmarks,A TRENKMANN EST INC,1910,,241 CENTRE STREET,40.720234,-73.998167,Manhattan,1,Renaissance Revival,Brick,"Industrial, factory",,,,,NA
+357,landmarks,"112 WEST 74TH STREET,",1910,,112 WEST 74 STREET,40.778947,-73.978368,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+358,landmarks,TERRA ALTA LLC,1920,,116 EAST 91 STREET,40.783027,-73.954101,Manhattan,1,Queen Anne,Brownstone,"Residential, multi-family",,,,,NA
+359,landmarks,"CHECHAK, KATHRYN",1899,,435 WEST 147 STREET,40.825769,-73.944829,Manhattan,1,Romanesque Revival,Brick,Residential,,,,,NA
+360,landmarks,ONE NINETY REALTY COM,1910,,100 WEST 69 STREET,40.775196,-73.980424,Manhattan,1,Queen Anne,Brick,"Residential, multi-family",,,,,NA
+361,landmarks,"JARA, JOHNNY",1925,,35-54 88 STREET,40.750936,-73.878853,Queens,1,neo-Georgian,Brick,Residential,,,,,NA
+362,landmarks,HANNA LOFTIN,1899,,390 VANDERBILT AVENUE,40.685585,-73.968339,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+363,landmarks,531 BERGEN STREET LLC,1930,,531 BERGEN STREET,40.680352,-73.972642,Brooklyn,1,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+364,landmarks,YOLANDA CLARKE,1900,,77 HALSEY STREET,40.681733,-73.950537,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+365,landmarks,ROBERT A MARVIN,1905,,135 MIDWOOD STREET,40.659794,-73.95588,Brooklyn,1,neo-Renaissance,Brick,Residential,,,,,NA
+366,landmarks,"NOVOGRATZ , JOHN",1920,,117 8 AVENUE,40.672354,-73.97372,Brooklyn,1,Richardsonian Romanesque,Brick,"Residential, single-family",,,,,NA
+367,landmarks,"CORDOVA-DUPREY, SOCOR",1899,,187 6 AVENUE,40.676277,-73.977385,Brooklyn,1,Classical,Brownstone,Residential,,,,,NA
+368,landmarks,"IONE E. BROWNE, TRUST",1899,,29 CLIFTON PLACE,40.687752,-73.96334,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+369,landmarks,31 WEST 74TH STREET L,1973,,31 WEST 74 STREET,40.777975,-73.976025,Manhattan,1,Northern Renaissance,Stone,Residential,,,,,NA
+370,landmarks,66-68 WEST 82ND STREE,1900,,68 WEST 82 STREET,40.783453,-73.973019,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+371,landmarks,"SUKKAR, NORMAN",1900,,80 EAST 2 STREET,40.724155,-73.988531,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+372,landmarks,GALAXY SILVER LIMITED,1910,,45 EAST 74 STREET,40.772919,-73.964026,Manhattan,1,Queen Anne (original),Brick,Residential,,,,,NA
+373,landmarks,ROBINSON VERGIE,1900,,105 MAC DONOUGH STREET,40.681208,-73.942126,Brooklyn,1,Queen Anne,Brownstone,Residential,,,,,NA
+374,landmarks,"LYNCH, JAMES J",1899,,126 NOBLE STREET,40.728613,-73.955687,Brooklyn,1,Greek Revival,Wood Frame,Residential,,,,,NA
+375,landmarks,"STEJENDAN REALTY, INC",1920,,27 EAST 63 STREET,40.765993,-73.969326,Manhattan,1,neo-Georgian,Brick,Residential,,,,,NA
+376,landmarks,110 W 81 ST LLC,1900,,110 WEST 81 STREET,40.783506,-73.975171,Manhattan,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+377,landmarks,101 W. 74TH STREET,1910,,300 COLUMBUS AVENUE,40.778873,-73.97774,Manhattan,1,Queen Anne,Brick,"Residential, multi-family",,,,,NA
+378,landmarks,"ORANGE 80, LLC",1900,,72 HENRY STREET,40.698654,-73.992448,Brooklyn,1,Colonial,Brownstone,"Mixed-use, commercial & residential",,,,,NA
+379,landmarks,"TOROMA REALTY, LLC",1920,,909 UNION STREET,40.673734,-73.973561,Brooklyn,1,Queen Anne,Brick,Residential,,,,,NA
+380,landmarks,WEINER MORTON,1910,,579 6 STREET,40.66706,-73.976638,Brooklyn,1,Georgian,Brick,"Residential, multi-family",,,,,NA
+381,landmarks,OTTENDORFER LIBRARY,1884,,135 2 AVENUE,40.728772,-73.98756,Manhattan,1,Queen Anne,Philadelphia Brick,"Civic, library",,,,,NA
+382,landmarks,VINCENT W ALLEN,1910,,189 PROSPECT PLACE,40.677994,-73.970386,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+383,landmarks,"THORNHILL, CLARENCEM",1901,,60 MIDWOOD STREET,40.659605,-73.958655,Brooklyn,1,neo-Renaissance,Roman Brick,Residential,,,,,NA
+384,landmarks,"VASSILEV, GEORGE JR",1930,,35-44 87 STREET,40.75122,-73.879852,Queens,1,neo-Tudor,Brick,"Outbuilding, garage",,,,,NA
+385,landmarks,225-8TH AVE APT CORP,1920,,225 8 AVENUE,40.66984,-73.975797,Brooklyn,1,Renaissance,Limestone,"Residential, multi-family",,,,,NA
+386,landmarks,"TOLOSA CORPORATION,NV",1899,,48 EAST 73 STREET,40.772255,-73.96446,Manhattan,1,neo-Grec (original),Flemish-Bond Brick,Residential,,,,,NA
+387,landmarks,"JOERG, MICHELE",1901,,537 2 STREET,40.670458,-73.976677,Brooklyn,1,Neoclassical,Roman Brick,Residential,,,,,NA
+388,landmarks,EDWIN E FIGUEROA,1899,,267 ALEXANDER AVENUE,40.810503,-73.924825,The Bronx,1,Constructive Expressionism,Brick,Residential,,,,,NA
+389,landmarks,"GONZALEZ, JULIO",1935,,34-38 88 STREET,40.753198,-73.879264,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+390,landmarks,"TAKESHITA, MAYUMI",1901,,33 WEST 95 STREET,40.791449,-73.966244,Manhattan,1,Queen Anne,Brick,Residential,,,,,NA
+391,landmarks,MIA TERRA REALTY CORP,1900,,40 WEST 88 STREET,40.787097,-73.969601,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+392,landmarks,34 E 64TH ST RLTY CO,1920,,34 EAST 64 STREET,40.766602,-73.968878,Manhattan,1,Queen Anne,Stone,Residential,,,,,NA
+393,landmarks,"GORDON, NEIL",1906,,852 PARK PLACE,40.673364,-73.949267,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+394,landmarks,MAGNONE PETER,1900,,11 WEST 82 STREET,40.782978,-73.971845,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+395,landmarks,SORRENTINO ALFONSO,1930,,156 GATES AVENUE,40.684976,-73.961297,Brooklyn,1,neo-Grec,Brownstone,"Mixed-use, commercial & residential",,,,,NA
+396,landmarks,"MARTIN, TONI",1899,,37 CLIFTON PLACE,40.687787,-73.963055,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+397,landmarks,102 VANDERBILT AVENUE,1905,,102 VANDERBILT AVENUE,40.694586,-73.97013,Brooklyn,1,neo-Grec,Wood,"Residential, single-family",,,,,NA
+398,landmarks,ROITMAN FAMILY LIMITE,1900,,28 WEST 85 STREET,40.785009,-73.970805,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+399,landmarks,"JOSIAH MACY,JR.ETC.",1900,,46 EAST 64 STREET,40.766522,-73.968686,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+400,landmarks,ROANOKE CONDOMINIUM,1931,,69 SOUTH OXFORD STREET,40.687793,-73.973735,Brooklyn,1,Byzantine,Stone,"Residential, multi-family",,,,,NA
+401,landmarks,"ROSE, CAROLINE",1935,,34-35 87 STREET,40.753152,-73.880181,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+402,landmarks,20 PIERRE ASSOCIATES,1900,,20 CORNELIA STREET,40.731517,-74.001862,Manhattan,1,neo-Grec,Philadelphia Brick,"Residential, multi-family",,,,,NA
+403,landmarks,BRUCE HERMAN,1900,,7 SOUTH ELLIOTT PLACE,40.689204,-73.975989,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+404,landmarks,VANDERBILT PARK OWNER,1910,,675 VANDERBILT AVENUE,40.676602,-73.969233,Brooklyn,1,Renaissance Revival,Iron-Spot Brick,"Residential, multi-family",,,,,NA
+405,landmarks,103 WEST SEVENTIETHST,1900,,103 WEST 70 STREET,40.776269,-73.980109,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+406,landmarks,ONDERDONK LLC,1930,,817 ONDERDONK AVENUE,40.702251,-73.904271,Queens,1,Romanesque Revival,Yellow Brick,"Residential, multi-family",,,,,NA
+407,landmarks,"SCHEIDELMAN, HUDA T",1899,,374 VANDERBILT AVENUE,40.685909,-73.968403,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+408,landmarks,NANA KOJO TUFFOUR,1910,,82 RUTLAND ROAD,40.658924,-73.958086,Brooklyn,1,neo-Renaissance,Roman Brick,Residential,,,,,NA
+409,landmarks,20 PIERRE ASSOCIATES,1900,,20 CORNELIA STREET,40.731517,-74.001862,Manhattan,1,neo-Grec,Philadelphia Brick,"Residential, multi-family",,,,,NA
+410,landmarks,KAR FIFTH CORP,1920,,22 EAST 80 STREET,40.777255,-73.962247,Manhattan,1,Queen Anne,Brownstone,"Residential, single-family",,,,,NA
+411,landmarks,"YAGEL, G. THOMAS JR.",1899,,221 GREENE AVENUE,40.687046,-73.963001,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+412,landmarks,BEVERLY C REID,1900,,384 PARK PLACE,40.675917,-73.96507,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+413,landmarks,"IRWIN, GUY L",1899,,434 WEST 162 STREET,40.83537,-73.93892,Manhattan,1,Classical,Rough-faced Stone,Residential,,,,,NA
+414,landmarks,155 W 72 ST REALTY CO,1922,,155 WEST 72 STREET,40.778042,-73.980264,Manhattan,1,neo-Romanesque,Brick,"Commercial, store and lofts",,,,,NA
+415,landmarks,VANDERBILT PARK OWNE,1910,,673 VANDERBILT AVENUE,40.676651,-73.969215,Brooklyn,1,Renaissance Revival,Iron-Spot Brick,"Residential, multi-family",,,,,NA
+416,landmarks,ISSAC RUSSELL,1901,,194 LEFFERTS AVENUE,40.662085,-73.954995,Brooklyn,1,French Renaissance,Brick,Residential,,,,,NA
+417,landmarks,"CHATURVEDI, ANKUR",1930,,34-44 85 STREET,40.75299,-73.882069,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+418,landmarks,"WILLOUGHBY, AARON J",1910,,762 BECK STREET,40.816359,-73.898684,The Bronx,1,Romanesque Revival (late),Roman Brick,Residential,,,,,NA
+419,landmarks,"MAY , MARGARET T",1899,,100 MILTON STREET,40.729269,-73.956332,Brooklyn,1,Gothic Revival,Wood Frame,Residential,,,,,NA
+420,landmarks,"147 W 80TH, LLC",1900,,147 WEST 80 STREET,40.783212,-73.976334,Manhattan,1,Romanesque Revival,Stone,Residential,,,,,NA
+421,landmarks,PARKWAY EAST PROPERTI,1920,,58 WEST 72 STREET,40.777243,-73.978903,Manhattan,1,Romanesque Revival,Brick,"Mixed-use, commercial & residential",,,,,NA
+422,landmarks,"ROSSIER, NICOLAS",1899,,137 ST JOHNS PLACE,40.676839,-73.975081,Brooklyn,1,Queen Anne,Brownstone,Residential,,,,,NA
+423,landmarks,"HWH KENT, LLC",1931,,149 KENT STREET,40.730831,-73.955256,Brooklyn,1,Romanesque Revival (early),Brick,"Religious, sunday school, Dutch Reformed",,,,,NA
+424,landmarks,483-85 AMSTERDAM AVEN,1900,,483 AMSTERDAM AVENUE,40.785875,-73.976326,Manhattan,1,neo-Grec,Brick,"Residential, multi-family",,,,,NA
+425,landmarks,JAMES E MINARIK,1930,,34-27 84 STREET,40.753013,-73.883,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+426,landmarks,116 2ND AVENUE LLC,1920,,116 2 AVENUE,40.72782,-73.987765,Manhattan,1,neo-Grec,Red Brick,"Residential, multi-family",,,,,NA
+427,landmarks,THORNBURG  DEVIN,1901,,457 13 STREET,40.663078,-73.980648,Brooklyn,1,Romanesque Revival,Not determined,Residential,,,,,NA
+428,landmarks,"SABATINI, GARRY JAMES",1899,,43 8 AVENUE,40.674335,-73.972371,Brooklyn,1,neo-Grec,Not determined,Residential,,,,,NA
+429,landmarks,JOHN F KOOS,1901,,481 1 STREET,40.671193,-73.97646,Brooklyn,1,French neo-Grec,Brownstone,Residential,,,,,NA
+430,landmarks,NORTH BERRY CAPITAL G,1931,,37 GREENPOINT AVENUE,40.729756,-73.958998,Brooklyn,1,German Renaissance Revival,Brick,"Industrial, factory",,,,,NA
+431,landmarks,"DAVIS, WADE C",1906,,163 WEST 87 STREET,40.78788,-73.973364,Manhattan,1,Renaissance Revival,Stone,Residential,,,,,NA
+432,landmarks,"86 MACDOUGAL STREET,",1899,,86 MAC DOUGAL STREET,40.728682,-74.001588,Manhattan,1,neo-Federal,Brick,Residential,,,,,NA
+433,landmarks,WRIGHT TONI,1899,,381 MAC DONOUGH STREET,40.682494,-73.930904,Brooklyn,1,Renaissance Revival,Brownstone,"Residential, multi-family",,,,,NA
+434,landmarks,"RAHMAN, MOHAMMED Z",1800,,844 ST NICHOLAS AVENUE,40.828916,-73.942127,Manhattan,1,Beaux-Arts,Brick,Residential,,,,,NA
+435,landmarks,ERIC GREGG,1910,,53 NORTH MOORE STREET,40.72036,-74.008525,Manhattan,1,neo-Renaissance,Tan Brick,"Commercial, warehouse",,,,,NA
+436,landmarks,GLENN C STONE,1930,,34-20 85 STREET,40.753292,-73.882126,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+437,landmarks,"SHEEHAN, MEGAN",1920,,571 7 STREET,40.666558,-73.977348,Brooklyn,1,neo-Renaissance,Limestone,Residential,,,,,NA
+438,landmarks,175 WEST BROADWAY REA,1915,,175 WEST BROADWAY,40.717879,-74.007352,Manhattan,1,neo-Grec,Brick,"Commercial, store and lofts",,,,,NA
+439,landmarks,"DELUCCA, ADRIAN",1899,,382 VANDERBILT AVENUE,40.685747,-73.968371,Brooklyn,1,neo-Grec,Brownstone,Residential,,,,,NA
+440,landmarks,145 WEST 79TH ST OWNE,1928,,145 WEST 79 STREET,40.782515,-73.976796,Manhattan,1,Gothic,Brick,"Residential, multi-family",,,,,NA
+441,landmarks,155-159 LAFAYETTE OWN,1920,,159 LAFAYETTE AVENUE,40.687573,-73.971417,Brooklyn,1,Palladian,Brick,"Residential, multi-family",,,,,NA
+442,landmarks,"FLORES, KATHRYN",1901,,152 EAST 38 STREET,40.748618,-73.977194,Manhattan,1,Greek Revival,Brick,"Residential, single family",,,,,NA
+443,landmarks,THOMAS D STEINER,1901,,143 WEST 78 STREET,40.781818,-73.977262,Manhattan,1,Romanesque Revival,Stone,Residential,,,,,NA
+444,landmarks,495 RAR REALTY LLC,1920,,495 12 STREET,40.66341,-73.979584,Brooklyn,1,Neoclassical,Brick,"Residential, multi-family",,,,,NA
+445,landmarks,FIDELIS MAXIMUS LLC,1931,,192 ST MARKS AVENUE,40.678839,-73.969993,Brooklyn,1,Renaissance Revival,Brick,"Residential, multi-family",,,,,NA
+446,landmarks,SEAN M GIBNEY,1935,,34-32 84 STREET,40.752958,-73.883011,Queens,1,neo-Tudor,Brick,Residential,,,,,NA
+447,landmarks,"ROSZAK, SARA JANE",1910,,420 HUDSON STREET,40.730436,-74.006808,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+448,landmarks,"LIU, YA CHAO",1935,,34-48 88 STREET,40.752989,-73.879225,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+449,landmarks,"CURI, DANIELLE A",1900,,314 WEST 83 STREET,40.787196,-73.97994,Manhattan,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+450,landmarks,BELAIR ROAD APT LLC,1880,,33 BELAIR ROAD,40.611022,-74.0655,SI,1,Queen Anne,Clapboard,"Residential, single family",,,,,NA
+451,landmarks,JOSE MARTINEZ,1930,,34-38 85 STREET,40.753067,-73.882083,Queens,1,neo-Georgian,Red Brick,"Outbuilding, garage",,,,,NA
+452,landmarks,"MIRACULOUS SOLUTIONS,",1930,,363 GRAND AVENUE,40.685158,-73.962151,Brooklyn,1,Queen Anne,Rubble Stone,"Residential, multi-family",,,,,NA
+453,landmarks,"BRAITHWAITE, DOROTHYC",1899,,172 MAC DONOUGH STREET,40.681492,-73.939497,Brooklyn,1,Queen Anne,Brownstone,Residential,,,,,NA
+454,landmarks,322 WEST 71ST STREET,1901,,322 WEST 71 STREET,40.779352,-73.985543,Manhattan,1,Romanesque Revival,Masonry,Residential,,,,,NA
+455,landmarks,ISTITHMAR HOTELS UNIO,1911,,201 PARK AVENUE SOUTH,40.736644,-73.988944,Manhattan,1,Modern French,Granite,"Commercial, offices",,,,,NA
+456,landmarks,TINTORI  JOHN,1910,,583 6 STREET,40.667021,-73.976559,Brooklyn,1,Georgian,Brick,"Residential, multi-family",,,,,NA
+457,landmarks,"SHIVERS, PETER D",1905,,125 MIDWOOD STREET,40.65978,-73.956114,Brooklyn,1,neo-Renaissance,Brick,Residential,,,,,NA
+458,landmarks,"ZEVSON REALTY CO., L.",1900,,26 WEST 88 STREET,40.786976,-73.969312,Manhattan,1,Romanesque,Brownstone,Residential,,,,,NA
+459,landmarks,"HWH 71, LLC",1910,,122 EAST 71 STREET,40.770029,-73.963407,Manhattan,1,neo-Grec (original),Brownstone,Residential,,,,,NA
+460,landmarks,"MICHALOWSKI, RENATA",1899,,619 11 STREET,40.663915,-73.978885,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+461,landmarks,"BAUCHMAN, GAIL BETH",1910,,136 WEST 73 STREET,40.778577,-73.979455,Manhattan,1,Queen Anne,Brownstone,Residential,,,,,NA
+462,landmarks,"MENGLER, CHRISTOPHER",1925,,236-12 CENTER DRIVE,40.77306,-73.750325,Queens,1,Italianate,Wood Frame,"Residential, single-family",,,,,NA
+463,landmarks,ELLIANA 90 LLC,1930,,28 WEST 90 STREET,40.788393,-73.968741,Manhattan,1,Francois I,Brownstone,Residential,,,,,NA
+464,landmarks,"CHOWDHURY, KHALIQUE",1935,,34-44 88 STREET,40.753072,-73.879243,Queens,1,neo-Georgian,Red Brick,Residential,,,,,NA
+465,landmarks,"ROSS, DAVID S",1920,,476 WEST 142 STREET,40.823043,-73.948376,Manhattan,1,Spanish Renaissance,Limestone,Residential,,,,,NA
+466,landmarks,304 BLEECKER TREVI LL,1910,,304 BLEECKER STREET,40.732635,-74.003817,Manhattan,1,Federal (late)(original),Flemish-Bond Brick,"Mixed-use, commercial & residential",,,,,NA
+467,landmarks,"KONTOKOSTA,  CONSTANT",1901,,562 3 STREET,40.669678,-73.97685,Brooklyn,1,Romanesque Revival,Brownstone,Residential,,,,,NA
+468,landmarks,MARC CUSUMANO,1900,,63 WEST 90 STREET,40.788805,-73.969683,Manhattan,1,Romanesque Revival,Brick,Residential,,,,,NA
+469,landmarks,DELORES ERNANDEZ,1901,,375 STERLING PLACE,40.675116,-73.965676,Brooklyn,1,Renaissance Revival,Brownstone,Residential,,,,,NA
+470,landmarks,GROSSFIELD RENA E,1899,,103 PARK PLACE,40.678393,-73.974943,Brooklyn,1,French,Brownstone,Residential,,,,,NA
+471,landmarks,"110 READE STREET, LLC",1900,,110 READE STREET,40.715902,-74.008557,Manhattan,1,Second Empire,Masonry,"Commercial, store and lofts",,,,,NA
+472,landmarks,"JOHNSON, SCOTT LOCHWO",1901,,535 1 STREET,40.67018,-73.974359,Brooklyn,1,Regency,Limestone,Residential,,,,,NA
+473,landmarks,HOTEL DES ARTISTES IN,1917,,11 WEST 67 STREET,40.773219,-73.978702,Manhattan,1,Tudor,Brick,"Residential, multi-family",,,,,NA
+474,landmarks,321 SIXTH AVENUE PART,1920,,321 AVENUE OF THE AMER,40.730996,-74.001461,Manhattan,1,Italianate,Brick,Residential,,,,,NA
+475,landmarks,"325 W END AVE OWNERS,",1916,,325 WEST END AVENUE,40.782036,-73.98287,Manhattan,1,Jacobean,Orange Brick,"Residential, multi-family",,,,,NA
+476,landmarks,130 W. 78TH ST.,1910,,130 WEST 78 STREET,40.781703,-73.977031,Manhattan,1,Renaissance Revival,Brick,Residential,,,,,NA
+477,landmarks,COLUMBIA GRAMMAR AND,1910,,34 WEST 94 STREET,40.790802,-73.966685,Manhattan,1,Romanesque Revival,Brick,Residential,,,,,NA
+478,landmarks,EUMORPHA LLC,1910,,61 ATLANTIC AVENUE,40.691307,-73.998186,Brooklyn,1,Modern,Brick,Residential,,,,,NA
+479,landmarks,ERIC GREGG,1910,,53 NORTH MOORE STREET,40.72036,-74.008525,Manhattan,1,neo-Renaissance,Tan Brick,"Commercial, warehouse",,,,,NA
+480,film,*batteries not included,1987,Matthew Robbins,E. 5th St.<br>East Village<br>Manhattan,40.7224453,-73.97865057,Manhattan,NA,,,,East Village,http://imdb.com/title/tt0092494/,,,NA
+481,film,12 Angry Men,1957,Sidney Lumet,New York County Courthouse<br>40 Foley Square<br>Lower Manhattan,40.7137,-74.0079,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0050083/,,,NA
+482,film,13 Going on 30,2004,Gary Winick,W. 47th St. and Seventh Ave.<br>Times Square<br>Manhattan,40.75922049,-73.98462117,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0337563/,,,NA
+483,film,15 Minutes,2001,John Herzfeld,E. 60-66th St. and Madison Ave.<br>Upper East Side<br>Manhattan,40.7661,-73.9696,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0179626/,,,NA
+484,film,25th Hour,2002,Spike Lee,World Trade Center<br>Lower Manhattan,40.71179263,-74.01232839,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0307901/,,,NA
+485,film,25th Hour,2002,Spike Lee,Carl Schurz Park<br>Upper East Side<br>Manhattan,40.77506559,-73.94312739,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0307901/,,,NA
+486,film,A Perfect Murder,1998,Andrew Davis,Long Island City,40.74607025,-73.95038009,Queens,NA,,,,Queens,http://www.imdb.com/title/tt0120787/,,,NA
+487,film,A Thousand Clowns,1965,Fred Coe,Statue of Liberty<br>Liberty Island<br>New York Harbor,40.68958731,-74.04379606,Manhattan,NA,,,,New York Harbor,http://www.imdb.com/title/tt0059798/,,,NA
+488,film,Across the Sea of Time,1997,Stephen Low,New York Harbor,40.69899091,-74.03849602,Manhattan,NA,,,,New York Harbor,http://imdb.com/title/tt0112286/,,,NA
+489,film,After Hours,1985,Martin Scorsese,Mercer and Grand<br>SoHo<br>Manhattan,40.7213,-74.0015,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0088680/,,,NA
+490,film,Alice,1990,Woody Allen,E. 95th St. off Madison Ave.<br>Upper East Side<br>Manhattan,40.7866,-73.9547,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0099012/,,,NA
+491,film,American Psycho,2000,Mary Harron,Chinatown<br>Manhattan,40.71621654,-73.99808049,Manhattan,NA,,,,Chinatown,http://www.imdb.com/title/tt0144084/,,,NA
+492,film,An Unmarried Woman,1978,Paul Mazursky,Mercer St. between Spring and Broome<br>SoHo<br>Manhattan,40.72255913,-74.00029063,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0078444/,,,NA
+493,film,Annie Hall,1977,Woody Allen,Coney Island<br>Brooklyn,40.57360922,-73.97596836,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0075686/,,,NA
+494,film,Annie Hall,1977,Woody Allen,Pier 11<br>Manhattan,40.70420461,-74.0060252,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0075686/,,,NA
+495,film,Annie Hall,1977,Woody Allen,Foot of 59th St. Bridge<br>Upper East Side<br>Manhattan,40.75780643,-73.95962834,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0075686/,,,NA
+496,film,Annie Hall,1977,Woody Allen,E. 68th St. between Park Ave. and Madison Ave.<br>Upper East Side<br>Manhattan,40.76890676,-73.96660209,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0075686/,,,NA
+497,film,Annie Hall,1977,Woody Allen,W. 95th St.<br>Upper West Side<br>Manhattan,40.79163797,-73.96653771,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0075686/,,,NA
+498,film,Arthur,1981,Steve Gordon,Bergdorf's at 754 Fifth Ave.<br>Midtown<br>Manhattan,40.763334,-73.973891,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0082031/,,,NA
+499,film,As Good As It Gets,1997,James L. Brooks,Sixth Ave. between 11th St. and 12th St.<br>West Village<br>Manhattan,40.7354051,-73.99831653,Manhattan,NA,,,,West Village,http://imdb.com/title/tt0119822/,,,NA
+500,film,Barefoot in the Park,1967,Gene Saks,Washington Square Park<br>West Village<br>Manhattan,40.7307223,-73.99651408,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0061385/,,,NA
+501,film,Barefoot in the Park,1967,Gene Saks,Greenwich St. and Christopher St.<br>Greenwich Village<br>Manhattan,40.73311252,-74.00741458,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0061385/,,,NA
+502,film,Basquiat,1996,Julian Schnabel,Lower East Side<br>Manhattan,40.71818443,-73.98885369,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0115632/,,,NA
+503,film,Bed of Roses,1996,Michael Goldenberg,Chelsea,40.74324155,-74.00196433,Manhattan,NA,,,,Chelsea,http://www.imdb.com/title/tt0115644/,,,NA
+504,film,BIG,1988,Penny Marshall,F.A.O. Schwarz at 767 Fifth Ave.<br>Midtown<br>Manhattan,40.764053,-73.972978,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0094737/,,,NA
+505,film,Blue in the Face,1995,"Paul Auster,Wayne Wang",Prospect Park West and 16th St.<br>Windsor Terrace<br>Brooklyn,40.65749448,-73.97406936,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0112541/,,,NA
+506,film,Breakfast at Tiffany's,1961,Blake Edwards,Tiffany & Co. at 727 Fifth Ave.<br>Midtown<br>Manhattan,40.76251,-73.974142,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0054698/,,,NA
+507,film,Breakfast at Tiffany's,1961,Blake Edwards,E. 71st St.<br>Upper East Side<br>Manhattan,40.77136061,-73.96643043,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0054698/,,,NA
+508,film,Breakfast at Tiffany's,1961,Blake Edwards,Central Park Mall<br>Manhattan,40.77321313,-73.97127986,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0054698/,,,NA
+509,film,Broadway Danny Rose,1984,Woody Allen,Carnegie Deli at 854 Seventh Ave.<br>Midtown<br>Manhattan,40.764073,-73.981288,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0087003/,,,NA
+510,film,Cagney & Lacey,1982-1988,"Barbara Avedon,Barbara Corday,(more)",Howard Beach<br>Queens,40.66553541,-73.8412571,Queens,NA,,,,Queens,http://imdb.com/title/tt0083395/,,,NA
+511,film,Center Stage,2000,Nicholas Hytner,American Ballet Theater<br>890 Broadway<br>Manhattan,40.738641,-73.989774,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0210616/,,,NA
+512,film,Chasing Amy,1997,Kevin Smith,269 E. Houston St.<br>Lower East Side<br>Manhattan,40.721516,-73.984616,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0118842/,,,NA
+513,film,Chelsea Walls,2001,Ethan Hawke,Chelsea Hotel on W. 23rd St.<br>Chelsea<br>Manhattan,40.744287,-73.996497,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0226935/,,,NA
+514,film,Clockers,1995,Spike Lee,Gowanus Houses<br>Brooklyn,40.6841528,-73.98804903,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0112688/,,,NA
+515,film,Coogan's Bluff,1968,Don Siegel,Fort Tryon Park<br>Manhattan,40.85946031,-73.93408298,Manhattan,NA,,,,Fort George,http://www.imdb.com/title/tt0062824/,,,NA
+516,film,Cotton Comes to Harlem,1970,Ossie Davis,Harlem,40.80650084,-73.93928647,Manhattan,NA,,,,Harlem,http://imdb.com/title/tt0065579/,,,NA
+517,film,Crocodile Dundee,1986,Peter Faiman,Fifth Ave. and 53rd St.<br>Midtown<br>Manhattan,40.7604,-73.9758,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0090555/,,,NA
+518,film,Crocodile Dundee II,1988,John Cornell,"Chambers St. near Centre St.<br>Lower Manhattan
+",40.713452,-74.004373,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0092493/,,,NA
+519,film,Crooklyn,1994,Spike Lee,Stuyvesant Ave. and Macon St.<br>Brooklyn,40.6831114,-73.93205523,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0109504/,,,NA
+520,film,Crossing Delancey,1988,Joan Micklin Silver,35 Essex St.<br>Lower East Side<br>Manhattan,40.71605,-73.989749,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0094921/,,,NA
+521,film,Cruising,1980,William Friedkin,West Village<br>Manhattan,40.72898243,-74.0008378,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0080569/,,,NA
+522,film,Cruising,1980,William Friedkin,Central Park<br>Manhattan,40.77920907,-73.9711833,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0080569/,,,NA
+523,film,Death to Smoochy,2002,Danny DeVito,Seventh Ave. and 48th St.<br>Times Square<br>Manhattan,40.7598,-73.9842,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0266452/,,,NA
+524,film,Death Wish,1974,Michael Winner,Subway Station near Court St.<br>Brooklyn,40.6938,-73.9904,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0071402/,,,NA
+525,film,Desperately Seeking Susan,1985,Susan Seidelman,St. Marks Place<br>East Village<br>Manhattan,40.729171,-73.98939,Manhattan,NA,,,,East Village,http://www.imdb.com/title/tt0089017/,,,NA
+526,film,Desperately Seeking Susan,1985,Susan Seidelman,George Washington Bus Terminal<br>Manhattan,40.849284,-73.936966,Manhattan,NA,,,,Fort George,http://www.imdb.com/title/tt0089017/,,,NA
+527,film,Die Hard: With a Vengeance,1995,John McTiernan,Central Park South<br>Manhattan,40.76705413,-73.97899389,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0112864/,,,NA
+528,film,Do the Right Thing,1989,Spike Lee,Stuyvesant Ave.<br>Bedford-Stuyvesant<br>Brooklyn,40.68931072,-73.93328905,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0097216/,,,NA
+529,film,Dog Day Afternoon,1972,Sidney Lumet,Prospect Park South and 16th St.<br>Brooklyn,40.6572503,-73.97421956,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0072890/,,,NA
+530,film,Downtown 81 / New York Beat Movie,1981,Edo Bertoglio,The Empire State Building<br>Midtown<br>Manhattan,40.74834612,-73.98488402,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0208993/,,,NA
+531,film,Downtown 81 / New York Beat Movie,1981,Edo Bertoglio,Guggenheim Museum<br>Upper East Side<br>Manhattan,40.782972,-73.959376,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0208993/,,,NA
+532,film,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,Orchard St. and Rivington St.<br>Lower East Side<br>Manhattan,40.7203,-73.9891,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0338013/,,,NA
+533,film,Fame,1980,Alan Parker,High School of the Performing Arts<br>120 W. 46th St.<br>Manhattan,40.757566,-73.983047,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0080716/,,,NA
+534,film,Fame,1980,Alan Parker,W. 59th St. and Tenth Ave.<br>Upper West Side<br>Manhattan,40.7704,-73.9876,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0080716/,,,NA
+535,film,Ferry Tales,2003,Katja Esson,St. George Station<br>Staten Island,40.64456836,-74.072721,Staten Island,NA,,,,Staten Island,http://www.imdb.com/title/tt0363607/,,,NA
+536,film,Force of Evil,1948,Abraham Polonsky,George Washington Bridge<br>Manhattan,40.84936524,-73.94247293,Manhattan,NA,,,,Washington Heights,http://imdb.com/title/tt0040366/,,,NA
+537,film,Fort Apache the Bronx,1981,Daniel Petrie,A South Bronx rooftop<br>The Bronx,40.81744688,-73.90884876,The Bronx,NA,,,,The Bronx,http://imdb.com/title/tt0082402/,,,NA
+538,film,Ghostbusters,1984,Ivan Reitman,Columbus Circle<br>Upper West Side<br>Manhattan,40.76812671,-73.98195505,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0087332/,,,NA
+539,film,Ghostbusters,1984,Ivan Reitman,W. 66th St. and Central Park West<br>Upper West Side<br>Manhattan,40.7724,-73.9787,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0087332/,,,NA
+540,film,Godspell,1973,David Greene,World Trade Center<br>Lower Manhattan,40.71226431,-74.01123941,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0070121/,,,NA
+541,film,Godspell,1973,David Greene,Times Square<br>Manhattan,40.75931801,-73.98484647,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0070121/,,,NA
+542,film,Godspell,1973,David Greene,Lincoln Center<br>Upper West Side<br>Manhattan,40.77230313,-73.98337662,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0070121/,,,NA
+543,film,Godspell,1973,David Greene,Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.77335125,-73.98368776,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0070121/,,,NA
+544,film,Godspell,1973,David Greene,Bethesda Fountain<br>Central Park<br>Manhattan,40.77436686,-73.97078633,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0070121/,,,NA
+545,film,Godspell,1973,David Greene,Ramble<br>Central Park<br>Manhattan,40.77646303,-73.97097945,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0070121/,,,NA
+546,film,Godspell,1973,David Greene,Under Triboro Bridge<br>Randalls Island,40.78457084,-73.92944813,Manhattan,NA,,,,Randall's Island,http://www.imdb.com/title/tt0070121/,,,NA
+547,film,Godspell,1973,David Greene,Soldiers and Sailor's Monument<br>Riverside Park (at 89th St.)<br>Manhattan,40.79230402,-73.97877395,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0070121/,,,NA
+548,film,Godzilla,1988,Roland Emmerich,Madison Square Garden<br>Midtown<br>Manhattan,40.75034558,-73.99149835,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0120685/,,,NA
+549,film,Goodfellas,1990,Martin Scorsese,24-13 32nd St.<br>Astoria<br>Queens,40.77148249,-73.91521633,Queens,NA,,,,Queens,http://imdb.com/title/tt0099685/,,,NA
+550,film,Green Card,1990,Peter Weir,W. 76th St & Columbus<br>Upper West Side<br>Manhattan,40.78,-73.9769,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0099699/,,,NA
+551,film,Greetings,1968,Brian De Palma,39 Whitehall St.<br>Lower Manhattan,40.702951,-74.012777,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0063036/,,,NA
+552,film,Hair,1979,Milos Forman,Sheep's Meadow<br>Central Park<br>Manhattan,40.77179937,-73.97488475,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0079261/,,,NA
+553,film,Hannah and Her Sisters,1986,Woody Allen,Spring St. and Green St.<br>SoHo<br>Manhattan,40.7238,-74.0004,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0091167/,,,NA
+554,film,Hannah and Her Sisters,1986,Woody Allen,W. 95th St. and West End Ave.<br>Upper West Side<br>Manhattan,40.7946,-73.9737,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0091167/,,,NA
+555,film,Hannah and Her Sisters,1986,Woody Allen,Metro Theatre (2626 Broadway)<br>Upper West Side<br>Manhattan,40.796766,-73.969947,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0091167/,,,NA
+556,film,Heights,2005,Chris Terrio,Municipal Building<br>1 Centre St.<br>Lower Manhattan,40.71302062,-74.00337517,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0382073/,,,NA
+557,film,Hitch,2005,Andy Tennant,Spring St. and Greene St.<br>SoHo<br>Manhattan,40.7238,-74.0004,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0386588/,,,NA
+558,film,Hudson Hawk,1991,Michael Lehmann,Brooklyn Bridge,40.70310659,-73.99318814,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0102070/,,,NA
+559,film,I Like It Like That,1994,Darnell Martin,170th St. in Morrisania<br>The Bronx,40.83870044,-73.91373038,The Bronx,NA,,,,The Bronx,http://www.imdb.com/title/tt0110091/,,,NA
+560,film,I Shot Andy Warhol,1996,Mary Harron,W. 20th St. <br>Chelsea<br>Manhattan,40.74053466,-73.99303257,Manhattan,NA,,,,Chelsea,http://www.imdb.com/title/tt0116594/,,,NA
+561,film,Inside Man,2006,Spike Lee,William St. and Wall St.<br>Lower Manhattan,40.7064,-74.0095,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0454848/,,,NA
+562,film,It Could Happen to You,1994,Andrew Bergman,W. Broadway and N. Moore St.<br>TriBeCa<br>Manhattan,40.7197,-74.0059,Manhattan,NA,,,,TriBeCa,http://www.imdb.com/title/tt0110167/,,,NA
+563,film,Jeremy,1973,Arthur Barron,Central Park<br>Manhattan,40.77474873,-73.97250831,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0070238/,,,NA
+564,film,Jumpin' at the Boneyard,1992,Jeff Stanzler,Burned-out blocks in the Bronx,40.83438208,-73.91993165,The Bronx,NA,,,,The Bronx,http://imdb.com/title/tt0102174/,,,NA
+565,film,Jungle Fever,1991,Spike Lee,Bensonhurst<br>Brooklyn,40.6019,-73.9938,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0102175/,,,NA
+566,film,Jungle Fever,1991,Spike Lee,Strivers' Row<br>Harlem<br>Manhattan,40.81803961,-73.94421637,Manhattan,NA,,,,Harlem,,,,NA
+567,film,Kids,1995,Larry Clark,Washington Square Park<br>West Village<br>Manhattan,40.7310719,-73.99686277,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0113540/,,,NA
+568,film,Killer's Kiss,1957,Stanley Kubrick,Rooftops<br>Lower Manhattan,40.70821425,-74.01365876,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0048254/,,,NA
+569,film,King Kong,1976,John Guillermin,World Trade Center<br>Lower Manhattan,40.71254894,-74.01477993,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0074751/,,,NA
+570,film,Kissing Jessica Stein,2001,Charles Herman-Wurmfeld,E. 6th St.<br>East Village<br>Manhattan,40.7255,-73.984,Manhattan,NA,,,,East Village,http://www.imdb.com/title/tt0264761/,,,NA
+571,film,Klute,1971,Alan J. Pakula,World Trade Center<br>Lower Manhattan,40.71126402,-74.01129305,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0067309/,,,NA
+572,film,Klute,1971,Alan J. Pakula,Hell's Kitchen<br>Ninth Ave.<br>Manhattan,40.76160968,-73.99031281,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0067309/,,,NA
+573,film,Klute,1971,Alan J. Pakula,123rd St.<br>Harlem<br>Manhattan,40.80091344,-73.93336952,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0067309/,,,NA
+574,film,Kojak,1973-1978,"Abby Mann,(more)",60 Baxter St.<br>Lower Manhattan,40.715847,-74.000547,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0069599/,,,NA
+575,film,Kojak,1973-1978,"Abby Mann,(more)",Lincoln Center<br>Upper West Side<br>Manhattan,40.77240875,-73.98376286,Manhattan,NA,,,,Upper West Side,http://imdb.com/title/tt0069599/,,,NA
+576,film,Kramer vs. Kramer,1979,Robert Benton,P.S. 6 (45 E. 81st St.)<br>Upper East Side<br>Manhattan,40.777554,-73.960694,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0079417/,,,NA
+577,film,Law & Order,1988- Today,"Dick Wolf,(more)",Worth St.<br>Lower Manhattan,40.7171,-74.0063,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0098844/,,,NA
+578,film,Little Fugitive,1953,"Morris Engel,Ruth Orkin,(more)",Coney Island<br>Brooklyn,40.57463602,-73.98080707,Brooklyn,NA,,,,Brooklyn,http://imdb.com/title/tt0046004/,,,NA
+579,film,Little Manhattan,2005,Mark Levin,Christopher St. Station<br>Sheridan Square<br>Manhattan,40.73360844,-74.00279582,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0412922/,,,NA
+580,film,LUV,1967,Clive Donner,Manhattan Bridge<br>Brooklyn,40.70507488,-73.98961008,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0061927/,,,NA
+581,film,Mad Hot Ballroom,2005,Marilyn Agrelo,Washington Heights<br>Harlem<br>Manhattan,40.83228774,-73.94633532,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0438205/,,,NA
+582,film,Malcolm X,1992,Spike Lee,"Adjacent to Apollo Theater,<br>W. 125th St. between 7th and 8th Aves<br>Harlem, Manhattan",40.810038,-73.95045,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0104797/,,,NA
+583,film,Man Push Cart,2005,Ramin Bahrani,Midtown<br>Manhattan,40.7552,-73.9733,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0464105/,,,NA
+584,film,Manhattan,1979,Woody Allen,MoMA<br>W. 53rd St.<br>Manhattan,40.76113835,-73.97720218,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0079522/,,,NA
+585,film,Marty,1955,Delbert Mann,The Bronx,40.839742,-73.880923,The Bronx,NA,,,,The Bronx,http://imdb.com/title/tt0048356/,,,NA
+586,film,McCloud,1970-1977,"Lou Antonio,Jack Arnold,(more)",Manhattan,40.75728631,-74.00074124,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0065317/,,,NA
+587,film,Mean Streets,1973,Martin Scorsese,Hester St. and Baxter St.<br>Little Italy<br>Manhattan,40.7185,-73.9988,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0070379/,,,NA
+588,film,Men in Black,1997,Barry Sonnenfeld,Battery Park<br>Lower Manhattan,40.70435915,-74.01472628,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0119654/,,,NA
+589,film,Men in Black,1997,Barry Sonnenfeld,MacDougal St.<br>SoHo<br>Manhattan,40.73164913,-73.99913192,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0119654/,,,NA
+590,film,Men in Black,1997,Barry Sonnenfeld,Grand Central Station<br>87 E. 42nd St.<br>Manhattan,40.752412,-73.977979,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0119654/,,,NA
+591,film,Men in Black,1997,Barry Sonnenfeld,Guggenheim Museum<br>E. 88th St. and Fifth Ave.<br>Manhattan,40.78257241,-73.95934939,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0119654/,,,NA
+592,film,Midnight Cowboy,1969,John Schlesinger,1414 Broadway<br>Midtown<br>Manhattan,40.753767,-73.986866,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0064665/,,,NA
+593,film,Midnight Cowboy,1968,John Schlesinger,Times Square<br>Manhattan,40.75819652,-73.98512006,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0064665/,,,NA
+594,film,Mirage,1965,Edward Dmytryk,Fifth Ave. and 66th St.<br>Central Park<br>Manhattan,40.7687,-73.9698,Manhattan,NA,,,,Central Park,http://imdb.com/title/tt0059448/,,,NA
+595,film,Mo' Better Blues,1990,Spike Lee,Brooklyn Bridge,40.70645752,-73.99727583,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0100168/,,,NA
+596,film,New Jack City,1991,Mario Van Peebles,Grant's Tomb<br>Harlem<br>Manhattan,40.8127049,-73.96310449,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0102526/,,,NA
+597,film,"Next Stop, Greenwich Village",1975,Paul Mazursky,MacDougal St.<br>West Village<br>Manhattan,40.72936455,-74.00103629,Manhattan,NA,,,,West Village,http://imdb.com/title/tt0074963/,,,NA
+598,film,Nighthawks,1981,Bruce Malmuth,Roosevelt Island Tramway<br>Manhattan,40.75835906,-73.95694613,Manhattan,NA,,,,Roosevelt Island,http://www.imdb.com/title/tt0082817/,,,NA
+599,film,No Way to Treat a Lady,1968,Jack Smight,New York City Bus<br>Manhattan,40.72268923,-73.98893952,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0063356/,,,NA
+600,film,No Way to Treat a Lady,1968,Jack Smight,Carmines<br>200 W. 44th St. <br>Manhattan,40.75736758,-73.98670793,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0063356/,,,NA
+601,film,North by Northwest,1959,Alfred Hitchcock,Grand Central Terminal<br>Midtown<br>Manhattan,40.75310896,-73.9769876,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0053125/,,,NA
+602,film,On the Town,1949,"Stanley Donen,Gene Kelly",Little Italy<br>Manhattan,40.71813564,-73.99790883,Manhattan,NA,,,,Lower East Side,http://imdb.com/title/tt0041716/,,,NA
+603,film,On the Waterfront,1954,Elia Kazan,"Hoboken, New Jersey<br>View of Manhattan",40.74712691,-74.02497768,Manhattan,NA,,,,New York Harbor,http://imdb.com/title/tt0047296/,,,NA
+604,film,One Fine Day,1996,Michael Hoffman,Carnegie Deli<br>Seventh Ave. and W. 55th St.<br>Manhattan,40.7642,-73.981,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0117247/,,,NA
+605,film,One Fine Day,1996,Michael Hoffman,Near Bethesda Fountain<br>Central Park<br>Manhattan,40.77426124,-73.97052348,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0117247/,,,NA
+606,film,Other People's Money,1991,Norman Jewison,World Trade Center<br>Lower Manhattan,40.71292303,-74.01314914,Manhattan,NA,,,,Lower Manhattan,http://imdb.com/title/tt0102609/,,,NA
+607,film,Pieces of April,2003,Peter Hedges,Lower East Side<br>Manhattan,40.72057,-73.985953,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0311648/,,,NA
+608,film,Plaza Suite,1971,Arthur Hiller,Rockefeller Center<br>600 Fifth Ave.<br>Manhattan,40.757603,-73.978101,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0067589/,,,NA
+609,film,Prime,2005,Ben Younger,Dean and Deluca<br>SoHo<br>Manhattan,40.725367,-73.999702,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0387514/,,,NA
+610,film,Ragtime,1981,Milos Forman,E. 11th St. between Ave. A and Ave. B<br>East Village<br>Manhattan,40.72795799,-73.9806515,Manhattan,NA,,,,East Village,http://www.imdb.com/title/tt0082970/,,,NA
+611,film,Report to the Commissioner,1975,Milton Katselas,Winter Garden Theater<br>1634 Broadway<br>Manhattan,40.761528,-73.983802,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0073620/,,,NA
+612,film,Requiem for a Dream,2000,Darren Aronofsky,Coney Island Boardwalk<br>Brooklyn,40.57223197,-73.98395598,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0180093/,,,NA
+613,film,Rosemary's Baby,1968,Roman Polanski,Fifth Ave. and E. 62nd St.<br>Upper East Side<br>Manhattan,40.7661,-73.9717,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0063522/,,,NA
+614,film,Rosemary's Baby,1968,Roman Polanski,"The Dakota<br>72nd St. and Central Park West<br>Manhattan
+",40.77639,-73.976069,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0063522/,,,NA
+615,film,Rosemary's Baby,1968,Roman Polanski,"The Dakota<br>72nd St. and Central Park West<br>Manhattan
+",40.77656053,-73.97615075,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0063522/,,,NA
+616,film,Saturday Night Fever,1977,John Badham,4th Ave. and 86th St.<br>Bay Ridge<br>Brooklyn,40.6228,-74.0284,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0076666/,,,NA
+617,film,Saturday Night Fever,1977,John Badham,Subway Car<br>Brooklyn,40.6260702,-73.9970237,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0076666/,,,NA
+618,film,Searching for Bobby Fischer,1993,Steven Zaillian,Washington Square Park<br>West Village<br>Manhattan,40.7310719,-73.99928749,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0108065/,,,NA
+619,film,Serpico,1973,Sidney Lumet,"Williamsburg Tenaments<br>Brooklyn
+",40.70757988,-73.96520197,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0070666/,,,NA
+620,film,Sesame Street,1969-today,"Joan Ganz Cooney,(more)",Kaufman Astoria Studios<br>Astoria<br>Queens,40.757599,-73.923671,Queens,NA,,,,Queens,http://www.imdb.com/title/tt0063951/,,,NA
+621,film,Sex and the City,1998-2004,"Darren Star,(more)",Magnolia Bakery<br>401 Bleecker St.<br>Manhattan,40.73580345,-74.00501668,Manhattan,NA,,,,West Village,http://www.imdb.com/title/tt0159206/,,,NA
+622,film,Shadows,1959,John Cassavetes,MoMA<br>W. 53rd St.<br>Manhattan,40.7608458,-73.97647262,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0053270/,,,NA
+623,film,Shaft,1971,Gordon Parks,Seventh Ave. and W. 42nd St.<br>Times Square<br>Manhattan,40.756,-73.987,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0067741/,,,NA
+624,film,Shaft,2000,John Singleton,New York County Courthouse<br>60 Centre St.<br>Lower Manhattan,40.714451,-74.002329,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0162650/,,,NA
+625,film,She's the One,1996,Edward Burns,McHales Pub<br>W. 46th and Eighth Ave.<br>Manhattan,40.75974059,-73.98754478,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0117628/,,,NA
+626,film,Single White Female,1992,Barbet Schroeder,Ansonia Hotel<br>2109 Broadway<br>Manhattan,40.779956,-73.981881,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0105414/,,,NA
+627,film,Six Degrees of Separation,1993,Fred Schepisi,Central Park<br>Manhattan,40.77150687,-73.9690429,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0108149/,,,NA
+628,film,Six Degrees of Separation,1993,Fred Schepisi,Metropolitan Museum of Art<br>Fifth Ave. at 82nd St.,40.77907909,-73.96261096,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0108149/,,,NA
+629,film,Sleepers,1996,Barry Levinson,"W. 47th St., near Pier 87<br>Manhattan",40.76461637,-73.99743676,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0117665/,,,NA
+630,film,Sleepers,1996,Barry Levinson,"W. 47th St., near Pier 87<br>Manhattan",40.76474639,-73.99790883,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0117665/,,,NA
+631,film,Smithereens,1982,Susan Seidelman,Lower East Side<br>Manhattan,40.71854,-73.98918,Manhattan,NA,,,,Lower East Side,http://www.imdb.com/title/tt0084698/,,,NA
+632,film,Smoke,1995,Wayne Wang,Prospect Park and 16th St.<br>Windsor Terrace<br>Brooklyn,40.65725844,-73.97461116,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0114478/,,,NA
+633,film,Sophie's Choice,1982,Alan J. Pakula,101 Rugby Rd.<br>Brooklyn,40.647334,-73.966373,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0084707/,,,NA
+634,film,Spider-Man,2002,Sam Raimi,Midtown<br>Manhattan,40.7525888,-73.97975564,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0145487/,,,NA
+635,film,Spider-Man,2002,Sam Raimi,Midtown<br>Manhattan,40.75668492,-73.97855401,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0145487/,,,NA
+636,film,Spider-Man,2002,Sam Raimi,Sunnyside<br>Queens,40.74823233,-73.9139986,Queens,NA,,,,Queens,http://www.imdb.com/title/tt0145487/,,,NA
+637,film,Splash,1984,Ron Howard,Pier 17<br>Manhattan,40.70468448,-74.00207162,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0088161/,,,NA
+638,film,State of Grace,1990,Phil Joanou,Hell's Kitchen<br>Manhattan,40.76037446,-73.99125695,Manhattan,NA,,,,Upper West Side,http://imdb.com/title/tt0100685/,,,NA
+639,film,Sugar Hill,1994,Leon Ichaso,Edgecomb Ave.<br>Harlem<br>Manhattan,40.82943024,-73.93964052,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0107079/,,,NA
+640,film,Summer of Sam,1999,Spike Lee,"CBGB's <br>315 Bowery (at Bleecker)<br>East Village, Manhattan",40.725034,-73.992067,Manhattan,NA,,,,SoHo,http://www.imdb.com/title/tt0162677/,,,NA
+641,film,Sweet Home Alabama,2002,Andy Tennant,Tiffany & Co.<br>727 Fifth Ave.<br>Manhattan,40.76279612,-73.97387624,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0256415/,,,NA
+642,film,Sweet November,1968,Robert Ellis Miller,Remsen St. and Montague Terrace<br>Brooklyn Heights<br>Brooklyn,40.695,-73.9977,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0063661/,,,NA
+643,film,Sweet Smell of Success,1957,Alexandre Mackenrick,Manhattan ,40.75779831,-73.97556603,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0051036/,,,NA
+644,film,Taxi Driver,1976,Martin Scorsese,E. 12th St. and Third Ave.<br>East Village<br>Manhattan,40.732,-73.9882,Manhattan,NA,,,,East Village,http://www.imdb.com/title/tt0075314/,,,NA
+645,film,Taxi Driver,1976,Martin Scorsese,Bellmore Cafeteria<br>Park Ave. South and E. 28th St.<br>Manhattan,40.74335,-73.98405,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0075314/,,,NA
+646,film,Taxi Driver,1976,Martin Scorsese,Columbus Ave. and E. 86th St.<br>Upper West Side<br>Manhattan,40.7865,-73.9722,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0075314/,,,NA
+647,film,The Anderson Tapes,1971,Sidney Lumet,E. 91st St. and Fifth Ave.<br>Upper East Side<br>Manhattan,40.7847,-73.9581,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0066767/,,,NA
+648,film,The April Fools,1969,Stuart Rosenberg,Marine Midlane Bank<br>140 Broadway<br>Lower Manhattan,40.708972,-74.010518,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0064036/,,,NA
+649,film,The April Fools,1969,Stuart Rosenberg,Central Park<br>Manhattan,40.77326188,-73.9711082,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0064036/,,,NA
+650,film,The Basketball Diaries ,1995,Scott Kalvert,Forest Hills,40.729403,-73.845455,Queens,NA,,,,Queens,http://imdb.com/title/tt0112461/,,,NA
+651,film,The Bonfire of the Vanities,1990,Brian De Palma,E. 74th St. and Park Ave.<br>Upper East Side<br>Manhattan,40.77245,-73.9629,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0099165/,,,NA
+652,film,The Brother from Another Planet,1984,John Sayles,Ellis Island<br>New York Harbor,40.69736408,-74.04119968,Manhattan,NA,,,,New York Harbor,http://www.imdb.com/title/tt0087004/,,,NA
+653,film,The Brothers McMullen,1995,Edward Burns,W. 46th St. and Eighth Ave.<br>Midtown<br>Manhattan,40.7598,-73.9879,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0112585/,,,NA
+654,film,The Cotton Club,1984,Francis Ford Coppola,E. 6th St. between First Ave. & Ave. A<br>East Village<br>Manhattan,40.72597413,-73.9851898,Manhattan,NA,,,,East Village,http://imdb.com/title/tt0087089/,,,NA
+655,film,The Cowboy Way,1994,Gregg Champion,Manhattan Bridge,40.70940164,-73.99183095,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0109493/,,,NA
+656,film,The Devil's Advocate,1997,Taylor Hackford,Chinatown<br>Manhattan,40.71500487,-73.99886906,Manhattan,NA,,,,Chinatown,http://www.imdb.com/title/tt0118971/,,,NA
+657,film,The Fisher King,1991,Terry Gilliam,Grand Central Station<br>87 E. 42nd St.<br>Manhattan,40.75270258,-73.97726655,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0101889/,,,NA
+658,film,The French Connection,1971,William Friedkin,Bay 50th St. Station<br>Brooklyn,40.58860227,-73.9837575,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0067116/,,,NA
+659,film,The Godfather Part II,1974,Francis Ford Coppola,E. 6th St. and Ave. A<br>East Village<br>Manhattan,40.72539684,-73.98378432,Manhattan,NA,,,,East Village,http://www.imdb.com/title/tt0071562/,,,NA
+660,film,The Honeymooners,1955-1956,Frank Satenstein,358 Chauncy St.<br>Bensonhurst<br>Brooklyn,40.681501,-73.918753,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0042114/,,,NA
+661,film,The Hours,2002,Stephen Daldry,W. 14th St. and Hudson St.<br>West Village<br>Manhattan,40.74059157,-74.00546193,Manhattan ,NA,,,,West Village,http://imdb.com/title/tt0274558/,,,NA
+662,film,The Interpreter,2005,Sydney Pollack,United Nations<br>First Ave. and E. 45th St.<br>Manhattan,40.75067069,-73.96795392,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0373926/,,,NA
+663,film,The Landlord,1970,Hal Ashby,51 Prospect Pl.<br>Brooklyn,40.67962098,-73.9760381,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0065963/,,,NA
+664,film,The Landlord,1970,Hal Ashby,51 Prospect Pl.<br>Brooklyn,40.679728,-73.975974,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0065963/,,,NA
+665,film,The Late Show with David Letterman,1993-?,"Jerry Foley,Randi Grossack,(more)",Ed Sullivan Theatre<br>1697 Broadway<br>Manhattan,40.763719,-73.982833,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0106053/,,,NA
+666,film,The Lost Weekend,1945,Billy Wilder,Third Ave. from E. 55th to 110th St.<br>Upper East Side to E. Harlem<br>Manhattan,40.759,-73.9685,Manhattan,NA,,,,Upper East Side,http://imdb.com/title/tt0037884/,,,NA
+667,film,The Naked City,1948,Jules Dassin,Williamsburg Bridge<br>Brooklyn,40.71132094,-73.96457434,Brooklyn,NA,,,,Brooklyn,http://imdb.com/title/tt0040636/,,,NA
+668,film,The Night They Raided Minsky's ,1968,William Friedkin,"E. 26th St. near Second Ave.<br>Manhattan
+",40.739701,-73.978935,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0063348/,,,NA
+669,film,The Out-of-Towners,1970,Arthur Hiller,Central Park<br>Manhattan,40.78970474,-73.96065831,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0066193/,,,NA
+670,film,The Panic in Needle Park,1971,Jerry Schatzberg,W. 72nd St. and Broadway<br>Upper West Side<br>Manhattan,40.7788,-73.9821,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0067549/,,,NA
+671,film,The Pawnbroker,1965,Sidney Lumet,Park Ave. and E. 116th St.<br>Harlem<br>Manhattan,40.79935,-73.94325,Manhattan,NA,,,,Harlem,http://imdb.com/title/tt0059575/,,,NA
+672,film,The Pickle ,1993,Paul Mazursky,Brighton Beach Boardwalk<br>Brooklyn,40.57488865,-73.96376431,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0107824/,,,NA
+673,film,The Pick-Up Artist,1984,James Toback,Columbus Ave. near W. 75th St.<br>Upper West Side<br>Manhattan,40.7794,-73.9774,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0093737/,,,NA
+674,film,The Prisoner of Second Avenue,1975,Melvin Frank,Second Ave. and E. 87th St.<br>Upper East Side<br>Manhattan,40.7786,-73.9513,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0072034/,,,NA
+675,film,The Producers,1968,Mel Brooks,East 80's<br>Upper East Side<br>Manhattan,40.77708049,-73.9539206,Manhattan,NA,,,,Upper East Side,http://www.imdb.com/title/tt0063462/,,,NA
+676,film,The Producers,1968,Mel Brooks,Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.77234375,-73.98341954,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0063462/,,,NA
+677,film,The Producers,2005,Susan Stroman,Lincoln Center Plaza<br>Upper West Side<br>Manhattan,40.77214875,-73.98319423,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0395251/,,,NA
+678,film,The Professional,1994,Luc Besson,Manhattan,40.75421427,-73.96904826,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0110413/,,,NA
+679,film,The Royal Tenenbaums,2001,Wes Anderson,Convent Ave. and 144th St.<br>Hamilton Heights<br>Manhattan,40.824,-73.9467,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0265666/,,,NA
+680,film,The Seven Year Itch,1955,Billy Wilder,Lexington Ave. between 51st St. and 52nd St.<br>Midtown<br>Manhattan,40.75744885,-73.97163928,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0048605/,,,NA
+681,film,The Siege,1998,Edward Zwick,Greenpoint<br>Brooklyn,40.73025075,-73.95436049,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0133952/,,,NA
+682,film,The Sopranos,1999-2007,"David Chase,(more)","Empire Stores Park<br>Brooklyn Bridge
+",40.704089,-73.993617,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0141842/,,,NA
+683,film,The Squid and the Whale,2005,Noah Baumbach,Museum of Natural History<br>W. 79th St. and Central Park West<br>Manhattan,40.78099638,-73.97245467,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0367089/,,,NA
+684,film,The Taking of Pelham One Two Three,1974,Joseph Sargent,Subway near Court St.<br>Brooklyn,40.69307721,-73.9907366,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0072251/,,,NA
+685,film,The Warriors,1979,Walter Hill,Astroland<br>Coney Island <br>Brooklyn,40.57464417,-73.97885978,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0080120/,,,NA
+686,film,The Warriors,1979,Walter Hill,Subway Car<br>Coney Island<br>Brooklyn,40.5757606,-73.98127377,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0080120/,,,NA
+687,film,The Wiz,1978,Sidney Lumet,World Trade Center<br>Lower Manhattan,40.71092245,-74.01405036,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0078504/,,,NA
+688,film,The Wrong Man,1956,Alfred Hitchcock,Subway at 53rd St. and Fifth Ave.<br>Midtown<br>Manhattan,40.76050449,-73.97546411,Manhattan,NA,,,,Midtown,http://imdb.com/title/tt0051207/,,,NA
+689,film,Three Days of the Condor,1975,Sydney Pollack,Riverside Drive<br>Upper West Side<br>Manhattan,40.81431267,-73.96185994,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0073802/,,,NA
+690,film,Times Square,1980,Allan Moyle,W. 42nd St. between Seventh Ave. and Eighth Ave.<br>Times Square<br>Manhattan,40.75668492,-73.98842454,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0081635/,,,NA
+691,film,Tootsie,1982,Sydney Pollack,W. 42nd between Ninth Ave. and Tenth Ave.<br>Midtown<br>Manhattan,40.75918798,-73.99477601,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0084805/,,,NA
+692,film,Two for the Seesaw,1962,"Robert Wise
+",Brooklyn Bridge,40.705693,-73.99630487,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0056626/,,,NA
+693,film,Up the Down Staircase,1967,Robert Mulligan,East Harlem (El Barrio)<br>Manhattan,40.79792464,-73.94221544,Manhattan,NA,,,,Harlem,http://www.imdb.com/title/tt0062425/,,,NA
+694,film,Up the Sandbox,1972,Irvin Kershner,Carousel<br>Central Park<br>Manhattan,40.77056434,-73.97752404,Manhattan,NA,,,,Central Park,http://www.imdb.com/title/tt0069449/,,,NA
+695,film,Up the Sandbox,1972,Irvin Kershner,Riverside Park near W. 109th St.<br>Morningside Heights<br>Manhattan,40.805169,-73.96920919,Manhattan,NA,,,,Morningside Heights,http://www.imdb.com/title/tt0069449/,,,NA
+696,film,Uptown Girls,2003,Boaz Yakin,Astroland<br>Coney Island <br>Brooklyn,40.57402483,-73.97888124,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0263757/,,,NA
+697,film,Vanilla Sky,2001,Cameron Crowe,W. 45th St. and Seventh Ave.<br>Times Square<br>Manhattan,40.75787145,-73.98539901,Manhattan,NA,,,,Times Square,http://www.imdb.com/title/tt0259711/,,,NA
+698,film,Wall Street,1987,Oliver Stone,New York Stock Exchange<br>Exchange Place<br>Lower Manhattan,40.70605086,-74.01056349,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0094291/,,,NA
+699,film,Wall Street,1987,Oliver Stone,Broadway and Vesey St.,40.7114,-74.0086,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0094291/,,,NA
+700,film,West Side Story,1961,"Robert Wise,Jerome Robbins",W. 68th St.<br>Upper West Side<br>Manhattan,40.77621929,-73.98391843,Manhattan,NA,,,,Upper West Side,http://imdb.com/title/tt0055614/,,,NA
+701,film,West Side Story,1961,"Robert Wise,Jerome Robbins",W. 68th St.<br>Upper West Side<br>Manhattan,40.77651178,-73.98512006,Manhattan,NA,,,,Upper West Side,http://imdb.com/title/tt0055614/,,,NA
+702,film,Wolfen,1981,Michael Wadleigh,World Trade Center<br>Lower Manhattan,40.71013359,-74.01267707,Manhattan,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0083336/,,,NA
+703,film,Wolfen,1981,Michael Wadleigh,Manhattan Bridge,40.70823052,-73.99117649,Manhattan ,NA,,,,Lower Manhattan,http://www.imdb.com/title/tt0083336/,,,NA
+704,film,Wolfen,1981,Michael Wadleigh,Charlotte St.<br>The Bronx,40.83478796,-73.89212251,The Bronx,NA,,,,The Bronx,http://www.imdb.com/title/tt0083336/,,,NA
+705,film,Working Girl,1988,Mike Nichols,Staten Island Ferry<br>New York Harbor,40.68233035,-74.03574944,Staten Island,NA,,,,Staten Island,http://www.imdb.com/title/tt0096463/,,,NA
+706,film,You're a Big Boy Now,1966,Francis Ford Coppola,Steeplechase Park<br>Coney Island<br>Brooklyn,40.57472566,-73.98032963,Brooklyn,NA,,,,Brooklyn,http://www.imdb.com/title/tt0061209/,,,NA
+707,film,You're a Big Boy Now,1966,Francis Ford Coppola,"New York Public Library<br>Fifth Ave. and 41st St.<br>Manhattan
+",40.75286513,-73.98153663,Manhattan,NA,,,,Midtown,http://www.imdb.com/title/tt0061209/,,,NA
+708,film,You've Got Mail,1998,Nora Ephron,Verdi Square<br>W. 73rd St.  & Broadway<br>Manhattan,40.77925782,-73.98153663,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0128853/,,,NA
+709,film,You've Got Mail,1998,Nora Ephron,91st Street Community Garden<br>Riverside Park<br>Manhattan,40.79282387,-73.97741675,Manhattan,NA,,,,Upper West Side,http://www.imdb.com/title/tt0128853/,,,NA
+710,Museum,Alexander Hamilton U.S. Custom House,,,1 Bowling Grn,40.70381622,-74.0137558,,NA,,,,,,(212) 514-3700,http://www.oldnycustomhouse.gov/,NA
+711,Museum,Alice Austen House Museum,,,2 Hylan Blvd,40.61512084,-74.06303179,,NA,,,,,,(718) 816-4506,http://www.aliceausten.org/,NA
+712,Museum,American Academy of Arts and Letters,,,633 W. 155th St.,40.8338535,-73.94729769,,NA,,,,,,(212) 368-5900,http://www.artsandletters.org/,NA
+713,Museum,American Folk Art Museum,,,45 West 53rd Street,40.76162497,-73.97810302,,NA,,,,,,(212) 265-1040,http://www.folkartmuseum.org/,NA
+714,Museum,American Immigration History Center,,,Ellis Island,40.69905626,-74.03968484,,NA,,,,,,(212) 363-3200,http://www.ellisisland.org/,NA
+715,Museum,American Museum of Natural History,,,Central Park West at 79th Street,40.78082623,-73.97364816,,NA,,,,,,(212) 769-5100,http://www.amnh.org/,NA
+716,Museum,American Numismatic Society,,,75 Varick St,40.72352659,-74.00701188,,NA,,,,,,(212) 571-4470,http://www.numismatics.org/,NA
+717,Museum,Americas Society,,,680 Park Ave.,40.76882423,-73.96597045,,NA,,,,,,(212) 249-8950,http://as.americas-society.org/,NA
+718,Museum,Anne Frank Center USA,,,38 Crosby Street,40.72112745,-73.99963037,,NA,,,,,,(212) 431-7993,http://www.annefrank.com/,NA
+719,Museum,Asia Society,,,725 Park Avenue,40.76983378,-73.96428396,,NA,,,,,,(212) 288-6400,http://www.asiasociety.org/,NA
+720,Museum,Audubon Terrace,,,Broadway at 155 Street,40.83358228,-73.9465459,,NA,,,,,,,http://www.washington-heights.us/history/archives/audubon_terrace_museum_group_102.html,NA
+721,Museum,Bartow-Pell Mansion,,,895 Shore Road,40.87177832,-73.8055795,,NA,,,,,,(718) 885-1461,http://bartowpellmansionmuseum.org/index.php,NA
+722,Museum,Bowne House,,,37-01 Bowne Street,40.76288633,-73.82489046,,NA,,,,,,(718) 359-0528,http://www.bownehouse.org/,NA
+723,Museum,Bronx Historical Society & Musem,,,3309 Bainbridge Ave,40.87823644,-73.87974874,,NA,,,,,,(718) 881-8900,http://www.bronxhistoricalsociety.org/,NA
+724,Museum,Bronx Museum of the Arts (BXMA),,,1040 Grand Concourse,40.83102978,-73.91975018,,NA,,,,,,(718) 681-6000,http://www.bronxmuseum.org/,NA
+725,Museum,Brooklyn Children's Museum,,,145 Brooklyn Avenue,40.674507,-73.94401601,,NA,,,,,,(718) 735-4400,http://www.brooklynkids.org/,NA
+726,Museum,Brooklyn Historical Society,,,128 Pierrepont Street,40.69480297,-73.9924054,,NA,,,,,,(718) 222-4111,http://www.brooklynhistory.org/default/index.html,NA
+727,Museum,Brooklyn Museum,,,200 Eastern Parkway,40.67108321,-73.96358507,,NA,,,,,,(718) 638-5000,http://www.brooklynmuseum.org/,NA
+728,Museum,Chelsea Art Museum,,,556 West 22nd Street,40.7478976,-74.00731553,,NA,,,,,,(212) 255-0719,http://www.chelseaartmuseum.org/,NA
+729,Museum,Children's Museum of Manhattan,,,212 West 83rd Street,40.78587092,-73.97727392,,NA,,,,,,(212) 721-1234,http://www.cmom.org/,NA
+730,Museum,Children's Museum of the Arts,,,182 Lafayette Street,40.72074947,-73.99883836,,NA,,,,,,(212) 274-0986,http://cmany.org/intro.php?pn=home,NA
+731,Museum,Cloisters,,,99 Margaret Corbin Drive,40.86492364,-73.93173409,,NA,,,,,,(212) 923-3700,http://www.metmuseum.org/cloisters/,NA
+732,Museum,Coney Island Museum,,,1208 Surf Ave,40.57526324,-73.97985598,,NA,,,,,,(718) 372-5159,http://www.coneyisland.com/,NA
+733,Museum,"Cooper-Hewitt, National Design Museum",,,2 East 91st Street,40.78432574,-73.95778162,,NA,,,,,,(212) 849-8400,http://www.cooperhewitt.org/,NA
+734,Museum,Dahesh Museum,,,580 Madison Avenue,40.76210697,-73.9730419,,NA,,,,,,(212) 759-0606,http://www.daheshmuseum.org,NA
+735,Museum,Dia at the Hispanic Society,,,613 West 155th Street,40.83330211,-73.94649318,,NA,,,,,,(845) 440-0100,http://www.diabeacon.org/,NA
+736,Museum,Dia Art Foundation,,,535 W 22nd Street,40.74789493,-74.00613538,,NA,,,,,,(212) 989 5566,http://www.diacenter.org/,NA
+737,Museum,Discovery Times Square Exposition,,,226 W 44th St,40.75750109,-73.98731864,,NA,,,,,,(866) 987-9692,http://www.discoverytsx.com/nyc/,NA
+738,Museum,Drawing Center,,,35 Wooster St.,40.72245119,-74.00290417,,NA,,,,,,(212) 219-2166,http://www.drawingcenter.org/about_visit.cfm,NA
+739,Museum,Dyckman Farmhouse,,,4881 Broadway,40.86713092,-73.92383915,,NA,,,,,,(212) 304-9422,http://www.dyckmanfarmhouse.org/,NA
+740,Museum,East Village History Project,,,308 Bowery,40.7249597,-73.99272306,,NA,,,,,,(212) 614-8702,http://leshp.org/,NA
+741,Museum,El Museo del Barrio,,,1230 Fifth Ave,40.79309892,-73.9513676,,NA,,,,,,(212) 831-7272,http://www.elmuseo.org/,NA
+742,Museum,Ellis Island Museum,,,Ellis Island,40.69820755,-74.04132162,,NA,,,,,,(212) 363-3200,http://www.ellisisland.org/,NA
+743,Museum,Fraunces Tavern Museum,,,54 Pearl Street,40.70339928,-74.01133926,,NA,,,,,,(212) 425-1778,http://www.frauncestavernmuseum.org/,NA
+744,Museum,Frick Collection,,,1 E. 70th Street,40.77105465,-73.96708041,,NA,,,,,,(212) 288-0700,http://www.frick.org/,NA
+745,Museum,Garibaldi-Meucci Museum,,,420 Tompkins Avenue,40.61516522,-74.07387774,,NA,,,,,,(718) 442-1608,http://statenislandusa.com/pages/garibaldi.html,NA
+746,Museum,Goethe-Institut New York,,,1014 Fifth Avenue,40.77916564,-73.96174204,,NA,,,,,,(212) 439-8700,http://www.goethe.de/ins/us/ney/deindex.htm,NA
+747,Museum,Gracie Mansion,,,89th Street at East End Avenue,40.77611345,-73.94306846,,NA,,,,,,(212)-570-4751,http://www.nyc.gov/html/om/html/gracie.html,NA
+748,Museum,Hall Of Fame For Great Americans,,,Hall of Fame Terrace & Sedgwick Avenue,40.85874717,-73.91397963,,NA,,,,,,(718) 289-5161,http://www.bcc.cuny.edu/hallofFame/,NA
+749,Museum,Harbor Defense Museum of Fort Hamilton,,,230 Sheridan Loop,40.60900867,-74.03231078,,NA,,,,,,(718) 630-4349,http://www.harbordefensemuseum.com/,NA
+750,Museum,Hispanic Society of America Museum,,,613 West 155th Street,40.83345215,-73.94682282,,NA,,,,,,(212) 926-2234,http://www.hispanicsociety.org/,NA
+751,Museum,Holocaust Museum & Studies Center,,,75 W 205th St,40.87835786,-73.89098784,,NA,,,,,,(718) 817-7700,http://www.holocauststudies.org/,NA
+752,Museum,Hudson Waterfront Museum and Showboat Barge,,,290 Conover St.,40.67557193,-74.01808694,,NA,,,,,,(718) 624-4719,http://www.waterfrontmuseum.org/,NA
+753,Museum,International Center of Photography,,,1133 Avenue Of The Americas,40.75602115,-73.98383673,,NA,,,,,,(212) 857-0000,http://www.icp.org/,NA
+754,Museum,Intrepid Sea-Air-Space Museum,,,Pier 86 12th Ave. & 46th Street,40.76478327,-74.00089181,,NA,,,,,,(212) 245-0072,http://www.intrepidmuseum.org/,NA
+755,Museum,Isamu Noguchi Garden Museum,,,32-37 Vernon Boulevard,40.76695661,-73.93765515,,NA,,,,,,(718) 204-7088,http://www.noguchi.org/,NA
+756,Museum,Italian American Museum,,,155 Mulberry St.,40.71919463,-73.99749411,,NA,,,,,,(212) 965-9000,http://www.italianamericanmuseum.org/,NA
+757,Museum,Jackie Robinson Museum,,,1 Hudson Square,40.72335066,-74.00664186,,NA,,,,,,(212) 290-8600,http://www.jackierobinson.org/,NA
+758,Museum,Jacques Marchais Center Museum of Tibetan Art,,,338 Lighthouse Avenue,40.57631284,-74.13812337,,NA,,,,,,(718) 987-3500,http://www.tibetanmuseum.org/,NA
+759,Museum,Jeffrey's Hook lighthouse (Little Red Lighthouse),,,178th Street at the Hudson River,40.85022003,-73.94694495,,NA,,,,,,(212) 304-2365,http://www.nycgovparks.org/sub_about/parks_divisions/historic_houses/hh_little_red_light.html,NA
+760,Museum,Jewish Museum,,,1109 Fifth Ave,40.78540226,-73.95718706,,NA,,,,,,(212) 423-3200,http://www.thejewishmuseum.org/index.php,NA
+761,Museum,John J. Harvey Fireboat,,,Pier 66 at West 26th Street,40.7523302,-74.00965484,,NA,,,,,,,http://www.fireboat.org/,NA
+762,Museum,King Manor Museum,,,152-01 Jamaica Avenue,40.70304202,-73.80376062,,NA,,,,,,(718) 206-0545,http://www.kingmanor.org/,NA
+763,Museum,Kingsland Homestead,,,143-35 37th Avenue,40.76359571,-73.82415642,,NA,,,,,,(718) 206-0545,http://www.queenshistoricalsociety.org/kingsland.html,NA
+764,Museum,LaGuardia and Wagner Archives,,,31-10 Thomson Ave.,40.74396007,-73.93514568,,NA,,,,,,(718) 482-5065,http://www.laguardiawagnerarchive.lagcc.cuny.edu/defaultc.htm,NA
+765,Museum,Lee Young Hee Museum of Korean Culture,,,2 West 32nd Street,40.74719709,-73.98618833,,NA,,,,,,(212) 560-0722,http://www.lyhkm.org/,NA
+766,Museum,Lefferts Historic House,,,Prospect Park Willink Entrance,40.66437996,-73.96381416,,NA,,,,,,(718) 789-2822,http://www.prospectpark.org/visit/places/lefferts,NA
+767,Museum,Madame Tussauds Wax Museum,,,234 W. 42nd Street,40.75631816,-73.98870226,,NA,,,,,,(800) 246-8872,http://www.madametussauds.com/NewYork/,NA
+768,Museum,Merchant's House Museum,,,29 East Fourth Street,40.72765742,-73.99234605,,NA,,,,,,(212) 777-1089,http://www.merchantshouse.com/,NA
+769,Museum,Metropolitan Museum of Art (MET),,,1000 Fifth Avenue,40.77942354,-73.96345111,,NA,,,,,,(212) 535-7710,http://www.metmuseum.org/,NA
+770,Museum,Mexican Cultural Institute of New York,,,27 E. 39th St.,40.75078437,-73.97988118,,NA,,,,,,(212) 217-6422,http://www.lavitrina.com/,NA
+771,Museum,Morgan Library and Museum,,,225 Madison Avenue,40.74929507,-73.98132149,,NA,,,,,,(212) 685-0008,http://www.themorgan.org/home.asp,NA
+772,Museum,Morris-Jumel Mansion,,,65 Jumel Terrace,40.83444768,-73.93857439,,NA,,,,,,(212) 923-8008,http://www.morrisjumel.org/,NA
+773,Museum,Mount Vernon Hotel Museum & Garden,,,421 East 61 Street,40.76052578,-73.95971083,,NA,,,,,,(212) 838-6878,http://www.mvhm.org/,NA
+774,Museum,Municipal Art Society,,,457 Madison Avenue,40.75824831,-73.97499987,,NA,,,,,,(212) 935-3960,http://mas.org/,NA
+775,Museum,Museum for African Art,,,36-01 43rd Avenue,40.74634174,-73.92822391,,NA,,,,,,(718) 784-7700,http://www.africanart.org/,NA
+776,Museum,Museum of American Finance,,,48 Wall Street,40.70648459,-74.0091216,,NA,,,,,,(212) 908-4110,http://www.moaf.org/index,NA
+777,Museum,Museum of American Illustration,,,128 E. 63d St.,40.76471562,-73.96690031,,NA,,,,,,(212) 838-2560,http://societyillustrators.org/museum/index.cms,NA
+778,Museum,Museum of Arts & Design (MAD),,,2 Columbus Circle,40.76740607,-73.98200725,,NA,,,,,,(212) 299-7777,http://www.madmuseum.org/,NA
+779,Museum,Museum of Biblical Art,,,1865 Broadway,40.77025241,-73.98272584,,NA,,,,,,(212) 408-1200,http://www.mobia.org/,NA
+780,Museum,Museum Of Chinese In America,,,215 Centre Street,40.71945395,-73.99919192,,NA,,,,,,(212) 619-4785,http://www.mocanyc.org/,NA
+781,Museum,Museum of Comic and Cartoon Art (MoCCA),,,594 Broadway,40.72479795,-73.99670248,,NA,,,,,,(212) 254 3511,http://www.moccany.org/,NA
+782,Museum,Museum of Contemporary African Diasporan Arts (MoCADA),,,80 Hanson Place,40.68524514,-73.97442478,,NA,,,,,,(718) 230-0492,http://www.mocada.org/,NA
+783,Museum,Museum of Jewish Heritage,,,36 Battery Place,40.70598665,-74.01858572,,NA,,,,,,(646) 437-4200,http://www.mjhnyc.org/index.htm,NA
+784,Museum,Museum of Modern Art (MoMA),,,11 West 53rd Street,40.76118664,-73.97700363,,NA,,,,,,(212) 708-9400,http://www.moma.org/,NA
+785,Museum,Museum of the City of New York,,,1220 Fifth Avenue,40.79250903,-73.95191697,,NA,,,,,,(212) 534-1672,http://www.mcny.org,NA
+786,Museum,Museum of the Moving Image,,,35 Avenue at 36 Street,40.75694449,-73.92451017,,NA,,,,,,(718) 784-4520,http://www.movingimage.us/site/site.php,NA
+787,Museum,National Academy Museum,,,1083 5th Avenue,40.78361317,-73.95849177,,NA,,,,,,(212) 369-4880,https://nationalacademy.org/index.asp,NA
+788,Museum,National Lighthouse Museum,,,1 Lighthouse Plaza,40.64094902,-74.07373713,,NA,,,,,,(718) 556-1681,http://statenislandusa.com/pages/lighthouse.html,NA
+789,Museum,National Museum of the American Indian,,,1 Bowling Green,40.70432126,-74.01372705,,NA,,,,,,(212) 514-3700,http://www.nmai.si.edu/,NA
+790,Museum,National September 11 Memorial & Museum at the World Trade Center,,,1 Liberty Plaza,40.70965449,-74.01091566,,NA,,,,,,(212) 227-7722,http://www.911memorial.org/,NA
+791,Museum,Neue Galerie New York,,,1048 Fifth Avenue,40.78124234,-73.96024813,,NA,,,,,,(212) 628-6200,http://www.neuegalerie.org/,NA
+792,Museum,New Museum of Contemporary Art,,,235 Bowery,40.7223467,-73.99283879,,NA,,,,,,(212) 219-1222,http://www.newmuseum.org/,NA
+793,Museum,New York City Fire Museum,,,278 Spring Street,40.72557181,-74.00693426,,NA,,,,,,(212) 691-1303,http://www.nycfiremuseum.org/,NA
+794,Museum,New York City Police Museum,,,100 Old Slip,40.70347829,-74.00811754,,NA,,,,,,(212) 480-3100,http://www.nycpolicemuseum.org/,NA
+795,Museum,New York Hall of Science,,,47-01 111th Street,40.74714779,-73.8516868,,NA,,,,,,(718) 699-0005,http://www.nysci.org/,NA
+796,Museum,New York Historical Society,,,2 West 77th Street,40.77927324,-73.97425754,,NA,,,,,,(212) 873-3400,https://www.nyhistory.org/web/,NA
+797,Museum,New York Tolerance Center,,,50 E 42nd St,40.75242292,-73.97912411,,NA,,,,,,(212) 697-1180,http://www.kintera.org/site/pp.asp?c=fwLYKnN8LzH&b=242506,NA
+798,Museum,New York Transit Museum,,,Boerum Pl. & Schermenhorn Street,40.6905237,-73.99002597,,NA,,,,,,(718) 694-4915,http://www.mta.info/mta/museum/,NA
+799,Museum,Nicholas Roerich Museum,,,319 West 107 Street,40.802914,-73.9690225,,NA,,,,,,(212) 864-7752,http://www.roerich.org/,NA
+800,Museum,Noble Maritime Collection,,,1000 Richmond Terrace,40.64431194,-74.10177204,,NA,,,,,,(718) 447-6490,http://www.noblemaritime.org/,NA
+801,Museum,Old Stone House,,,326 5th Avenue,40.67299347,-73.98461861,,NA,,,,,,(718) 768-3195,http://www.theoldstonehouse.org/,NA
+802,Museum,P.S. 1 Contemporary Art Center,,,22-25 Jackson Ave.,40.74583947,-73.94621242,,NA,,,,,,(718) 784-2084,http://www.ps1.org/,NA
+803,Museum,Paley Center For Media (formerly Museum Of Television & Radio),,,25 West 52 Street,40.76057364,-73.97760161,,NA,,,,,,(212) 621-6800,http://www.paleycenter.org/,NA
+804,Museum,Queens Art Museum - Bulova Corporate Center,,,75-20 Astoria Blvd.,40.76460726,-73.89314846,,NA,,,,,,(516) 624-1910,http://www.bdg.net/properties/1/,NA
+805,Museum,Queens County Farm Museum,,,73-50 Little Neck Parkway,40.7455696,-73.72573661,,NA,,,,,,(718) 347-3276,http://www.queensfarm.org/,NA
+806,Museum,Queens Museum of Art,,,Queens Museum of Art,40.74584286,-73.84676276,,NA,,,,,,(718) 592-9700,http://www.queensmuseum.org/,NA
+807,Museum,Rose Center for Earth and Space (Hayden Planetarium),,,15 West 81st Street,40.78285983,-73.97257491,,NA,,,,,,(212) 769-5100,http://www.haydenplanetarium.org/index.php,NA
+808,Museum,Rose Museum at Carnegie Hall,,,154 West 57th Street,40.76501231,-73.9799105,,NA,,,,,,(212) 903-9629,http://www.carnegiehall.org/textSite/the_basics/art_museum_archives.html,NA
+809,Museum,Rubin Museum of Art,,,150 West 17th Street,40.74002038,-73.99779153,,NA,,,,,,(212) 620-5000,http://www.rmanyc.org/,NA
+810,Museum,Sandy Ground Historical Society,,,1538 Woodrow Road,40.54097835,-74.21650282,,NA,,,,,,(718) 317-5796,http://statenislandusa.com/pages/sandy_ground.html,NA
+811,Museum,Scandinavia House: The Nordic Center in America,,,58 Park Ave.,40.7494469,-73.98008844,,NA,,,,,,(212) 879-9779,http://www.scandinaviahouse.org/,NA
+812,Museum,Schomburg Center for Research in Black Culture,,,515 Malcolm X Boulevard,40.81461273,-73.94099076,,NA,,,,,,(212) 491-2200,http://www.nypl.org/research/sc/sc.html,NA
+813,Museum,School of Visual Arts Museum,,,209 E. 23rd St.,40.73875919,-73.98224233,,NA,,,,,,(212) 592-2145,http://www.schoolofvisualarts.edu/sa/index.jsp?sid0=201&page_id=482&event_id=865,NA
+814,Museum,Seguine Mansion,,,440 Seguine Avenue,40.51521434,-74.1975893,,NA,,,,,,(718) 667-6042,http://www.historichousetrust.org/item.php?i_id=38,NA
+815,Museum,Skyscraper Museum,,,39 Battery Place,40.70565753,-74.01756807,,NA,,,,,,(212) 968-1961,http://www.skyscraper.org/home.htm,NA
+816,Museum,Solomon R. Guggenheim Museum,,,1071 Fifth Avenue,40.78300948,-73.95891102,,NA,,,,,,(212) 423-3500,http://www.guggenheim.org/,NA
+817,Museum,Sony Wonder Technology Lab,,,550 Madison Ave,40.7614703,-73.97350782,,NA,,,,,,(212) 833-8100,http://wondertechlab.sony.com/,NA
+818,Museum,South Street Seaport Museum,,,12 Fulton Street,40.70660336,-74.00372094,,NA,,,,,,(212) 748-8600,http://www.southstreetseaportmuseum.org/,NA
+819,Museum,Staten Island Children's Museum,,,1000 Richmond Terr.,40.64270888,-74.10189211,,NA,,,,,,(718) 273-2060,http://www.statenislandkids.org/,NA
+820,Museum,Staten Island Museum / Staten Island Institute of Arts & Sciences,,,75 Stuyvesant Pl.,40.64436918,-74.07766506,,NA,,,,,,(718) 727-1135,http://www.statenislandmuseum.org/,NA
+821,Museum,Studio Museum in Harlem,,,144 West 125th Street,40.80824548,-73.94772615,,NA,,,,,,(212) 864-4500,http://www.studiomuseum.org,NA
+822,Museum,Tenement Museum,,,108 Orchard Street,40.7186877,-73.98967905,,NA,,,,,,(212) 431-0233,http://www.tenement.org/,NA
+823,Museum,"The Freakatorium, El Museo Loco",,,57 Clinton St.,40.71961673,-73.98501449,,NA,,,,,,(212) 375-0475,http://www.freakatorium.com/,NA
+824,Museum,The Jazz Museum in Harlem,,,104 E. 126th Street,40.80527638,-73.93805874,,NA,,,,,,(212) 348-8300,http://www.jazzmuseuminharlem.org/,NA
+825,Museum,The Jewish Children's Museum,,,792 Eastern Pkwy,40.66891158,-73.94196177,,NA,,,,,,(718) 467-0600,http://www.jcmonline.org/,NA
+826,Museum,The Museum at FIT,,,7th Avenue at West 27th Street,40.74700838,-73.99392967,,NA,,,,,,(212) 217-5800,http://www.fitnyc.edu/306.asp,NA
+827,Museum,Theodore Roosevelt Birthplace,,,28 East 20th Street,40.73864201,-73.98904085,,NA,,,,,,(212) 260-1616,http://www.nps.gov/thrb/index.htm,NA
+828,Museum,Ukrainian Museum,,,222 East 6th Street,40.72767679,-73.98975703,,NA,,,,,,(212) 228-0110,http://www.ukrainianmuseum.org/,NA
+829,Museum,Valentine-Varian House,,,3266 Bainbridge Ave.,40.87737982,-73.87942472,,NA,,,,,,(718) 881-8900,http://www.museumregister.com/US/NewYork/Bronx/ValentineVarianHouse/Info.html,NA
+830,Museum,Van Cortlandt House Museum,,,VAN CRTLANDT MANSION,40.89111117,-73.89482257,,NA,,,,,,(718) 543-3344,http://www.vancortlandthouse.org/,NA
+831,Museum,Wave Hill,,,West 249th Street & Independence Avenue,40.89788471,-73.91165377,,NA,,,,,,(718) 549-3200,http://wavehill.org/visit/,NA
+832,Museum,Wyckoff Farmhouse Museum,,,5816 Clarendon Ave,40.64434068,-73.9207963,,NA,,,,,,(718) 629-5400,http://www.wyckoffassociation.org/,NA
+833,Museum,Leo Baeck Institute,,,15 W. 16th St.,40.73802754,-73.99376449,,NA,,,,,,(212) 744-6400,http://www.lbi.org/,NA
+834,Museum,American Sephardi Federation / Sephardic House,,,15 W. 16th St.,40.73807723,-73.9938858,,NA,,,,,,(212) 294-8350,http://www.americansephardifederation.org/,NA
+835,Museum,YIVO Institute for Jewish Research,,,15 W. 16th St.,40.73795995,-73.99379427,,NA,,,,,,(212) 246-6860,http://www.yivoinstitute.org/,NA
+836,Museum,American Jewish Historical Society,,,15 W. 16th St.,40.73801538,-73.9939289,,NA,,,,,,(212) 294-6160,http://www.ajhs.org/,NA
+837,Museum,Yeshiva University Museum,,,15 W. 16th St.,40.73804568,-73.99381737,,NA,,,,,,(212) 294-8330,http://www.yumuseum.org/,NA
+838,Museum,Center For Jewish History,,,15 W. 16th St.,40.73798676,-73.99386877,,NA,,,,,,(212) 294-8301,http://www.cjh.org,NA
+839,library,115th Street,NA,NA,West 115th Street,40.802,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+840,library,125th Street,NA,NA,East 125th Street,40.803,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+841,library,53rd Street,NA,NA,West 53rd Street,40.76,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+842,library,58th Street,NA,NA,East 58th Street,40.762,-73.96,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+843,library,67th Street,NA,NA,East 67th Street,40.764,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+844,library,96th Street,NA,NA,East 96th Street,40.785,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+845,library,Aguilar,NA,NA,East 110th Street,40.794,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+846,library,Allerton,NA,NA,Barnes Avenue,40.866,-73.86,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+847,library,Andrew Heiskell Braille and Talking Book,NA,NA,West 20th Street,40.74,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+848,library,Battery Park City Library,NA,NA,North End Avenue,40.715,-74.01,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+849,library,Baychester,NA,NA,Asch Loop North,40.87,-73.82,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+850,library,Belmont Library and Enrico Fermi Cultural Center,NA,NA,East 186th Street,40.854,-73.88,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+851,library,Bloomingdale,NA,NA,West 100th Street,40.795,-73.96,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+852,library,Bronx Library Center,NA,NA,East Kingsbridge Road,40.862,-73.89,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+853,library,Castle Hill,NA,NA,Castle Hill Avenue,40.826,-73.85,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+854,library,Chatham Square,NA,NA,East Broadway,40.713,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+855,library,City Island,NA,NA,City Island Avenue,40.847,-73.78,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+856,library,Clason's Point,NA,NA,Morrison Avenue,40.829,-73.87,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+857,library,Columbus,NA,NA,10th Avenue,40.764,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+858,library,Countee Cullen,NA,NA,West 136th Street,40.814,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+859,library,Dongan Hills,NA,NA,Richmond Road,40.59,-74.1,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+860,library,Eastchester,NA,NA,East Gun Hill Road,40.87,-73.84,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+861,library,Edenwald,NA,NA,East 233rd Street,40.888,-73.84,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+862,library,Epiphany,NA,NA,East 23rd Street,40.738,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+863,library,Fort Washington,NA,NA,West 179th Street,40.847,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+864,library,Francis Martin,NA,NA,University Avenue,40.857,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+865,library,George Bruce,NA,NA,West 125th Street,40.813,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+866,library,Grand Central,NA,NA,East 46th Street,40.754,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+867,library,Grand Concourse,NA,NA,East 173rd Street,40.844,-73.91,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+868,library,Great Kills,NA,NA,Giffords Lane,40.552,-74.15,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+869,library,Hamilton Fish Park,NA,NA,East Houston Street,40.719,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+870,library,Hamilton Grange,NA,NA,West 145th Street,40.825,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+871,library,Harlem,NA,NA,West 124th Street,40.806,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+872,library,High Bridge,NA,NA,West 168th Street,40.837,-73.92,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+873,library,Hudson Park,NA,NA,Leroy Street,40.729,-74,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+874,library,Huguenot Park,NA,NA,Huguenot Avenue,40.534,-74.19,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+875,library,Hunts Point,NA,NA,Southern Boulevard,40.818,-73.89,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+876,library,Inwood,NA,NA,Broadway,40.865,-73.92,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+877,library,Jefferson Market,NA,NA,Avenue of the Americas,40.734,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+878,library,Jerome Park,NA,NA,Eames Place,40.869,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+879,library,Kingsbridge,NA,NA,West 231st Street,40.88,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+880,library,Kips Bay,NA,NA,Third Avenue,40.743,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+881,library,Macomb's Bridge,NA,NA,Adam Clayton Powell Jr. Boulevard,40.826,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+882,library,Mariners Harbor,NA,NA,South Ave,40.634,-74.16,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+883,library,Melrose,NA,NA,Morris Avenue,40.826,-73.91,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+884,library,Mid-Manhattan,NA,NA,Fifth Avenue,40.751,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+885,library,Morningside Heights,NA,NA,Broadway,40.806,-73.96,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+886,library,Morris Park,NA,NA,Morris Park Avenue,40.848,-73.85,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+887,library,Morrisania,NA,NA,East 169th Street,40.831,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+888,library,Mosholu,NA,NA,East 205th Street,40.874,-73.87,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+889,library,Mott Haven,NA,NA,East 140th Street,40.811,-73.92,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+890,library,Muhlenberg,NA,NA,West 23rd Street,40.744,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+891,library,Mulberry Street,NA,NA,Jersey Street,40.724,-73.99,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+892,library,New Amsterdam,NA,NA,Murray Street,40.713,-74,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+893,library,New Dorp,NA,NA,New Dorp Lane,40.571,-74.11,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+894,library,"Library for the Performing Arts, Dorothy and Lewis B. Cullman Center",NA,NA,Lincoln Center Plaza,40.773,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+895,library,Ottendorfer,NA,NA,Second Avenue,40.728,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+896,library,Parkchester,NA,NA,Westchester Avenue,40.833,-73.85,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+897,library,Pelham Bay,NA,NA,Middletown Road,40.844,-73.82,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+898,library,Pelham Parkway-Van Nest,NA,NA,Barnes Avenue,40.854,-73.86,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+899,library,Port Richmond,NA,NA,Bennett Street,40.637,-74.13,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+900,library,Richmondtown,NA,NA,Clarke Avenue,40.566,-74.13,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+901,library,Riverdale,NA,NA,Mosholu Avenue,40.903,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+902,library,Riverside,NA,NA,Amsterdam Avenue,40.774,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+903,library,Roosevelt Island,NA,NA,Main Street,40.761,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+904,library,Schomburg Center for Research in Black Culture,NA,NA,Malcolm X Boulevard,40.814,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+905,library,"Science, Industry and Business Library (SIBL)",NA,NA,Madison Avenue,40.748,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+906,library,Sedgwick,NA,NA,Martin Luther King Jr. Boulevard,40.849,-73.91,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+907,library,Seward Park,NA,NA,East Broadway,40.714,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+908,library,Soundview,NA,NA,Soundview Avenue,40.818,-73.86,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+909,library,South Beach,NA,NA,Robin Road,40.595,-74.06,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+910,library,Spuyten Duyvil,NA,NA,West 235th Street,40.886,-73.91,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+911,library,St. Agnes,NA,NA,Amsterdam Avenue,40.784,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+912,library,St. George Library Center,NA,NA,Central Avenue,40.641,-74.07,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+913,library,Stapleton,NA,NA,Canal Street,40.626,-74.07,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+914,library,Stephen A. Schwarzman Building,NA,NA,Fifth Avenue at 42nd Street,40.753,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+915,library,Terence Cardinal Cooke-Cathedral,NA,NA,Lexington Avenue,40.756,-73.97,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+916,library,Throg's Neck,NA,NA,Cross Bronx Expressway Extension,40.822,-73.81,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+917,library,Todt Hill-Westerleigh,NA,NA,Victory Boulevard,40.609,-74.14,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+918,library,Tompkins Square,NA,NA,East 10th Street,40.727,-73.98,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+919,library,Tottenville,NA,NA,Amboy Road,40.509,-74.24,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+920,library,Tremont,NA,NA,Washington Avenue,40.846,-73.89,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+921,library,Van Cortlandt,NA,NA,Sedgwick Avenue,40.882,-73.89,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+922,library,Wakefield,NA,NA,Lowerre Place,40.891,-73.85,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+923,library,Washington Heights,NA,NA,St. Nicholas Avenue,40.834,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+924,library,Webster,NA,NA,York Avenue,40.77,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+925,library,West Farms,NA,NA,Honeywell Avenue,40.844,-73.88,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+926,library,West New Brighton,NA,NA,Castleton Avenue,40.634,-74.11,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+927,library,Westchester Square,NA,NA,Glebe Avenue,40.84,-73.84,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+928,library,Woodlawn Heights,NA,NA,Katonah Avenue,40.9,-73.86,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+929,library,Woodstock,NA,NA,East 160th Street,40.82,-73.9,The Bronx,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+930,library,Yorkville,NA,NA,East 79th Street,40.773,-73.95,Other,NA,NA,NA,NA,NA,NA,NA,NA,NYPL
+931,library,Arlington,NA,NA,Arlington Avenue,40.68,-73.88,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+932,library,Bay Ridge,NA,NA,Ridge Boulevard,40.633,-74.02,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+933,library,Bedford,NA,NA,Franklin Avenue,40.681,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+934,library,Borough Park,NA,NA,43rd Street,40.638,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+935,library,Brighton Beach <br> (Closed for Renovation),NA,NA,Brighton First Road,40.576,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+936,library,Brooklyn Heights,NA,NA,Cadman Plaza West,40.695,-73.99,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+937,library,Brower Park,NA,NA,St. Marks Avenue,40.675,-73.94,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+938,library,Brownsville,NA,NA,Glenmore Avenue,40.671,-73.9,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+939,library,Bushwick,NA,NA,Bushwick Avenue,40.704,-73.93,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+940,library,Canarsie,NA,NA,Rockaway Parkway,40.642,-73.89,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+941,library,Carroll Gardens,NA,NA,Clinton Street,40.683,-73.99,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+942,library,Brooklyn Central Library,NA,NA,Grand Army Plaza,40.672,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+943,library,Clarendon,NA,NA,Nostrand Avenue,40.635,-73.94,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+944,library,Clinton Hill,NA,NA,Washington Avenue,40.687,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+945,library,Coney Island,NA,NA,Mermaid Avenue,40.576,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+946,library,Cortelyou,NA,NA,Cortelyou Road,40.64,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+947,library,Crown Heights,NA,NA,New York Avenue,40.661,-73.94,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+948,library,Cypress Hills,NA,NA,Sutter Avenue,40.672,-73.87,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+949,library,DeKalb,NA,NA,Bushwick Avenue,40.694,-73.92,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+950,library,Dyker,NA,NA,13th Avenue,40.616,-74.01,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+951,library,East Flatbush,NA,NA,Church Avenue,40.655,-73.91,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+952,library,Eastern Parkway,NA,NA,Eastern Parkway,40.668,-73.93,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+953,library,Flatbush,NA,NA,Linden Boulevard,40.651,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+954,library,Flatlands,NA,NA,Flatbush Avenue,40.619,-73.93,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+955,library,Fort Hamilton,NA,NA,Fourth Avenue,40.616,-74.03,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+956,library,Gerritsen Beach,NA,NA,Gerritsen Avenue,40.591,-73.92,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+957,library,Gravesend,NA,NA,Avenue X,40.59,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+958,library,Greenpoint,NA,NA,Norman Avenue,40.726,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+959,library,Highlawn,NA,NA,West 13th Street,40.605,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+960,library,Homecrest,NA,NA,Coney Island Avenue,40.595,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+961,library,Jamaica Bay,NA,NA,Seaview Avenue,40.634,-73.88,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+962,library,Kensington,NA,NA,18th Avenue,40.631,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+963,library,Kings Bay,NA,NA,Nostrand Avenue,40.594,-73.94,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+964,library,Kings Highway,NA,NA,Ocean Avenue,40.61,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+965,library,Leonard,NA,NA,Devoe Street,40.713,-73.94,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+966,library,Macon,NA,NA,Lewis Avenue,40.683,-73.93,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+967,library,Mapleton,NA,NA,60th Street,40.623,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+968,library,Marcy,NA,NA,DeKalb Avenue,40.691,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+969,library,McKinley Park,NA,NA,Fort Hamilton Parkway,40.629,-74.01,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+970,library,Midwood,NA,NA,East 16th Street,40.625,-73.96,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+971,library,Mill Basin,NA,NA,Ralph Avenue,40.619,-73.91,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+972,library,New Lots,NA,NA,New Lots Avenue,40.665,-73.88,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+973,library,"New Utrecht <br> (Temporary Closed, will reopen later this Summer (2016).",NA,NA,86th Street,40.608,-74,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+974,library,Pacific,NA,NA,Fourth Avenue,40.683,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+975,library,Paerdegat,NA,NA,East 59th Street,40.632,-73.91,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+976,library,Park Slope,NA,NA,6th Avenue,40.668,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+977,library,Red Hook,NA,NA,Wolcott Street,40.675,-74.01,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+978,library,Rugby,NA,NA,Utica Avenue,40.648,-73.93,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+979,library,Ryder,NA,NA,23rd Avenue,40.615,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+980,library,Saratoga,NA,NA,Thomas S. Boyland Street,40.684,-73.91,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+981,library,Sheepshead Bay,NA,NA,East 14th Street,40.587,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+982,library,Spring Creek,NA,NA,Flatlands Avenue,40.653,-73.88,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+983,library,Stone Avenue,NA,NA,Mother Gaston Boulevard,40.664,-73.9,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+984,library,Sunset Park,NA,NA,4th Avenue,40.645,-74.01,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+985,library,Ulmer Park,NA,NA,Bath Avenue,40.592,-73.98,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+986,library,Walt Whitman,NA,NA,Saint Edwards Street,40.694,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+987,library,Washington Irving,NA,NA,Irving Avenue,40.697,-73.91,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+988,library,Williamsburgh,NA,NA,Division Avenue,40.706,-73.95,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+989,library,Windsor Terrace,NA,NA,East 5th Street,40.648,-73.97,Brooklyn,NA,NA,NA,NA,NA,NA,NA,NA,BPL
+990,library,Arverne,NA,NA,Beach 54 Street,40.593,-73.78,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+991,library,Astoria,NA,NA,Astoria Boulevard,40.772,-73.92,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+992,library,Auburndale,NA,NA,Francis Lewis Boulevard,40.773,-73.79,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+993,library,Baisley Park,NA,NA,Sutphin Boulevard,40.68,-73.79,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+994,library,Bay Terrace,NA,NA,Bell Boulevard,40.782,-73.77,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+995,library,Bayside,NA,NA,Northern Boulevard,40.76,-73.76,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+996,library,Bellerose,NA,NA,Hillside Avenue,40.735,-73.71,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+997,library,Briarwood,NA,NA,Main Street,40.71,-73.81,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+998,library,Broad Channel,NA,NA,Cross Bay Boulevard,40.6,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+999,library,Broadway,NA,NA,Broadway,40.758,-73.91,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1000,library,Cambria Heights,NA,NA,Linden Boulevard,40.695,-73.74,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1001,library,Queens Central Library,NA,NA,Merrick Boulevard,40.707,-73.79,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1002,library,Corona,NA,NA,104 Street,40.75,-73.86,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1003,library,Court Square,NA,NA,Jackson Avenue,40.746,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1004,library,Douglaston/Little Neck,NA,NA,Northern Boulevard,40.768,-73.73,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1005,library,East Elmhurst,NA,NA,Astoria Boulevard,40.762,-73.87,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1006,library,East Flushing,NA,NA,Northern Boulevard,40.757,-73.78,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1007,library,Elmhurst <br> (Temporary location due to renovations),NA,NA,51 Avenue,40.738,-73.87,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1008,library,Far Rockaway,NA,NA,Central Avenue,40.604,-73.75,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1009,library,Flushing,NA,NA,Main Street,40.757,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1010,library,Forest Hills,NA,NA,71 Avenue,40.722,-73.84,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1011,library,Fresh Meadows,NA,NA,Horace Harding Expressway,40.741,-73.78,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1012,library,Glen Oaks,NA,NA,Union Turnpike,40.745,-73.71,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1013,library,Glendale,NA,NA,73 Place,40.702,-73.87,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1014,library,Hillcrest,NA,NA,Union Turnpike,40.729,-73.78,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1015,library,Hollis,NA,NA,Hillside Avenue,40.72,-73.76,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1016,library,Howard Beach,NA,NA,156 Avenue,40.663,-73.84,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1017,library,Jackson Heights,NA,NA,81 Street,40.75,-73.88,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1018,library,Kew Gardens Hills <br> (Temporary location),NA,NA,Main Street,40.726,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1019,library,Langston Hughes,NA,NA,Northern Boulevard,40.757,-73.86,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1020,library,Laurelton,NA,NA,225 Street,40.676,-73.74,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1021,library,Lefferts,NA,NA,Lefferts Boulevard,40.686,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1022,library,Lefrak City,NA,NA,57 Avenue,40.737,-73.86,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1023,library,Long Island City,NA,NA,21 Street,40.757,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1024,library,Maspeth,NA,NA,Grand Avenue,40.726,-73.89,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1025,library,McGoldrick,NA,NA,Roosevelt Avenue,40.763,-73.8,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1026,library,Middle Village,NA,NA,Metropolitan Avenue,40.712,-73.88,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1027,library,Mitchell-Linden,NA,NA,Union Street,40.769,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1028,library,North Forest Park,NA,NA,Metropolitan Avenue,40.711,-73.85,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1029,library,North Hills,NA,NA,Marathon Parkway,40.759,-73.73,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1030,library,Ozone Park <br> (Closed for renovations),NA,NA,Rockaway Boulevard,40.68,-73.84,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1031,library,Peninsula,NA,NA,Rockaway Beach Boulevard,40.585,-73.81,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1032,library,Pomonok,NA,NA,Jewel Avenue,40.732,-73.81,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1033,library,Poppenhusen,NA,NA,14 Avenue,40.786,-73.84,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1034,library,Queens Library for Teens,NA,NA,Cornaga Avenue,40.602,-73.75,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1035,library,Queens Village,NA,NA,217 Street,40.719,-73.73,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1036,library,Queensboro Hill,NA,NA,Main Street,40.742,-73.82,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1037,library,Queensbridge <br> Now a Family Literacy Center,NA,NA,41 Avenue,40.755,-73.94,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1038,library,Ravenswood <br> Now a Family Literacy Center,NA,NA,21 Street,40.76,-73.93,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1039,library,Rego Park,NA,NA,63 Drive,40.727,-73.86,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1040,library,Richmond Hill,NA,NA,Hillside Avenue,40.7,-73.83,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1041,library,Ridgewood,NA,NA,Madison Street,40.705,-73.9,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1042,library,Rochdale Village,NA,NA,137 Avenue,40.672,-73.77,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1043,library,Rosedale,NA,NA,243 Street,40.659,-73.73,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1044,library,Seaside,NA,NA,Rockaway Beach Boulevard,40.579,-73.83,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1045,library,South Hollis,NA,NA,Hollis Avenue,40.707,-73.75,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1046,library,South Jamaica,NA,NA,Guy R. Brewer Boulevard,40.695,-73.79,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1047,library,South Ozone Park,NA,NA,Rockaway Boulevard,40.674,-73.8,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1048,library,St.Albans,NA,NA,Linden Boulevard,40.692,-73.76,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1049,library,Steinway,NA,NA,31 Street,40.776,-73.9,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1050,library,Sunnyside,NA,NA,Greenpoint Avenue,40.74,-73.92,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1051,library,Whitestone,NA,NA,14 Road,40.788,-73.81,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1052,library,Windsor Park,NA,NA,Bell Boulevard,40.734,-73.75,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1053,library,Woodhaven,NA,NA,Forest Parkway,40.694,-73.86,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
+1054,library,Woodside,NA,NA,Skillman Avenue,40.745,-73.9,Other,NA,NA,NA,NA,NA,NA,NA,NA,QPL
