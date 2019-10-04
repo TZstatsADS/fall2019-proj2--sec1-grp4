@@ -1,0 +1,357 @@
+---
+title: "server.cho"
+author: "Sung In Cho (sc4393)"
+date: "10/3/2019"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+setwd("/Users/davidcho/ADS proj2")
+ui <- 
+  dashboardPage(
+  dashboardHeader(title = "\"New\" Yorkers"),
+  dashboardSidebar(
+    sidebarMenu(
+      menuItem("Introduction", tabName = "intro", icon = icon("fas fa-info")),
+      menuItem("Map", tabName = "mapping", icon = icon("map")),
+      menuItem("List", tabName = "listing", icon = icon("fas fa-list")),
+      menuItem("Stats", icon = icon("fas fa-chart-bar"), tabName = "stat"),
+      menuItem("Crime", icon = icon("fas fa-exclamation-triangle"), 
+               tabName = "crime"),
+      menuItem("Directory", icon = icon("book"), tabName = "directory")
+    )
+  ),
+  
+  dashboardBody(
+    tabItems(
+      tabItem(# Introduction
+        tabName="intro", 
+        fluidPage(
+          titlePanel("Introduction"),
+          sidebarLayout(
+           sidebarPanel(
+              h2("New York Travlers,"),
+             p("This app is made to make your New York adventure go as smooth as possible."),
+             br(),
+             img(src='newyorkmap', height=153, width=145),
+             br(),
+             br(),
+             "This app is a product of ",
+             em("Group 4")
+             ),
+           mainPanel(
+             h1("Introducing \"New\" Yorkers"),
+             p("When it comes to vacation, travelers are relying on their smartphones more than ever, as they are not familiar with",
+               em("where they are!"),
+               "To give a little help to those people, we made this app."),
+             br(),
+             p("We hope this app will help you feel more comfortable and relaxed in New York City."),
+             br(),
+             h2("Features"),
+             p("- Type in where you are. It will provide you the information about the great places that are near your location!"),
+             p("- The belly has no eyes! Before travelling, you must fill your belly first. This app will help you find the food that you want to have now!"),
+             p("- NYC is amazing. But still, there are some places that you won't want to visit. This app also provides the information about crimes in NYC.")
+             )
+           )#sidebarLayout
+          )#fluidPage
+      ),#tabItem
+    
+    tabItem(# Map
+      tabName= "mapping",
+      fluidRow(
+        box(leafletOutput("map1")),
+        box(textInput(h3("Current Location"), inputId = "inaddress")),
+        box(
+          checkboxGroupInput(
+            inputId = "type",
+            label=h4("Types of Place"),
+            choices =list("LANDMARK"="LANDMARK",
+                          "FILM"="FILM",
+                          "MUSEUM"="MUSEUM",
+                          "LIBRARY"="LIBRARY",
+                          "RESTAURANT"="RESTAURANT"))
+          ),
+        box(submitButton("Locate me")),
+        box(sliderInput(inputId = "range", "Radius Range(mile):",
+                        min=0, max=5, value=1)),
+        box(h4(textOutput("text1_1")))
+        )#fluidRow
+      ),#tabItem - map
+    
+    tabItem( # List of Places and Restaurants
+      tabName = "listing", 
+      fluidRow(
+          
+          box( # list of landmarks
+            selectizeInput("land_list", 
+                           label="List of Landmarks (Green)",
+                           choices=place[place$type=="LANDMARK",]$Name, 
+                           selected = NULL, 
+                           options = list(create = TRUE)),
+            # list of films
+            selectizeInput("film_list", 
+                           label="List of Films (Black)",
+                           choices=place[place$type=="FILM",]$Name, 
+                           selected = NULL, 
+                           options = list(create = TRUE)),
+            # list of Museums
+            selectizeInput("museum_list", 
+                           label="List of Museums (Brown)",
+                           choices=place[place$type=="MUSEUM",]$Name, 
+                           selected = NULL, 
+                           options = list(create = TRUE)),
+            # list of Library
+            selectizeInput("library_list", 
+                           label="List of Libraries (Red)",
+                           choices=place[place$type=="LIBRARY",]$Name, 
+                           selected = NULL, 
+                           options = list(create = TRUE))),
+          
+          # Map showing restaurnats near that place
+            box(leafletOutput("map2",width = "100%", height="300px")),
+          
+          # Restaurant Type Filter
+          box(selectInput(inputId = "rest_type", 
+                          label= "Restaurnat Categories",
+                          choices = unique(rest$categories)),
+              submitButton("Yummy!")),
+          
+          # Range Slider
+          box(sliderInput(inputId = "range_list", "Radius Range(meter):",
+                        min=0, max=500, value=250))
+          
+          )
+      ), # tabitem - lists
+    
+    tabItem( # stats
+      tabName = "stat"
+      ), # tabitem - stat
+    
+    tabItem( # crime info
+      tabName = "crime"
+          ), # tabitem - crime
+
+    tabItem( # directory of data
+      tabName = "directory"
+    ) # tabitem - directory
+    )
+  )
+  )
+```
+
+
+```{r}
+server <- function(input, output) {
+  #################### Map ####################
+  output$map1 <- renderLeaflet({
+    current_loc <- geocode(input$inaddress)
+    dlat <- place$lat
+    dlon <- place$lon
+    loc <- cbind(dlon,dlat)
+    loc <- as.matrix(loc)
+    dist <- distHaversine(loc, current_loc)
+
+    data <- place[as.logical(match(place$type, input$type, nomatch=0)) & dist<input$range*1609.34,]
+
+    leaflet(data) %>%
+      addTiles() %>%
+      addMarkers(lng = ~current_loc$lon,
+                 lat = ~current_loc$lat,
+                 popup = "You are here") %>%
+      addCircles(lng = ~current_loc$lon,
+                 lat = ~current_loc$lat,
+                 radius = input$range*1609.34) %>%
+      setView(-73.968285, 40.785091, zoom=12) %>%
+      addMarkers(lng = ~lon, 
+                 lat = ~lat, 
+                 popup = paste(
+                   "Type:", data$type, "<br>",
+                   "Name:", data$Name, "<br>",
+                   "Address:", data$address, "<br>"
+                   ),
+                 icon = ~mapIcons["LIBRARY"]) 
+  })
+  
+  output$text1_1 <- renderText({ 
+    "Tell us where you are. There are so many great places near you!"
+  })
+  
+  #################### List ####################
+  output$map2 <- renderLeaflet({
+    land_loc <- geocode(as.character(place[place$Name==input$land_list,]$address))
+    film_loc <- geocode(as.character(place[place$Name==input$film_list,]$address))
+    museum_loc <- geocode(as.character(place[place$Name==input$museum_list,]$address))
+    library_loc <- geocode(as.character(place[place$Name==input$library_list,]$address))
+    
+    rest_cat <- rest[rest$categories==input$rest_type,]
+    
+    rlat <- rest_cat$lat
+    rlon <- rest_cat$lon
+    rloc <- cbind(rlon,rlat)
+    rloc <- as.matrix(rloc)
+    r_land_dist <- distHaversine(rloc, land_loc)
+    r_film_dist <- distHaversine(rloc, film_loc)
+    r_museum_dist <- distHaversine(rloc, museum_loc)
+    r_library_dist <- distHaversine(rloc, library_loc)
+    
+    rest_list <- rest_cat[r_land_dist<input$range_list |
+                          r_film_dist<input$range_list |
+                          r_museum_dist<input$range_list |
+                          r_library_dist<input$range_list,]
+
+    leaflet(place) %>%
+      addTiles() %>%
+      addMarkers(lng = ~land_loc$lon, #LANDMARK
+                 lat = ~land_loc$lat,
+                 popup = paste("Landmark: ", input$land_list),
+                 icon = ~mapIcons["LANDMARK"]) %>%
+      addCircles(lng = ~land_loc$lon,
+                 lat = ~land_loc$lat,
+                 radius = input$range_list,
+                 color = "green") %>% ##
+      addMarkers(lng = ~film_loc$lon, # FILM
+                 lat = ~film_loc$lat,
+                 popup = paste("Film: ", input$film_list),
+                 icon = ~mapIcons["FILM"]) %>%
+      addCircles(lng = ~film_loc$lon,
+                 lat = ~film_loc$lat,
+                 radius = input$range_list,
+                 color ="black") %>% ##
+      addMarkers(lng = ~museum_loc$lon, # MUSEUM
+                 lat = ~museum_loc$lat,
+                 popup = paste("Museum: ", input$museum_list),
+                 icon = ~mapIcons["MUSEUM"]) %>%
+      addCircles(lng = ~museum_loc$lon,
+                 lat = ~museum_loc$lat,
+                 radius = input$range_list,
+                 color= "brown") %>% ##
+      addMarkers(lng = ~library_loc$lon, # LIBRARY
+                 lat = ~library_loc$lat,
+                 popup = paste("Library: ", input$library_list),
+                 icon = ~mapIcons["LIBRARY"]) %>%
+      addCircles(lng = ~library_loc$lon,
+                 lat = ~library_loc$lat,
+                 radius = input$range_list,
+                 color="red") %>% ##
+      setView(-73.968285, 40.785091, zoom=12) %>%
+      addMarkers(lng = ~rest_list$lon, 
+                 lat = ~rest_list$lat, 
+                 popup = paste(
+                   "Name:", rest_list$Name, "<br>",
+                   "Category:", rest_list$categorie, "<br>",
+                   "Rating / Price level:", rest_list$rating, " / ", 
+                   rest_list$price, "<br>",
+                   "Inspection Result:", rest_list$INSPECTION.RESULT, "<br>", 
+                   "Inspection Date:", rest_list$INSPECTION.DATE, "<br>",
+                   "Address:", rest_list$address, "<br>",
+                   "Phone #:", rest_list$PHONE, "<br>"
+                   ),
+                 icon=~mapIcons["RESTAURANT"]) 
+    
+  })
+  
+}#
+
+shinyApp(ui, server)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+  #cholorpleth
+  output$heatmap <- renderLeaflet({
+    heatrows <- which(alt$Fuel.Type.Code == input$heat_fuel_type)
+    heatdata <- alt[heatrows,]
+    if(input$heat_fuel_type == "All"){
+      leaflet(alt) %>%
+        addProviderTiles("CartoDB.Positron") %>%
+        addHeatmap(blur = 20, max = 0.05, radius = 15)
+    }
+    else{
+    leaflet(heatdata) %>%
+      addProviderTiles("CartoDB.Positron") %>%
+      addHeatmap(blur = 20, max = 0.05, radius = 15)
+    }
+  })
+  
+  output$calc_result <- renderText({
+    fuel_price[1,input$fuel_price] * input$tank
+  })
+  output$fuel_table1 <- renderImage({
+    filename <- normalizePath(file.path('./table2.png'))
+    list(src = filename, width = "300px", height="300px")
+  }, deleteFile = FALSE)
+  output$fuel_table2 <- renderImage({
+    filename <- normalizePath(file.path('./table3.png'))
+    list(src = filename, width = "300px", height="300px")
+  }, deleteFile = FALSE)
+  output$fuel_description <- renderText({
+     "CNG(per GGE), LNG(per DGE), E85,BD: per Gallon, Hydrogen(per Kg)"
+  })
+  output$nav <- renderLeaflet({
+    navrows <- which(alt$Fuel.Type.Code == input$nav_fuel_type)
+    navdata <- alt[navrows,]
+    current_loc <- geocode(input$address)
+    leaflet(navdata) %>%
+      addTiles() %>%
+      addCircleMarkers(lng = ~Longitude, 
+                   lat = ~Latitude, 
+                   popup = paste(
+                     "Name:", alt$Station.Name, "<br>",
+                     "Address:", alt$Street.Address, "<br>",
+                     "Phone #:", alt$Station.Phone, "<br>"
+                     #popupImage(alt$images, src="remote")
+                   ),
+                   stroke = FALSE,
+                   radius = 5,
+                   fillOpacity = 0.7
+                   ) %>%
+      addMarkers(lng = ~current_loc$lon,
+                 lat = ~current_loc$lat,
+                 popup = "You are here") %>%
+      addCircleMarkers(lng = ~current_loc$lon,
+                 lat = ~current_loc$lat,
+                 radius = input$range)
+  })
+  output$analytics <- renderPlotly({
+    count_by_fuel <- altfuel%>%
+      group_by(Fuel.Type.Code) %>%
+      tally()
+    #anal_rows <- which(altfuel$Fuel.Type.Code == input$anal_fuel_type)
+    #analdata <- alt[analrows,]
+    plot_ly(
+      x = count_by_fuel$Fuel.Type.Code,
+      y = count_by_fuel$n,
+      name = "Counts",
+      type = "bar",
+    ) %>%
+      layout(
+        title = "Number of stations by fuel type"
+      )
+  })
+  output$directory <- renderDataTable({
+    shortinfo <- alt[,c('Station.Name','Street.Address','City','State','ZIP','Station.Phone','Owner.Type.Code','Access.Detail.Code')]
+    shortinfo
+  })
+  output$timeline <- renderPlotly({
+    altfuel$year <- substr(altfuel$Open.Date,0,4)
+    timedata_temp <- altfuel[,c('Fuel.Type.Code','year')]
+    timedata <- altfuel%>%
+      group_by(year, Fuel.Type.Code) %>%
+      tally()
+  })
+    
+}
+```
