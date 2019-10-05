@@ -42,11 +42,12 @@ library(shinyWidgets)
 library(shinycssloaders)
 library(shinycustomloader)
 library(shinyFeedback)
+library(geosphere)
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 ```
 
 ```{r}
-setwd("/Users/davidcho/ADS proj2")
+setwd("D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\New Format")
 # import data
 rest <- read.csv("restaurant_NYC.csv") 
 land <- read.csv("final_data.csv")
@@ -66,10 +67,10 @@ place[place$type=="LANDMARKS",]$type <- "LANDMARK"
 ```{r}
 # Icon List
 mapIcons <- iconList(
-  LIBRARY = makeIcon("/Users/davidcho/ADS proj2/library.png", 18, 18),
-  MUSEUM = makeIcon("/Users/davidcho/ADS proj2/museum.png", 18, 18),
-  FILM = makeIcon("/Users/davidcho/ADS proj2/film.png", 18, 18),
-  LANDMARK = makeIcon("/Users/davidcho/ADS proj2/landmark.png", 18, 18),
-  RESTAURANT= makeIcon("/Users/davidcho/ADS proj2/restaurant.png", 18, 18)
+  LIBRARY = makeIcon("library.png", 18, 18),
+  MUSEUM = makeIcon("museum.png", 18, 18),
+  FILM = makeIcon("film.png", 18, 18),
+  LANDMARK = makeIcon("landmark.png", 18, 18),
+  RESTAURANT= makeIcon("restaurant.png", 18, 18)
 )
 ```

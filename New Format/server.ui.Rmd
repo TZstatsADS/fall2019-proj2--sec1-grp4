@@ -8,7 +8,7 @@ editor_options:
 ---
 
 ```{r}
-setwd("/Users/davidcho/ADS proj2")
+
 ui <- 
   dashboardPage(
   dashboardHeader(title = "\"New\" Yorkers"),
