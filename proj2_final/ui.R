@@ -1,7 +1,6 @@
-library(shiny)
-library(shinyWidgets)
-library(leaflet)
-setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\app')
+require(shiny)
+require(shinyWidgets)
+require(leaflet)
 
 ui <- dashboardPage(
         dashboardHeader(title = "\"New\" Yorkers"),
@@ -28,7 +27,7 @@ ui <- dashboardPage(
                         h2("New York Travlers,"),
                         p("This app is made to make your New York adventure go as smooth as possible."),
                         br(),
-                        img(src="newyorkmap.png", height=200, width=240),
+                        img(src="www/newyorkmap.png", height=200, width=240),
                         br(),
                         br(),
                         "This app is a product of ",

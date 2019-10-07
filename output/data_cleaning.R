@@ -20,7 +20,7 @@ colnames(restaurant)[3] <- 'name'
 colnames(restaurant)[4] <- 'borough'
 colnames(restaurant)[6:8] <- c('zipcode','lat','lon')
 colnames(restaurant)[10] <- 'tel'
-restaurant <- restaurant %>%
+restaurant <- restaurant %>%      
   select(type,name,borough,address,zipcode,lat,lon,categories,tel,review_count,rating,price) 
 restaurant$type <- 'Restaurants'
 write_csv(restaurant, "../output/Final_Restaurant.csv")
@@ -34,6 +34,7 @@ landmark$borough[which(landmark$borough=='BK')] <- 'Brooklyn'
 landmark$borough[which(landmark$borough=='QN')] <- 'Queens'
 landmark$borough[which(landmark$borough=='BX')] <- 'Bronx' 
 landmark$type <- 'Landmarks'
+landmark$name <- landmark$address
 write_csv(landmark, "../output/Final_Landmarks.csv")
 
 ### Libraries 

@@ -1,4 +1,4 @@
-,type,Name,year,director,address,lat,lon,borough,complaints.count.freq,Style_Sec,Mat_Prim,Use_Orig,nbhd,imdb,TEL,URL,system,categories,PHONE,rating,price,zip_code
+,Type,Name,Year,Director,Address,Lat,Lon,Borough,Number_of_Complaints,Style,Material,Use,Nbhd,Imdb,Tel,Url,System,Categories,Phone,Rating,Price,Zip_code
 1,landmarks,140-154 W. 72 REALTY,1920,,140 WEST 72 STREET,40.77797454,-73.98015085,Manhattan,13,Queen Anne,Brownstone,"Mixed-use, commercial & residential",,,,,NA,NA,NA,NA,NA,NA
 2,landmarks,THOMAS STREET LLC,1900,,90 GRAND STREET,40.72172475,-74.00206038,Manhattan,8,French,Stone,"Commercial, store and warehouse",,,,,NA,NA,NA,NA,NA,NA
 3,landmarks,"NAHAR, KAMRUN",1930,,35-16 87 STREET,40.751604,-73.879924,Queens,8,neo-Tudor,Brick,"Outbuilding, garage",,,,,NA,NA,NA,NA,NA,NA
