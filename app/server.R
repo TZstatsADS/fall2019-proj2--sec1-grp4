@@ -35,6 +35,7 @@ library(shinyFeedback)
 library(geosphere)
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
+
 setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\output')
 data <- read.csv('../output/FINAL.csv')
 filming <- read.csv('../output/Final_Filming.csv')
@@ -80,7 +81,7 @@ server <- function(input, output) {
                  clusterOptions = markerClusterOptions()
       ) 
   })
-  
+
   output$text1_1 <- renderText({ 
     "Tell us where you are. There are so many great places near you!"
   })
@@ -182,6 +183,56 @@ server <- function(input, output) {
                  icon=list(iconUrl='restaurant_red.png',iconSize=c(18,18))
       )
     
+  })
+  
+  ################ Top 10 Restaurants ################
+  output$top_rest <- renderTable({
+    rest_c <- restaurant[!is.na(numextract(restaurant$inspection.result)),]
+    rest_c <- rest_c[rest_c$categories==input$rest_cat,]
+    
+    # Price
+    rest_pr <- rest_c$price
+    levels(rest_pr) <- c(4, 3, 2, 1)
+    rest_pr <- as.numeric(rest_pr)/4
+    
+    # Rating
+    rest_rat <- rest_c$rating/5
+    
+    # Inspection score
+    rest_insp <- numextract(rest_c$inspection.result)
+    rest_insp <- rest_insp+107
+    rest_insp <- log(rest_insp[!is.na(rest_insp)])/max(log(rest_insp[!is.na(rest_insp)]))
+    
+    # Distance score
+    loc_score <- geocode(input$rest_address)
+    rlat2 <- rest_c$lat
+    rlon2 <- rest_c$lon
+    rloc2 <- cbind(rlon2, rlat2)
+    rloc2 <- as.matrix(rloc2)
+    rest_dist <- distHaversine(rloc2, loc_score)
+    rest_dist <- (max(rest_dist)-rest_dist)/max(rest_dist)
+    
+    # Calculating score
+    r_i <- input$rest_inspection
+    r_r <- input$rest_rate
+    r_d <- input$rest_distance
+    r_p <- input$rest_price
+    r_i <- 0.25*r_i
+    r_r <- 0.25*r_r
+    r_d <- 0.25*r_d
+    r_p <- 0.25*r_p
+    
+    U.Score <- round(r_i*rest_insp + r_r*rest_rat + r_d*rest_dist + r_p*rest_pr,3)
+    
+    # table with scores
+    rest_c_s <- cbind(rest_c, U.Score)
+    colnames(rest_c_s)[14] <- "inspection" 
+    final_top_rest <- rest_c_s[,-c(1,3,5,6,7,8,10,13)]
+    Ranking <- 1:10
+    final_top_rest <- cbind(Ranking,
+                            head(final_top_rest[order(U.Score,decreasing=TRUE),],
+                                 10))
+    final_top_rest
   })
   
   #################### Stats ####################
