@@ -79,7 +79,7 @@ ui <- dashboardPage(
             br(),
             br(),
             br(),
-            h1("A Guidance for New York Travlers",style="color:white;font-family: Times New Roman;font-size: 300%;font-weight: bold;"),
+            h1("A Guidance for New York Travelers",style="color:white;font-family: Times New Roman;font-size: 300%;font-weight: bold;"),
             br(),
             br(),
             h3("Hello \"New\" Yorkers",style="color:white;font-family: Times New Roman;font-size: 200%;font-weight: bold;"),
