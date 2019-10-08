@@ -13,26 +13,26 @@ library(readr)
 library(plyr)
 library(tmap)
 library(sf)
-require(leaflet)
-require(raster)
-require(spData)
-require(shinydashboard)
-require(shinythemes)
-require(leaflet.extras)
-require(magrittr)
-require(gmapsdistance)
-require(plotly)
-require(googleway)
-require(mapview)
-require(shinyBS)
-require(shinyjs)
-require(htmltools)
-require(bsplus)
-require(shinyWidgets)
-require(shinycssloaders)
-require(shinycustomloader)
-require(shinyFeedback)
-require(geosphere)
+library(leaflet)
+library(raster)
+library(spData)
+library(shinydashboard)
+library(shinythemes)
+library(leaflet.extras)
+library(magrittr)
+library(gmapsdistance)
+library(plotly)
+library(googleway)
+library(mapview)
+library(shinyBS)
+library(shinyjs)
+library(htmltools)
+library(bsplus)
+library(shinyWidgets)
+library(shinycssloaders)
+library(shinycustomloader)
+library(shinyFeedback)
+library(geosphere)
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
 data <- read.csv('FINAL.csv')
@@ -45,6 +45,7 @@ final_data <- merge(filming,landmark,all = T)
 final_data <- merge(final_data,libraries,all = T)
 final_data <- merge(final_data,museums,all = T)
 final_data <- merge(final_data,restaurant,all = T)
+
 
 server <- function(input, output) {
   #################### Map ####################
@@ -74,6 +75,7 @@ server <- function(input, output) {
                    "Name:", data$name, "<br>",
                    "Address:", data$address, "<br>"
                  ),
+                 icon=list(iconUrl=paste(input$type,'.png',sep = ""),iconSize=c(18,18)),
                  clusterOptions = markerClusterOptions()
       ) 
   })
@@ -101,9 +103,9 @@ server <- function(input, output) {
     r_library_dist <- distHaversine(rloc, library_loc)
     
     rest_list <- rest_cat[r_land_dist<input$range_list |
-                          r_film_dist<input$range_list |
-                          r_museum_dist<input$range_list |
-                          r_library_dist<input$range_list,]
+                            r_film_dist<input$range_list |
+                            r_museum_dist<input$range_list |
+                            r_library_dist<input$range_list,]
     
     leaflet() %>%
       addTiles() %>%
@@ -112,8 +114,9 @@ server <- function(input, output) {
       addMarkers(data = land_loc,#LANDMARK
                  lng = ~lon, 
                  lat = ~lat,
-                 popup = paste("Landmark: ", input$land_list)
-                ) %>%
+                 popup = paste("Landmark: ", input$land_list),
+                 icon=list(iconUrl='Landmarks.png',iconSize=c(18,18))
+      ) %>%
       addCircles(data = land_loc,
                  lng = ~lon,
                  lat = ~lat,
@@ -121,12 +124,13 @@ server <- function(input, output) {
                  popup = paste("Landmark: ", input$land_list),
                  stroke = FALSE,
                  color = "green"
-                ) %>% ##
+      ) %>% ##
       addMarkers(data = film_loc,# FILM
                  lng = ~lon, 
                  lat = ~lat,
-                 popup = paste("Film: ", input$film_list)
-                ) %>%
+                 popup = paste("Film: ", input$film_list),
+                 icon=list(iconUrl='Films.png',iconSize=c(18,18))
+      ) %>%
       addCircles(data = film_loc,
                  lng = ~lon,
                  lat = ~lat,
@@ -134,12 +138,13 @@ server <- function(input, output) {
                  popup = paste("Film: ", input$film_list),
                  stroke = FALSE,
                  color ="black"
-                ) %>% ##
+      ) %>% ##
       addMarkers(data = museum_loc,# MUSEUM
                  lng = ~lon, 
                  lat = ~lat,
-                 popup = paste("Museum: ", input$museum_list)
-                ) %>%
+                 popup = paste("Museum: ", input$museum_list),
+                 icon=list(iconUrl='Museums.png',iconSize=c(18,18))
+      ) %>%
       addCircles(data = museum_loc,
                  lng = ~lon,
                  lat = ~lat,
@@ -147,12 +152,13 @@ server <- function(input, output) {
                  popup = paste("Museum: ", input$museum_list),
                  stroke = FALSE,
                  color= "brown"
-                ) %>% ##
+      ) %>% ##
       addMarkers(data = library_loc,# LIBRARY
                  lng = ~lon, 
                  lat = ~lat,
-                 popup = paste("Library: ", input$library_list)
-                ) %>%
+                 popup = paste("Library: ", input$library_list),
+                 icon=list(iconUrl='Libraries.png',iconSize=c(18,18))
+      ) %>%
       addCircles(data = library_loc,
                  lng = ~lon,
                  lat = ~lat,
@@ -160,7 +166,7 @@ server <- function(input, output) {
                  popup = paste("Library: ", input$library_list),
                  stroke = FALSE,
                  color="red"
-                ) %>% ##
+      ) %>% ##
       
       addMarkers(data = rest_list,
                  lng = ~lon, 
@@ -171,13 +177,13 @@ server <- function(input, output) {
                    "Rating / Price level:", rest_list$rating, " / ", 
                    rest_list$price, "<br>",
                    "Address:", rest_list$address, "<br>",
-                   "Phone #:", rest_list$tel, "<br>")
-                )
+                   "Phone #:", rest_list$tel, "<br>"),
+                 icon=list(iconUrl='restaurant_red.png',iconSize=c(18,18))
+      )
     
   })
   
-############ stats
-  data<-read.csv('FINAL.csv',header = TRUE)
+  #################### Stats ####################
   restaurant1<-data[which(data$Type=="restaurant"),][sample(1:3165,400),]
   df<-rbind(data[which((data$Type=="film")|(data$Type=="landmarks")|(data$Type=="library")),],restaurant1)
   
@@ -226,31 +232,29 @@ server <- function(input, output) {
     }
   })
   
-  #table
-  output$datatable2 <- renderDataTable(
-                         options = list(pageLength = 10, autowidth = TRUE),
-                         {
-                           if (input$details == "Films"){
-                             data %>% filter(Type=="film")%>%
-                               select(Name, Year, Director, Address, Borough)
-                           }
-                           else if(input$details == "Landmarks"){
-                             data %>% filter(Type=="landmarks")%>%
-                               select(Name, Year, Address, Borough, Number_of_Complaints,Style,Material,Use)
-                           }
-                           else if(input$details == "Museums"){
-                             data %>% filter(Type=="Museum")%>%
-                               select(Name, Address, Tel,Url)
-                           }
-                           else if(input$details == "Libraries"){
-                             data %>% filter(Type=="library")%>%
-                               select(Name, Address, Borough,System)
-                           }
-                           else if(input$details == "Restaurants"){
-                             data %>% filter(Type=="restaurant")%>%
-                               select(Name, Address, Borough,Categories,Phone,Rating,Price,Zip_code)
-                           }
-                         }
-  )
+  #################### Directory ####################
+  output$film_dir <- renderDataTable({ 
+    data %>% filter(Type=="film")%>%
+      select(Name, Year, Director, Address, Borough)
+  })
   
+  output$land_dir <- renderDataTable({ 
+    data %>% filter(Type=="landmarks")%>%
+      select(Name, Year, Address, Borough, Number_of_Complaints,Style,Material,Use)
+  })
+  
+  output$lib_dir <- renderDataTable({ 
+    data %>% filter(Type=="library")%>%
+      select(Name, Address, Borough,System)
+  })
+  
+  output$museum_dir <- renderDataTable({ 
+    data %>% filter(Type=="Museum")%>%
+      select(Name, Address, Tel,Url)
+  })
+  
+  output$res_dir <- renderDataTable({ 
+    data %>% filter(Type=="restaurant")%>%
+      select(Name, Address, Borough,Categories,Phone,Rating,Price,Zip_code)
+  })
 }
