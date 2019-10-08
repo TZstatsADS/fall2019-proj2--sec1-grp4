@@ -54,6 +54,8 @@ ui <- dashboardPage(
       menuItem("Introduction", tabName = "intro", icon = icon("fas fa-info")),
       menuItem("Map", tabName = "mapping", icon = icon("map")),
       menuItem("List", tabName = "listing", icon = icon("fas fa-list")),
+      menuItem("Top 10", icon = icon("fas fa-crown"), 
+               tabName = "top"),
       menuItem("Stats", icon = icon("fas fa-chart-bar"), tabName = "stat"),
       menuItem("Directory", icon = icon("book"), tabName = "directory")
     )
@@ -157,6 +159,34 @@ ui <- dashboardPage(
           
         )
       ), # tabitem - lists
+      
+      tabItem( # Top 10 Restaurants
+        tabName = "top",
+        fluidPage(
+          sidebarLayout(
+            sidebarPanel(
+              textInput(h3("Location"), inputId = "rest_address"),
+              selectInput(inputId = "rest_cat", 
+                          label= "Restaurant Categories",
+                          choices = unique(restaurant$categories)),
+              br(),
+              sliderInput(inputId = "rest_inspection", "Inspection Importance: ",
+                          min=0, max=10, value=5, step=0.1),
+              sliderInput(inputId = "rest_rate", "Rating Importance: ",
+                          min=0, max=10, value=5, step=0.1),
+              sliderInput(inputId = "rest_distance", "Distance Importance: ",
+                          min=0, max=10, value=5, step=0.1),
+              sliderInput(inputId = "rest_price", "Price Importance: ",
+                          min=0, max=10, value=5, step=0.1),
+              submitButton("What to eat?")
+            ),
+            mainPanel(
+              h3("Top 10 Restaurants for YOU!"),
+              tableOutput("top_rest")
+            )
+          )
+        )
+      ), #tabItem top-10
       
       tabItem( # stats
         tabName = "stat",

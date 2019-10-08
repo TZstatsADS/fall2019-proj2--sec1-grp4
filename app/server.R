@@ -33,6 +33,11 @@ library(shinycssloaders)
 library(shinycustomloader)
 library(shinyFeedback)
 library(geosphere)
+library(stringr)
+numextract <- function(string){ 
+  str_extract(string, "\\-*\\d+\\.*\\d*")
+} 
+
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
 
@@ -199,7 +204,7 @@ server <- function(input, output) {
     rest_rat <- rest_c$rating/5
     
     # Inspection score
-    rest_insp <- numextract(rest_c$inspection.result)
+    rest_insp <- as.numeric(numextract(rest_c$inspection.result))
     rest_insp <- rest_insp+107
     rest_insp <- log(rest_insp[!is.na(rest_insp)])/max(log(rest_insp[!is.na(rest_insp)]))
     
