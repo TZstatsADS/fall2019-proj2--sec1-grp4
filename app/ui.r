@@ -11,8 +11,6 @@ ui <- dashboardPage(
                         menuItem("Map", tabName = "mapping", icon = icon("map")),
                         menuItem("List", tabName = "listing", icon = icon("fas fa-list")),
                         menuItem("Stats", icon = icon("fas fa-chart-bar"), tabName = "stat"),
-                        menuItem("Crime", icon = icon("fas fa-exclamation-triangle"), 
-                                 tabName = "crime"),
                         menuItem("Directory", icon = icon("book"), tabName = "directory")
                 )
           ),
@@ -28,7 +26,7 @@ ui <- dashboardPage(
                         h2("New York Travlers,"),
                         p("This app is made to make your New York adventure go as smooth as possible."),
                         br(),
-                        img(src="newyorkmap.png", height=200, width=240),
+                        img(src="newyorkmap.png", height=150, width=200),
                         br(),
                         br(),
                         "This app is a product of ",
@@ -163,10 +161,6 @@ ui <- dashboardPage(
               )
               
             ), # tabitem - stat
-        
-            tabItem( # crime info
-              tabName = "crime"
-            ), # tabitem - crime
         
             tabItem( # directory of data
               tabName = "directory"

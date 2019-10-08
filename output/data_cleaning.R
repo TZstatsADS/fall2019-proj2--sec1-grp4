@@ -21,7 +21,7 @@ colnames(restaurant)[4] <- 'borough'
 colnames(restaurant)[6:8] <- c('zipcode','lat','lon')
 colnames(restaurant)[10] <- 'tel'
 restaurant <- restaurant %>%      
-  select(type,name,borough,address,zipcode,lat,lon,categories,tel,review_count,rating,price) 
+  select(type,name,borough,address,zipcode,lat,lon,categories,tel,review_count,rating,price,inspection.date,inspection.result) 
 restaurant$type <- 'Restaurants'
 write_csv(restaurant, "../output/Final_Restaurant.csv")
 

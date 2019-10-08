@@ -5,6 +5,8 @@ account: yexuanhong
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1293431
-bundleId: 2475344
+bundleId: 2478150
 url: https://yexuanhong.shinyapps.io/proj2_final/
-when: 1570426718.04512
+when: 1570488624.98348
+asMultiple: FALSE
+asStatic: FALSE
