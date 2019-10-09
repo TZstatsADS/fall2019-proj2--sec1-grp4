@@ -34,6 +34,13 @@ library(shinycustomloader)
 library(shinyFeedback)
 library(geosphere)
 library(stringr)
+library(maps)
+library(sp)
+library(ggmap)
+library(maptools)
+library(broom)
+library(httr)
+library(rgdal)
 numextract <- function(string){ 
   str_extract(string, "\\-*\\d+\\.*\\d*")
 } 
@@ -41,7 +48,7 @@ numextract <- function(string){
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
 
-setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\output')
+setwd('/Users/runzi/Documents/applied_data_science/shiny/fall2019-proj2--sec1-grp4/output')
 data <- read.csv('../output/FINAL.csv')
 filming <- read.csv('../output/Final_Filming.csv')
 landmark <- read.csv('../output/Final_Landmarks.csv')
@@ -52,6 +59,12 @@ final_data <- merge(filming,landmark,all = T)
 final_data <- merge(final_data,libraries,all = T)
 final_data <- merge(final_data,museums,all = T)
 final_data <- merge(final_data,restaurant,all = T)
+good_restaurant <- data.frame(restaurant %>%filter(rating>=4.0)%>%group_by(borough) %>% summarise(n()))
+neighborhoods<-read.csv("../output/neighborhood.csv")
+nyc_districts_map<-read.csv("../output/nyc_districts_map.csv")
+choro<-read.csv("../output/choro.csv")
+mids1<-read.csv("../output/mids1.csv")
+
 
 
 server <- function(input, output) {
@@ -280,15 +293,45 @@ server <- function(input, output) {
   p3 <- ggplotly(p2)
   #output$plot2<-renderPlot(p3)
   
-  
+  #
   output$Plot1<-renderPlotly({
-    if (input$basic_info == "plot1"){
       p
-    }
-    else if  (input$basic_info == "plot2"){
-      p3
-    }
   })
+  
+  output$Plot2<-renderPlotly({
+    p3
+  })
+  
+  
+  #heatmap map
+  gg <- ggplot()
+  gg <- gg + geom_map(data=nyc_districts_map, map=nyc_districts_map,
+                      aes(x=long, y=lat, map_id=id),
+                      color="#2b2b2b", size=0.15, fill=NA)
+  gg <- gg + geom_map(data=choro, map=nyc_districts_map,
+                      aes(fill=fill, map_id=district),
+                      color="#2b2b2b", size=0.15)
+  
+  gg <- gg + geom_text(data=mids1, aes(x=x, y=y, label=rating), size=2)
+  gg <- gg + geom_text(data=mids1, aes(x=x+0.005, y=y+0.005, label=price), size=2)+labs(title = "Restaurants Information In Mahattan")
+  gg<-gg+scale_fill_identity(guide = FALSE) 
+  #gg <- gg + scale_fill_identity()
+  gg <- gg + coord_map()+theme(plot.title = element_text(hjust = 0.5))
+  gg <- gg + ggthemes::theme_map()
+  
+  output$Plot3<-renderPlot({
+    gg
+  })
+  
+  #pie chart
+  output$Plot4 <- renderPlotly({
+    plot_ly(good_restaurant, labels = ~borough, values = ~n.., type = 'pie') %>%
+      layout(title = 'Good Restaurants Distribution in New York City',
+             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+             yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+    
+  })
+  
   
   #################### Directory ####################
   output$film_dir <- renderDataTable({ 

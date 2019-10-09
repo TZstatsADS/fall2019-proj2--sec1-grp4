@@ -33,9 +33,19 @@ library(shinycssloaders)
 library(shinycustomloader)
 library(shinyFeedback)
 library(geosphere)
+library(stringr)
+library(maps)
+library(sp)
+library(ggmap)
+library(maptools)
+library(broom)
+library(httr)
+library(rgdal)
+
+
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
-setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\app')
+setwd('/Users/runzi/Documents/applied_data_science/shiny/fall2019-proj2--sec1-grp4/app')
 data <- read.csv('../output/FINAL.csv')
 filming <- read.csv('../output/Final_Filming.csv')
 landmark <- read.csv('../output/Final_Landmarks.csv')
@@ -46,6 +56,12 @@ final_data <- merge(filming,landmark,all = T)
 final_data <- merge(final_data,libraries,all = T)
 final_data <- merge(final_data,museums,all = T)
 final_data <- merge(final_data,restaurant,all = T)
+
+neighborhoods<-read.csv("../output/neighborhood.csv")
+nyc_districts_map<-read.csv("../output/nyc_districts_map.csv")
+choro<-read.csv("../output/choro.csv")
+mids1<-read.csv("../output/mids1.csv")
+
 
 
 ui <- dashboardPage(
@@ -189,34 +205,20 @@ ui <- dashboardPage(
         )
       ), #tabItem top-10
       
-      tabItem( # stats
+      
+      
+      tabItem( # directory of data
         tabName = "stat",
-        fluidPage(
-          sidebarLayout(
-            absolutePanel(NULL, id = "controls", class = "panel panel-default", fixed = TRUE,draggable = TRUE, left = "auto", right = 20,
-                          top = 90, bottom = "auto", width = 250, height = "auto", cursor = "move",
-                          uiOutput("uni_reset", inline = TRUE),
-                          fluidRow(column(12, align = "center", offset = 0,
-                                          actionButton("reset_input2", "Reset"),
-                                          tags$style(type = "text/css", "#reset_input2 {width:100%}")
-                          )
-                          )
-            ),
-            mainPanel(
-              width = 10,
-              tabsetPanel(type = "tabs",
-                          tabPanel(strong("Basic Infomation"), 
-                                   radioButtons("basic_info", NULL,choices = c("plot1","plot2"), 
-                                                inline = TRUE
-                                   ),
-                                   
-                                   plotlyOutput("Plot1")
-                          )
-              ),
-              position = "right"
-            )
-          )
-        )
+        navbarPage("Basic Infomation",
+                   tabPanel(strong("Distribution"),
+                            plotlyOutput("Plot1"),
+                            plotlyOutput("Plot2")
+                   ),
+                   tabPanel(strong("Restaurants Stats"),
+                            plotlyOutput("Plot3"),
+                            plotlyOutput("Plot4")
+                   )
+                  )
         
       ), # tabitem - stat
       
