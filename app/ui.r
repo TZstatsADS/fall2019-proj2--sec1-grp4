@@ -65,6 +65,7 @@ mids1<-read.csv("../output/mids1.csv")
 
 
 ui <- dashboardPage(
+  skin = "purple",
   dashboardHeader(title = "\"New\" Yorkers"),
   dashboardSidebar(
     sidebarMenu(
