@@ -37,8 +37,8 @@ Term: Fall 2019
 		   yl4062, xy2387
 
 	+ UI Design
-		+ Created the five-page frame: xy2387, sc4393
-		+ Welcome page UI: sc4393
+		+ Created the five-page frame: sc4393
+		+ Welcome page UI: xy2387, sc4393
 		+ Stats and Direcotry page UI: rq2156
 		
 		
