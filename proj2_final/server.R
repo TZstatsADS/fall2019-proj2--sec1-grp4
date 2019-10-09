@@ -35,6 +35,7 @@ library(shinyFeedback)
 library(geosphere)
 library(ggthemes)
 library(stringr)
+library(mapproj)
 numextract <- function(string){ 
   str_extract(string, "\\-*\\d+\\.*\\d*")
 } 
