@@ -51,10 +51,10 @@ final_data <- merge(final_data,libraries,all = T)
 final_data <- merge(final_data,museums,all = T)
 final_data <- merge(final_data,restaurant,all = T)
 good_restaurant <- data.frame(restaurant %>%filter(rating>=4.0)%>%group_by(borough) %>% summarise(n()))
-neighborhoods<-read.csv("../output/neighborhood.csv")
-nyc_districts_map<-read.csv("../output/nyc_districts_map.csv")
-choro<-read.csv("../output/choro.csv")
-mids1<-read.csv("../output/mids1.csv")
+neighborhoods<-read.csv("neighborhood.csv")
+nyc_districts_map<-read.csv("nyc_districts_map.csv")
+choro<-read.csv("choro.csv")
+mids1<-read.csv("mids1.csv")
 
 server <- function(input, output) {
   #################### Map ####################
