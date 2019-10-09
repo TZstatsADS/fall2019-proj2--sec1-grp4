@@ -20,7 +20,7 @@ The **learning goals** for this project is:
 ## NYC Tour Guide: a shiny app for travel plan
 Term: Fall 2019
 
-+ [Shiny App Link](https://yexuanhong.shinyapps.io/proj2_final/）
++ Shiny App Link: https://yexuanhong.shinyapps.io/proj2_final/
 + Team members
 	+ Cho, Sung In: sc4393@columbia.edu
 	+ Li, Yanan: yl4062@columbia.edu
