@@ -24,7 +24,7 @@ Term: Fall 2019
 + Team members
 	+ Cho, Sung In: sc4393@columbia.edu
 	+ Li, Yanan: yl4062@columbia.edu
-	+ Qiang, Runzi: rq2156@columbia.edu
+	+ Qiang, Runzi: rq2156@columbia.edu (Presenter)
 	+ Ye, Xuanhong: xy2387@columbia.edu
  
 
