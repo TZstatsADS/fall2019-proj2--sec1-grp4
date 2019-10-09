@@ -44,8 +44,6 @@ Term: Fall 2019
 	
 		
 	+ Server - Map Page   :  sc4393
-		+ Input selection : cx2225, xz2740
-		+ DataTable ouput : cx2225, yl3965
 		+ Reset map button: cx2225
 		+ Create Map : cx2225, sc4393
 		
