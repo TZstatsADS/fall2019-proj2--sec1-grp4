@@ -31,20 +31,20 @@ Term: Fall 2019
 		   yl4062, xy2387
 
 	+ UI Design
-		+ Created the five-page frame: xy2387
-		+ Welcome page UI: sc4393
-		+ Navigation bar and sidebar CSS design: 
-		+ Search page choice input, dataTable and map layout: 
+		+ Created the five-page frame: sc4393, xy2387
+		+ Welcome page UI: xy2387, sc4393
+		+ Navigation bar and sidebar CSS design: sc4393
+		+ Search page choice input, dataTable and map layout: sc4393
 	
 		
 	+ Server - Map Page   :  sc4393
 		+ Input selection : cx2225, xz2740
 		+ DataTable ouput : cx2225, yl3965
 		+ Reset map button: cx2225
-		+ Create Map : cx2225
+		+ Create Map : cx2225, sc4393
 		
 		
-	+ Server - List Page  : xy2387
+	+ Server - List Page  : sc4393
 		
 	+ Server - Top 10 Page : sc4393
 		
