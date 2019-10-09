@@ -10,7 +10,7 @@
 ![screenshot](screenshot6.png)
 
 
-In this second project of GR5243 Applied Data Science, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic :NYC Tour Guide Application, which using [NYC Open Data](https://opendata.cityofnewyork.us/) and  restaurant-related data crawled from Yelp. See [Project 2 Description](doc/project2_desc.md) for more details.  
+In this second project of GR5243 Applied Data Science, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic :NYC Tour Guide Application, which using [NYC Open Data](https://opendata.cityofnewyork.us/) and  restaurant-related data crawled from Yelp. 
 
 The **learning goals** for this project is:
 - shiny app development for practical daily tool
@@ -39,6 +39,8 @@ Term: Fall 2019
 	+ UI Design
 		+ Created the five-page frame: xy2387, sc4393
 		+ Welcome page UI: sc4393
+		+ Stats and Direcotry page UI: rq2156
+		
 		
 	+ Server - Map Page   :  sc4393, xy2387
 		
