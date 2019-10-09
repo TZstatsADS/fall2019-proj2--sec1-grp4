@@ -43,7 +43,7 @@ Term: Fall 2019
 		+ Search page choice input, dataTable and map layout: 
 	
 		
-	+ Server - Map Page   :  sc4393
+	+ Server - Map Page   :  sc4393, xy2387
 		+ Input selection : cx2225, xz2740
 		+ DataTable ouput : cx2225, yl3965
 		+ Reset map button: cx2225
