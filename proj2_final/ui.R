@@ -78,7 +78,7 @@ ui <- dashboardPage(
             br(),
             br(),
             br(),
-            h1("A Guidance for New York Travlers",style="color:white;font-family: Times New Roman;font-size: 300%;font-weight: bold;"),
+            h1("A Guidance for New York Travelers",style="color:white;font-family: Times New Roman;font-size: 300%;font-weight: bold;"),
             br(),
             br(),
             h3("Hello \"New\" Yorkers",style="color:white;font-family: Times New Roman;font-size: 200%;font-weight: bold;"),
@@ -188,33 +188,17 @@ ui <- dashboardPage(
         )
       ), #tabItem top-10
       
-      tabItem( # stats
+      tabItem( # directory of data
         tabName = "stat",
-        fluidPage(
-          sidebarLayout(
-            absolutePanel(NULL, id = "controls", class = "panel panel-default", fixed = TRUE,draggable = TRUE, left = "auto", right = 20,
-                          top = 90, bottom = "auto", width = 250, height = "auto", cursor = "move",
-                          uiOutput("uni_reset", inline = TRUE),
-                          fluidRow(column(12, align = "center", offset = 0,
-                                          actionButton("reset_input2", "Reset"),
-                                          tags$style(type = "text/css", "#reset_input2 {width:100%}")
-                          )
-                          )
-            ),
-            mainPanel(
-              width = 10,
-              tabsetPanel(type = "tabs",
-                          tabPanel(strong("Basic Infomation"), 
-                                   radioButtons("basic_info", NULL,choices = c("plot1","plot2"), 
-                                                inline = TRUE
-                                   ),
-                                   
-                                   plotlyOutput("Plot1")
-                          )
-              ),
-              position = "right"
-            )
-          )
+        navbarPage("Basic Infomation",
+                   tabPanel(strong("Distribution"),
+                            plotlyOutput("Plot1"),
+                            plotlyOutput("Plot2")
+                   ),
+                   tabPanel(strong("Restaurants Stats"),
+                            plotOutput("Plot3"),
+                            plotlyOutput("Plot4")
+                   )
         )
         
       ), # tabitem - stat

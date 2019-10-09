@@ -33,6 +33,7 @@ library(shinycssloaders)
 library(shinycustomloader)
 library(shinyFeedback)
 library(geosphere)
+library(ggthemes)
 library(stringr)
 numextract <- function(string){ 
   str_extract(string, "\\-*\\d+\\.*\\d*")
@@ -49,7 +50,11 @@ final_data <- merge(filming,landmark,all = T)
 final_data <- merge(final_data,libraries,all = T)
 final_data <- merge(final_data,museums,all = T)
 final_data <- merge(final_data,restaurant,all = T)
-
+good_restaurant <- data.frame(restaurant %>%filter(rating>=4.0)%>%group_by(borough) %>% summarise(n()))
+neighborhoods<-read.csv("../output/neighborhood.csv")
+nyc_districts_map<-read.csv("../output/nyc_districts_map.csv")
+choro<-read.csv("../output/choro.csv")
+mids1<-read.csv("../output/mids1.csv")
 
 server <- function(input, output) {
   #################### Map ####################
@@ -268,7 +273,7 @@ server <- function(input, output) {
   x1<-data.frame(data %>%filter((Type=="film")|(Type=="landmarks")|(Type=="library")|(Type=="restaurant"))%>%group_by(Type) %>% summarise(n()))
   y1<-data.frame(data %>% filter((Borough=="Brooklyn")|(Borough=="Manhattan")|(Borough=="Queens")|(Borough=="The Bronx"))%>%group_by(Type,Borough) %>% summarise(n()))
   scatter_new<-data.frame("X"=c(rep(x1[1,2],4),rep(x1[2,2],4),rep(x1[3,2],3),rep(x1[4,2],3)),"Y"=y1)
-  scatter1<-data.frame(scatter_new,"percent"=round(scatter$Y.n../scatter$X,digit=2))
+  scatter1<-data.frame(scatter,"percent"=round(scatter$Y.n../scatter$X,digit=2))
   p2 <- ggplot() + 
     geom_bar(aes(y = percent, x = Y.Type, fill = Y.Borough), 
              data = scatter1, stat = "identity")+ labs(x = "entertainment type", title = "The distribution of Sites per Borough")+
@@ -276,15 +281,46 @@ server <- function(input, output) {
   p3 <- ggplotly(p2)
   #output$plot2<-renderPlot(p3)
   
-  
+  #
   output$Plot1<-renderPlotly({
-    if (input$basic_info == "plot1"){
-      p
-    }
-    else if  (input$basic_info == "plot2"){
-      p3
-    }
+    p
   })
+  
+  output$Plot2<-renderPlotly({
+    p3
+  })
+  
+  
+  #heatmap map
+  gg <- ggplot()
+  gg <- gg + geom_map(data=nyc_districts_map, map=nyc_districts_map,
+                      aes(x=long, y=lat, map_id=id),
+                      color="#2b2b2b", size=0.15, fill=NA)
+  gg <- gg + geom_map(data=choro, map=nyc_districts_map,
+                      aes(fill=fill, map_id=district),
+                      color="#2b2b2b", size=0.15)
+  
+  gg <- gg + geom_text(data=mids1, aes(x=x, y=y, label=rating), size=2)
+  gg <- gg + geom_text(data=mids1, aes(x=x+0.005, y=y+0.005, label=price), size=2)+labs(title = "Restaurants Information In Mahattan")
+  gg<-gg+scale_fill_identity(guide = FALSE) 
+  #gg <- gg + scale_fill_identity()
+  gg <- gg + coord_map()+theme(plot.title = element_text(hjust = 0.5))
+  gg <- gg + ggthemes::theme_map()
+  
+  output$Plot3 <- renderPlot({
+    gg
+  })
+  
+  #pie chart
+  output$Plot4 <- renderPlotly({
+    plot_ly(good_restaurant, labels = ~borough, values = ~n.., type = 'pie') %>%
+      layout(title = 'Good Restaurants Distribution in New York City',
+             xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+             yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+    
+  })
+  
+  
   
   #################### Directory ####################
   output$film_dir <- renderDataTable({ 

@@ -45,7 +45,7 @@ library(rgdal)
 
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
-setwd('/Users/runzi/Documents/applied_data_science/shiny/fall2019-proj2--sec1-grp4/app')
+setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\app')
 data <- read.csv('../output/FINAL.csv')
 filming <- read.csv('../output/Final_Filming.csv')
 landmark <- read.csv('../output/Final_Landmarks.csv')
@@ -215,7 +215,7 @@ ui <- dashboardPage(
                             plotlyOutput("Plot2")
                    ),
                    tabPanel(strong("Restaurants Stats"),
-                            plotlyOutput("Plot3"),
+                            plotOutput("Plot3"),
                             plotlyOutput("Plot4")
                    )
                   )
