@@ -35,7 +35,7 @@ Term: Fall 2019
 
 	+ Data Cleaning
 		+ Cleaned and formalized landmarks, filming site, restaurants, libraries, and museum datasets: 
-		   yl4062, xy2387
+		   yl4062, xy2387, sc4393
 
 	+ UI Design
 		+ Created the five-page frame: sc4393, xy2387
