@@ -41,7 +41,6 @@ library(maptools)
 library(broom)
 library(httr)
 library(rgdal)
-library(ggthemes)
 numextract <- function(string){ 
   str_extract(string, "\\-*\\d+\\.*\\d*")
 } 
@@ -49,7 +48,7 @@ numextract <- function(string){
 register_google(key="AIzaSyC37N09VQDrlBw-myPO42263tqOj_He9xA")
 
 
-setwd('D:\\CUSTAT\\5243\\fall2019-proj2--sec1-grp4\\app')
+setwd('/Users/runzi/Documents/applied_data_science/shiny/fall2019-proj2--sec1-grp4/output')
 data <- read.csv('../output/FINAL.csv')
 filming <- read.csv('../output/Final_Filming.csv')
 landmark <- read.csv('../output/Final_Landmarks.csv')
@@ -255,6 +254,7 @@ server <- function(input, output) {
   })
   
   #################### Stats ####################
+  data<-read.csv('../output/FINAL.csv',header = TRUE)
   restaurant1<-data[which(data$Type=="restaurant"),][sample(1:3165,400),]
   df<-rbind(data[which((data$Type=="film")|(data$Type=="landmarks")|(data$Type=="library")),],restaurant1)
   
@@ -285,7 +285,7 @@ server <- function(input, output) {
   x1<-data.frame(data %>%filter((Type=="film")|(Type=="landmarks")|(Type=="library")|(Type=="restaurant"))%>%group_by(Type) %>% summarise(n()))
   y1<-data.frame(data %>% filter((Borough=="Brooklyn")|(Borough=="Manhattan")|(Borough=="Queens")|(Borough=="The Bronx"))%>%group_by(Type,Borough) %>% summarise(n()))
   scatter_new<-data.frame("X"=c(rep(x1[1,2],4),rep(x1[2,2],4),rep(x1[3,2],3),rep(x1[4,2],3)),"Y"=y1)
-  scatter1<-data.frame(scatter,"percent"=round(scatter$Y.n../scatter$X,digit=2))
+  scatter1<-data.frame(scatter_new,"percent"=round(scatter$Y.n../scatter$X,digit=2))
   p2 <- ggplot() + 
     geom_bar(aes(y = percent, x = Y.Type, fill = Y.Borough), 
              data = scatter1, stat = "identity")+ labs(x = "entertainment type", title = "The distribution of Sites per Borough")+
@@ -313,23 +313,22 @@ server <- function(input, output) {
                       color="#2b2b2b", size=0.15)
   
   gg <- gg + geom_text(data=mids1, aes(x=x, y=y, label=rating), size=2)
-  gg <- gg + geom_text(data=mids1, aes(x=x+0.005, y=y+0.005, label=price), size=2)+labs(title = "Restaurants Information In Mahattan")
+  gg <- gg + geom_text(data=mids1, aes(x=x+0.005, y=y+0.005, label=price), size=2)#+labs(title = "Restaurants Information In Mahattan")
   gg<-gg+scale_fill_identity(guide = FALSE) 
   #gg <- gg + scale_fill_identity()
   gg <- gg + coord_map()+theme(plot.title = element_text(hjust = 0.5))
   gg <- gg + ggthemes::theme_map()
   
-  output$Plot3 <- renderPlot({
+  output$Plot3<-renderPlot({
     gg
   })
   
   #pie chart
   output$Plot4 <- renderPlotly({
     plot_ly(good_restaurant, labels = ~borough, values = ~n.., type = 'pie') %>%
-      layout(title = 'Good Restaurants Distribution in New York City',
+      layout(title = ' ',
              xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
              yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
-    
   })
   
   
