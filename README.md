@@ -1,8 +1,14 @@
 # Project 2: Shiny App Development Version 2.0
 
-### [Project Description](doc/project2_desc.md)
+### [Project Description](README.md)
 
+![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
+![screenshot](screenshot3.png)
+![screenshot](screenshot4.png)
+![screenshot](screenshot5.png)
+![screenshot](screenshot6.png)
+
 
 In this second project of GR5243 Applied Data Science, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [NYC Open Data](https://opendata.cityofnewyork.us/) or U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
 
@@ -17,18 +23,20 @@ The **learning goals** for this project is:
 
 *The above general statement about project 2 can be removed once you are finished with your project. It is optional.
 
-## Project Title : A Guidance for New York Travelers
+## Project Title Lorem ipsum dolor sit amet
 Term: Fall 2019
 
-+ Team : Group 4
-+ **Projec title**: + A Guidance for New York Travelers
-	+ Cho, Sung In
-	+ Li, Yanan
-	+ Qiang, Runzi
-	+ Ye, Xuanhong
++ Team #
++ **Projec title**: + Team members
+	+ team member 1
+	+ team member 2
+	+ team member 3
+	+ team member 4
+	+ team member 5
 
 + **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 + **Contribution statement**: (See [Note on contributions](doc/a_note_on_contributions.md) for more details ) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
@@ -65,8 +73,9 @@ Term: Fall 2019
 	
 + **Reference**: We used part of the codes from [group 8 (Spring 2019)](https://github.com/TZstatsADS/Fall2017-project2-grp6) as reference.
 =======
+=======
+>>>>>>> 4056fd4d6fb235e85b4ff8e283358e9d2479ff4d
 + **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
->>>>>>> a4394aae735820c50e2a809729d8d3baa073cfe4
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
